@@ -1,0 +1,10 @@
+:: Parry ::
+[Fighter]
+
+Prequisites:
+	Combat expertise
+Benefit:
+	Whenever an opponent you threaten fails a melee attack against you, you receive a +2 bonus on your next melee attack roll against the opponent. This bonus does not stack with itself (in case your opponent misses multiple attacks) and lasts only until the end of your next action.
+
+Special:
+	A fighter may select parry as one of her fighter bonus feats.

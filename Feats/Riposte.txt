@@ -1,0 +1,13 @@
+:: Riposte ::
+[Fighter]
+
+Prequisites:
+	Combat expertise, parry
+Benefit:
+	Whenever an opponent you threaten fails a melee attack against you, that opponent immediately provokes an attack of opportunity from you.
+
+Normal:
+	Opponents do not provoke attacks of opportunity when they miss attacks.
+
+Special:
+	A fighter may select riposte as one of his fighter bonus feats.

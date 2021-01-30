@@ -1,0 +1,9 @@
+:: Guisette ::
+Martial One-Handed Melee
+Critical: x3
+Type: Slashing
+Damage: 1d6
+Weight: 9 lb.
+Cost: 14 gp
+
+	A guisette has reach. You can strike opponents 10 ft. away with it, but you can't use it against an adjacent foe. You can use a guisette to make trip attacks. If you are tripped during your own trip attempt, you can drop the guisette to avoid being tripped.

@@ -1,0 +1,5 @@
+:: Shield Other ::
+Abjuration
+Level: Armorer 3
+
+As 'personal shield other', except that any two creatures may share damage. The recipient of the damage is the one bearing the key item of the infusion.

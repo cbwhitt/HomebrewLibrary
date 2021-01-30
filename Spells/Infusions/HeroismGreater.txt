@@ -1,0 +1,6 @@
+:: Heroism, Greater ::
+Enchantment (Compulsion) [Mind-Affecting]
+Level: Armorer 6
+Duration: 1 min./level
+
+As 'heroism', except the creature gains a +4 morale bonus on attack rolls, saves, and skill checks, immunity to fear effects, and temporary hit points equal to your caster level (maximum 20).

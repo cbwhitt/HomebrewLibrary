@@ -1,0 +1,14 @@
+:: Magma Burst ::
+Evocation [Fire, Earth]
+Level: Sor/Wiz 2, Magmomancer 2
+Components: V,S
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Area: 10 ft. radius burst
+Duration: 1 round / level (D)
+Saving Throw: Reflex half
+Spell Resistance: Yes
+
+As you finish channeling the heat of the deep earth through your core, you stomp your foot and the ground near you explodes in a small burst of molten and solid rock.
+
+Every creature in the area takes 1d6 points of fire damage and 1d6 points of bludgeonong damage from the explosion of semi-molten rock. A successful Reflex save reduces this damage by half. The explosion coats the area in globs of molten rock for 1 round per caster level thereafter. Other creatures that start their turn in this area take an additional 1d6 fire damage from the heat.

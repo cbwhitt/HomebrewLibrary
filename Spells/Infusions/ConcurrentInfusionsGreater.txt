@@ -1,0 +1,7 @@
+:: Concurrent Infusions, Greater ::
+Transmutation
+Level: Armorer 6
+Components: V, S, F
+Target: Item or construct
+
+As 'concurrent infusions', but you can imbue three different infusions each of up to 2nd level.

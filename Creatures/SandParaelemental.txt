@@ -1,0 +1,141 @@
+:: Sand Paraelemental ::
+
+Sand paraelementals of all sizes share the following traits:
+-----
+Type: Elemental (Earth, Air, Extraplanar)
+Speed: 40 ft. (8 squares)
+Special Attacks: Sand mastery, sand trap
+Special Qualities: Elemental traits, sand glide
+Environment: Paraelemental Plane of Sand
+Organization: Solitary, pair, or essence (2-3 plus 3-6 smaller elementals)
+Treasure: None
+Alignment: Usually neutral evil
+Advancement: 1 HD (tiny), 2-3 HD (small), 4-7 HD (medium), 8-15 HD (large) 16-20 HD (huge), 21-23 HD (greater), 24+ HD (elder)
+Level Adjustment: --
+
+Sand Mastery (Ex):
+	A sand paraelemental receives a +1 bonus to attack and damage rolls against enemies standing or surrounded by sand.
+
+Sand Trap (Su):
+	Once every ten minutes, a sand paraelemental can cause an area of dry earth or sand directly underneath itself to become quicksand. The area affected is dependent on the paraelemental's size, as shown below. This effect lasts for 1 minute for every 2 HD the paraelemental has (minimum 1 minute), after which the area returns to its previous state.
+
+Table: Sand Trap Size by Size
+:: Elemental	:: Depth	:: Width (radius)	::
+----------------------------------------------------------
+:: tiny		:: 5 ft.	:: 5 ft.		::
+:: small	:: 10 ft.	:: 10 ft.		::
+:: medium	:: 10 ft.	:: 15 ft.		::
+:: large	:: 20 ft.	:: 20 ft.		::
+:: huge		:: 30 ft.	:: 25 ft.		::
+:: greater	:: 30 ft.	:: 30 ft.		::
+:: elder	:: 40 ft.	:: 35 ft.		::
+
+Sand Glide (Ex):
+	A sand paraelemental can glide through sand or other dry earth as easily as a fish swims through water. It's burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. A 'move earth' spell cast on an area containing a burrowing sand paraelemental flings it back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+-----
+
+Sand Paraelemental, Tiny:
+Size: Tiny
+Hit Dice: 1d8 (4 hp)
+Initiative: +6
+Armor Class: 17 (+2 size, +2 Dex, +3 natural), touch 14, flat-footed 15
+BAB/Grapple: +0/-9
+Attack: Slam +4 melee (1d3-1)
+Space/Reach: 0 ft./0 ft.
+Saves: Fort +0, Ref +5, Will +0
+Abilities: Str 8, Dex 15, Con 10, Int 4, Wis 11, Cha 11
+Skills: Listen +2, Spot +2
+Feats: Dodge, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 1/2
+
+Sand Paraelemental, Small:
+Size: Small
+Hit Dice: 2d8 (9 hp)
+Initiative: +5
+Armor Class: 15 (+1 size, +1 Dex, +3 natural), touch 12, flat-footed 14
+BAB/Grapple: +1/-2
+Attack: Slam +3 melee (1d4+1)
+Space/Reach: 5 ft./5 ft.
+Saves: Fort +0, Ref +5, Will +0
+Abilities: Str 12, Dex 13, Con 10, Int 4, Wis 11, Cha 11
+Skills: Listen +2, Spot +3
+Feats: Dodge, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 1
+
+Sand Paraelemental, Medium:
+Size: Medium
+Hit Dice: 4d8+8 (26 hp)
+Initiative: +7
+Armor Class: 16 (+0 size, +3 Dex, +3 natural), touch 13, flat-footed 13
+BAB/Grapple: +3/+5
+Attack: Slam +6 melee (1d6+3)
+Space/Reach: 5 ft./5 ft.
+Saves: Fort +3, Ref +7, Will +1
+Abilities: Str 14, Dex 17, Con 14, Int 4, Wis 11, Cha 11
+Skills: Listen +3, Spot +4
+Feats: Dodge, Mobility, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 3
+
+Sand Paraelemental, Large:
+Size: Large
+Hit Dice: 8d8+24 (60 hp)
+Initiative: +9
+Armor Class: 18 (-1 size, +5 Dex, +4 natural), touch 14, flat-footed 13
+BAB/Grapple: +10/+12
+Attack: Slam +10 melee (2d6+3)
+Full Attack: 2 slams +10 melee (2d6+3)
+Space/Reach: 10 ft./10 ft.
+Special Qualities: Damage reduction 5/--
+Saves: Fort +5, Ref +11, Will +2
+Abilities: Str 16, Dex 21, Con 16, Int 6, Wis 11, Cha 11
+Skills: Listen +5, Spot +6
+Feats: Dodge, Mobility, Spring Attack, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 5
+
+Sand Paraelemental, Huge:
+Size: Huge
+Hit Dice: 16d8+64 (136 hp)
+Initiative: +10
+Armor Class: 19 (-2 size, +7 Dex, +4 natural), touch 15, flat-footed 12
+BAB/Grapple: +12/+25
+Attack: Slam +18 melee (2d8+5)
+Full Attack: 2 slams +18 melee (2d8+5)
+Space/Reach: 15 ft./15 ft.
+Special Qualities: Damage reduction 5/--
+Saves: Fort +9, Ref +17, Will +7
+Abilities: Str 20, Dex 25, Con 18, Int 6, Wis 11, Cha 11
+Skills: Listen +11, Spot +12
+Feats: Dodge, Mobility, Spring Attack, Power Attack, Cleave, Iron Will, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 7
+
+Sand Paraelemental, Greater:
+Size: Huge
+Hit Dice: 21d8+84 (178 hp)
+Initiative: +12
+Armor Class: 24 (-2 size, +8 Dex, +8 natural), touch 16, flat-footed 16
+BAB/Grapple: +15/+29
+Attack: Slam +22 melee (2d8+6)
+Full Attack: 2 slams +22 melee (2d8+6)
+Space/Reach: 15 ft./15 ft.
+Special Qualities: Damage reduction 10/--
+Saves: Fort +11, Ref +22, Will +7
+Abilities: Str 22, Dex 27, Con 18, Int 8, Wis 11, Cha 11
+Skills: Listen +14, Spot +14
+Feats: Dodge, Mobility, Spring Attack, Power Attack, Cleave, Iron Will, Lightning Reflexes, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 9
+
+Sand Paraelemental, Elder:
+Size: Huge
+Hit Dice: 24d8+96 (204 hp)
+Initiative: +13
+Armor Class: 25 (-2 size, +9 Dex, +8 natural), touch 17, flat-footed 16
+BAB/Grapple: +18/+33
+Attack: Slam +26 melee (2d8+7/19-20)
+Full Attack: 2 slams +26 melee (2d8+7/19-20)
+Space/Reach: 15 ft./15 ft.
+Special Qualities: Damage reduction 10/--
+Saves: Fort +12, Ref +25, Will +10
+Abilities: Str 24, Dex 29, Con 18, Int 10, Wis 11, Cha 11
+Skills: Listen +15, Spot +16
+Feats: Dodge, Mobility, Spring Attack, Power Attack, Cleave, Iron Will, Lightning Reflexes, Improved Critical (slam), Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 11

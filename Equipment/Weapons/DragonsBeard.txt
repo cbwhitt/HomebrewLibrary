@@ -1,0 +1,16 @@
+:: Dragon's Beard ::
+Exotic One-Handed Thrown
+Critical: x2
+Ranged Increment: 10 ft.
+Type: Piercing
+Hardness: 10
+Damage: 1d4
+Weight: 5 lb.
+HP: 5
+Cost: 35 gp
+
+	You can use this weapon to make a ranged trip attack against an opponent. You can't be tripped during you own trip attempt when using a dragon's beard. A dragon's beard's maximum range is 30 ft.
+	A dragon's beard utilizes a trailing rope, and so you can retrieve it as a move action that provokes attacks of opportunity (provided you maintain a hold as you throw it out).
+	A dragon's beard can also be used as a lariat. When you do so, make a ranged touch attack agains your target. If you hit, the dragon's beard becomes wrapped around the target. This does not impose any penalty or restriction, except that if you control the trailing rope by succeeding on an opposed Strength check while holding it, the ensnared creature can move only within the limits that the rope allows. They can remove this rope without difficulty as a move action that provokes attacks of opportunity.
+	As long as the rope remains bound around your opponent and you maintain hold of the trailing rope, as a move action on your turn you can attempt to pull your opponent closer to you by making an opposed Strength check. If your opponent wins, you cannot pull them any closer to you. If you win, you can pull them up to five ft. closer to you, plus an additional 5 ft. for every 5 by which you exceed their check. This movement does not provoke attacks of opportunity.
+	A dragon's beard is a special mystic weapon. This designation gives a mystic wielding a dragon's beard special options.

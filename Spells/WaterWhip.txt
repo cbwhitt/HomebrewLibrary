@@ -1,0 +1,12 @@
+:: Water Whip ::
+Transmuation [Water]
+Level: Hydromancer 1
+Components: S
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 minute
+
+As you finish the form, water stretches out from one hand in a thin filament. With a shake, a ripple travels to the end, producing a loud crack.
+
+For the duration of the spell, you manifest an elemental whip made of water in one hand. You must continue to "hold" this whip in one hand (which occupies it as wielding a weapon ordinarily would), or the spell is dismissed. The whip is treated in most respects as a regular whip, except as noted here. You are always treated as being proficient with the water whip. It deals 1d6 lethal damage on attack, which is not prevented by an opponent having a sufficiently high armor bonus. Using the water whip does not provoke attacks of opportunity. When attempting to trip or disarm an opponent using the water whip, you receive a bonus equal to 2 plus 1 for every 2 caster levels, to a maximum of +5 at 6th level, instead of the normal bonuses a whip affords, and you cannot be tripped or disarmed if your attempt fails. Lastly, the reach of the whip is 15 ft. + 5 ft. for every two caster levels, to a maximum of 30 ft. at 6th level.

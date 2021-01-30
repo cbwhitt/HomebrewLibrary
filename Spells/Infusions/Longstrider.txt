@@ -1,0 +1,7 @@
+:: Longstrider ::
+Transmutation
+Level: Armorer 2
+Components: V, S, F
+Target: Item or construct
+
+As 'personal longstrider', except anyone can benefit from the effect.

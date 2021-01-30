@@ -1,0 +1,15 @@
+:: Buk's Illusory Immolation ::
+Illusion [Mind-Affecting, Fire]
+Level: Bard 2, Sorcerer/Wizard 2, Tefromancer 2
+Components: V,S,M
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft. / 2 levels)
+Target: One or more creatures
+Duration: Concentration, up to 1 round/level
+Saving Throw: Will negates
+Spell Resistance: Yes
+
+Your eyes gleam with a faint flame as you grind the pepper in the mortar; suddenly, your enemies writhe and scream as if alight with hellfire.
+
+You can target one creature, plus on additional creature per three levels (to a maximum of 5 creatures at 12th level).
+The targeted creatures believe themselves to be wreathed in flame, though only the caster and victims can sense them. Any attempt by those creatures to extinguish the flames will fail due to their illusory nature. Each round on its turn, the victim must make a Will save or take 2d8 points of fire damage. A successful save negates the damage and ends the effect of the spell on that creature.

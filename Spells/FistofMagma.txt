@@ -1,0 +1,11 @@
+:: Fist of Magma ::
+Transmutation [Earth, Fire]
+Level: Magmomancer 2
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 min.
+
+You plunge your fist into the earth, but as you draw it out again it it now has the appearance of molten rock, dripping somewhat onto the ground.
+
+This spell functions as "fist of stone." In addition, however, you deal an additional 1d6 fire damage with your slam attack and when you successfully make a grapple check to damage an opponent as part of a grapple.

@@ -1,0 +1,14 @@
+:: Goliaths ::
+
+	(see RoS, p. 53)
+
+	Giant (goliath)
+	+2 Strength, +2 Constitution, -4 Dexterity, -2 Charisma
+	Goliath base land speed is 30 ft.
+	Low-Light Vision
+	Powerful Build: A goliath can use weapons designed for a creature one size larger without penalty. However, her space and reach remain those of a creature of her actual size.
+	+4 racial bonus on Jump and Climb checks	
+	Acclimated: Goliaths are automatically acclimated to life at high altitude. They don't take the penalties for altitude described in the Mountain Travel section (p. 90) of the DMG. Unlike other denizens of the mountains, goliaths don't lose their acclimation to high altitude even if they spend a long time at lower elevation.
+	+2 racial bonus on Sense Motive checks
+	Automatic Languages: Common and Giant
+	Bonus Languages: Terran, Dwarf, Gnome, Auran, Orc, Gnoll, Undercommon.

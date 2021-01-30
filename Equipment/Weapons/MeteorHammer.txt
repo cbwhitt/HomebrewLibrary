@@ -1,0 +1,14 @@
+:: Meteor Hammer ::
+Exotic Two-Handed Melee
+Critical: x2
+Type: Bludgeoning
+Hardness: 10
+Damage: 1d8
+Weight: 15 lb.
+HP: 10
+Cost: 35 gp
+
+	A meteor hammer has reach, so you can strike opponents 10 ft. away with it. In addition, unlike most other weapons with reach, it can be used against an adjacent foe.
+	You can make trip attacks with the meteor hammer. If you are tripped during your own trip attempt, you can drop the meteor hammer to avoid being tripped.
+	You can use the weapon finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a meteor hammer sized for you, even though it isn't a light weapon for you.
+	A meteor hammer is a special mystic weapon. This designation gives a mystic wielding a meteor hammer special options.

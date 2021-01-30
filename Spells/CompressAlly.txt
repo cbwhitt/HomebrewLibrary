@@ -1,0 +1,18 @@
+:: Compress Ally ::
+Transmutation
+Level: Elementalist 0
+Components: S
+Casting Time: 1 round
+Range: Touch
+Target: one willing elemental ally touched
+Duration: Instantaneous
+Saving Throw: None
+Spell Resistance: Yes (harmless)
+
+With its help, you carefully draw the primal energies of your elemental ally to its core, and as you do, it compresses into a ball of pure primal essence, which easily fits into your pocket.
+
+When you cast this spell, your elemental ally is compressed into a ball of pure primal essence about 4 inches in diameter. The appearance of these orbs is individual to the caster and her ally, and can take many forms, from glass balls with swirling energy to textured earthen spheres.
+
+While in this form, for all intents and purposes your ally is treated as an inanimate object. It cannot speak, move, sense its surroundings, or do much else. You can, however, communicate with it telepathically if it is on your person. It's actions are so limited it cannot even transform back of its own accord; instead, you must spend a full round action holding and focusing on the orb to reactivate it, at the conclusion of which it rapidly decompresses to stand in an adjacent square.
+
+While in this form, your ally is highly mobile and often less problematic (e.g. transporting your fire ally across a dry field or through a busy market area), but it is also highly vulnerable. It retains its hit points and any relevant immunities and vulnerabilities and gains hardness 10, but as an inanimate fine object it has only AC 11. If your ally's hit points are reduced to 0 in this form, it is destroyed.

@@ -1,0 +1,5 @@
+:: Weapon Augmentation, Greater ::
+Transmutation
+Level: Armorer 5
+
+As 'lesser weapon augmentation', but you can choose any special ability whose market price is equivalent to a bonus of up to +4 or up to 120000 gp.

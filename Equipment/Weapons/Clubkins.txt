@@ -1,0 +1,15 @@
+:: Clubkins (5) ::
+Exotic Light Thrown Ammunition
+Critical: x3
+Ranged Increment: 10 ft.
+Type: Bludgeoning
+Hardness: 10
+Damage: 1d4
+Weight: 1 lb.
+HP: 1
+Cost: 3 gp
+
+	A clubkin can't be used as a melee weapon.
+	Although they are thrown weapons, clubkins are treated as ammunition for the purposes of drawing them and crafting masterwork or otherwise special versions of them. A clubkin that hits its target is not destroyed. One that misses has a 20% chance of being lost.
+	Prices and weights are for five clubkins.
+	A clubkin is a special mystic weapon. This designation gives a mystic wielding clubkins special options.

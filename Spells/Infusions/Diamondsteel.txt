@@ -1,0 +1,7 @@
+:: Diamondsteel ::
+Transmutation
+Level: Armorer 3
+Components: V, S, F
+Target: Armor
+
+As the spell of the same name.

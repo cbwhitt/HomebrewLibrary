@@ -1,0 +1,8 @@
+#ignoring the archives folder
+Archives/**
+#ignoring my personal notes folder
+Notes/**
+#ignoring word documents (just in case)
+*.docx
+#temporary files sneaking in?
+*.tmp

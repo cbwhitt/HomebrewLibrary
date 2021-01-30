@@ -1,0 +1,7 @@
+:: Poison Use ::
+[General]
+
+Prequisites:
+	Craft (alchemy) 3 ranks, or Craft (poisonmaking) 1 rank
+Benefit:
+	You are trained in the use of poison and never risk accidentally poisoning yourself when applying poison to a weapon or otherwise administering it.

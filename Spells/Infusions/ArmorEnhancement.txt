@@ -1,0 +1,5 @@
+:: Armor Enhancement ::
+Transmutation
+Level: Armorer 3
+
+As 'armor enhancement, lesser', but you can choose any special ability whose market price is equivalent to a bonus of up to +3 or up to 35000 gp.

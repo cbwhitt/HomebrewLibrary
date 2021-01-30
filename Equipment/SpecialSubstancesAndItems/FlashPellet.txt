@@ -1,0 +1,5 @@
+:: Flash Pellet ::
+Weight: 1 lb. (40 pellets)
+Cost: 20 gp (1 pellet)
+
+These hard, bead-sized pellets are bright white in color. They explode in a flash of light upon impact. Thet can be thrown as a grenade-like weapon with a range increment of 10 ft. All sighted creatures within 10 ft. must make a Reflex saving throw (DC 15) or be dazzled for 1 minute (dazzled creatures suffer a -1 penalty on attack rolls).

@@ -1,0 +1,12 @@
+:: Calculus ::
+Exotic Two-Handed Projectile
+Critical: x2
+Ranged Increment: 50 ft.
+Type: Varies, see text
+Hardness: 2
+Weight: 1 lb.
+HP: 2
+Cost: 13 gp
+
+	This oversized sling is designed to throw splash weapons. Ammunition deals damage according to its properties, but it gains the range increment of the calculus. When using a calculus to hurl standard sling projectiles, you may apply one and one half your Strength modifier to damage rolls.
+	Gnomes treat the calculus as a martial weapon.

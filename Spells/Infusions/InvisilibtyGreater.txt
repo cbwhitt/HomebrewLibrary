@@ -1,0 +1,6 @@
+:: Invisibility, Greater ::
+Transmutation
+Level: Armorer 4
+Target: Item or construct
+
+As the spell of the same name.

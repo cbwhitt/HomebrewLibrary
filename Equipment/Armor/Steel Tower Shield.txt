@@ -1,0 +1,12 @@
+:: Tower Shield, Steel ::
+Maximum Dex Bonus: +2
+Armor Check Penalty: -10
+Arcane Spell Failure Chance: 50%
+Hardness: 10
+Hit Points: 40
+Cost: 90 gp
+Weight: 60 lb.
+
+Shield Bonus: +4
+
+This shield functions exactly as a tower shield, except that it is made of metal, making it more difficult to break and heaver to carry.

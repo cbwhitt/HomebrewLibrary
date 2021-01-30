@@ -1,0 +1,10 @@
+:: Shield Other, Personal ::
+Abjuration
+Level: Armorer 2
+Components: V, S, F
+Target: 2 rings (see text) within 25 ft. + 5 ft./2 levels
+
+As the spell 'shield other'. The effect can be activated without the other creature in range, but does not function until they enter within range. If they subsequently leave range, the effect is dimissed. If one of the rings is removed from its bearer, the effect does not function, but is not dismissed. The other ring may change possession, altering which creature is shielded by the infusion.
+
+Focus:
+A pair of platinum rings (worth at least 50 gp each) worn by both you and the warded creature. These rings are the two items that must be imbued by the infusion. Either may be designated as the key item, but the damage is always absorbed by you.

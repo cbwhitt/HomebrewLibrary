@@ -1,0 +1,9 @@
+:: Telepathic Bond ::
+Divination
+Level: Armorer 5
+Components: V, S, F
+Target: Up to one item or construct per three levels within 30 ft.
+Saving Throw: Harmless (object)
+Spell Resistance: No
+
+As the spell of the same name. You are not automatically included in the effect. Only a willing item bearer or construct is subject to the bond, though different creatures may enter and leave the telepathic effect by taking possession of the appropriate item.

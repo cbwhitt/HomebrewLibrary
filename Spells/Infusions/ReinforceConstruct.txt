@@ -1,0 +1,10 @@
+:: Reinforce Construct ::
+Transmutation
+Level: Armorer 2
+Components: V, S, F
+Target: Construct
+Duration: 1 hour/level or until discharged; see text
+Saving Throw: Will negates (harmless)
+Spell Resistance: No
+
+You bolster a construct's frame making it better able to withstand blows. The construct gains temporary hit points equal to 1d6 + 1 per caster level (maximum +10).

@@ -1,0 +1,12 @@
+:: Blink, Greater ::
+Transmutation
+Level: Armorer 6
+Components: V, S, F
+Target: Item or construct
+Saving Throw: Will negates (harmless)
+Spell Resistance: Yes (harmless)
+
+As 'greater personal blink', except that any creature can benefit from the effect.
+
+
+

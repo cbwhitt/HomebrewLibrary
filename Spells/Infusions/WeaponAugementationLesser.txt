@@ -1,0 +1,6 @@
+:: Weapon Augmentation, Lesser ::
+Transmutation
+Level: Armorer 2
+Target: Weapon (including the natural weapon of a construct)
+
+As 'personal weapon augmentation', but any character can wield the weapon you augment.

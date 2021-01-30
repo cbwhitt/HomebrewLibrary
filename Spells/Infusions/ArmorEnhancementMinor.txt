@@ -1,0 +1,5 @@
+:: Armor Enhancement, Minor ::
+Transmutation
+Level: Armorer 2
+
+As 'lesser armor enhancement', but you can choose any special ability whose market price is equivalent to a bonus of up to +2 or up to 15000 gp.

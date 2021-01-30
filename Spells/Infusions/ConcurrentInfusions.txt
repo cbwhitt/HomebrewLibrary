@@ -1,0 +1,10 @@
+:: Concurrent Infusions ::
+Transmutation
+Level: Armorer 4
+Components: V, S, F
+Target: Item or construct
+Duration: Instantaneous, see text
+Saving Throw: None (object)
+Spell Resistance: No (object)
+
+When you imbue this infusion, you imbue the target object or construct with the effects of three different 1st-level infusions chosen at that time. The infusions function exactly as if you had imbued them in the object or construct, and do not count against your daily allotment. Unlike other infusions, you need not activate this infusion, the three infusions are simply imbued in the object and can be activated themselves in their own right.

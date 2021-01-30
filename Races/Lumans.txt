@@ -1,0 +1,16 @@
+:: Lumans ::
+
+	+2 Intelligence, -2 Constitution
+	Outsider (native, light)
+	Medium: As Medium creatures, lumans have no special bonuses or penalties due to their size.
+	Luman base land speed is 30 feet.
+	Darkvision
+	Radiant: A luman can make their body glow from within at will, shedding light as a torch. They may suppress or activate this glow as a swift action.
+	Knowledgeable: Luman characters treat all Knowledge skills as class skills regardless of which class they are.
+	+1 bonus on all saving throws
+	+1 racial bonus on attack rolls against noctans
+	+2 racial bonus on Search and Spot checks
+	Automatic Languages: Common and Luman.
+	Bonus Languages: Draconic, Celestial, Gnome, Sylvan, Giant, Elven, Halfling, Aquan, Auran, Terran, Ignan.
+	Favored Class: Elementalist
+	Level Adjustment: +0

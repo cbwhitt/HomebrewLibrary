@@ -1,0 +1,14 @@
+:: Downpour ::
+Evocation [Water]
+Level: Hydromancer 1
+Components: S
+Casting Time: 1 round
+Area: 100 ft. emanation, centered on you
+Duration: 10 minutes/level (D)
+Saving Throw: None
+Spell Resistance: No
+
+As you finish wiggling your fingers, the air above you thickens with moisture as grey clouds form and begin shedding raindrops.
+
+You cause clouds to gather and a heavy rain to fall. The rain reduces visibility ranges by half, resulting in a -4 penalty on Spot and Search checks. It also automatically extinguishes unprotected flames. Ranged weapon attacks and Listen checks take a -4 penalty. Fire damage in this spell's area is reduced by 1 point per die of damage.
+The water created by this spell pools at places along the ground, but evaporates very soon thereafter and therefore does not accumulate significantly (e.g. as might cause a flood).

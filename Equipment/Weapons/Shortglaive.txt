@@ -1,0 +1,9 @@
+:: Shortglaive ::
+Martial One-Handed Melee
+Critical: x3
+Type: Slashing
+Damage: 1d8
+Weight: 8 lb.
+Cost: 12 gp
+
+	A shortglaive has reach. You can strike opponents 10 ft. away with it, but you can't use it against an adjacent foe.

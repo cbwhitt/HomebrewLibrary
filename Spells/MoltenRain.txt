@@ -1,0 +1,16 @@
+:: Molten Rain ::
+Transmutation [Earth, Fire]
+Level: Magmomancer 5
+Components: S
+Casting Time: 1 standard action
+Range: Medium (100 ft. + 10 ft./level)
+Area: Cylinder (30 ft. radius, 20 ft. high)
+Duration: 1 round/level
+Saving Throw: None
+Spell Resistance: No
+
+You draw a large boulder from the earth, levitating it over the heads of your foes. With a single, firm motion of yours, a ripple runs through the bolder and liquefies it. It begins to spin in the air, shedding molten droplets which rain down over the target area.
+
+The area of the spell is filled with a rain of molten stone for the duration of the spell. Each creature in the area takes 2d6 fire damage when the spell begins, and each creature that begins their turn in the area of the spell takes an additional 2d6 fire damage.
+
+Additionally, the rain obscures all sight, including darkvision, beyond 5 ft. A creature 5 ft. away has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the atacker cannot use sight to locate the target).

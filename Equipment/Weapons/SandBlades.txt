@@ -1,0 +1,14 @@
+:: Sand Blades ::
+Exotic One-Handed Thrown Melee
+Critical: x3
+Range Increment: 20 ft.
+Type: Slashing
+Hardness: 10
+Damage: 1d6
+Weight: 3 lb.
+HP: 5
+Cost: 25 gp
+
+	You can use this weapon to make a ranged trip attack against an opponent. You can't be tripped during your own trip attempt when using a set of sand blades.
+	You can use this weapon to make a ranged disarm attack against an opponent. You can't be disarmed during your own disarm attempt when using a set of sand blades.
+	Qeria treat sand blades as martial weapons.

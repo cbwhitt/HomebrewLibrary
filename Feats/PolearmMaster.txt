@@ -1,0 +1,13 @@
+:: Polearm Master ::
+[Fighter]
+
+Prequisites:
+	Base attack bonus +3, proficiency with a reach weapon
+Benefit:
+	When using a reach weapon, you may attack enemies adjacent (within 5 ft. for a medium creature) to you in addition to enemies at reach (5-20 ft. away for a medium creature).
+
+Normal:
+	A medium creature can only use a reach weapon to attac enemies 10 ft. away and not adjacent enemies.
+
+Special:
+	A fighter may select polearm master as one of her fighter bonus feats.

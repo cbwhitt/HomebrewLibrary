@@ -1,0 +1,7 @@
+:: Bristle ::
+Transmutation
+Level: Armorer 2
+Components: V, S, F
+Target: Armor
+
+As the spell of the same name.

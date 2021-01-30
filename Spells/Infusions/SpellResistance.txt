@@ -1,0 +1,7 @@
+:: Spell Resistance ::
+Abjuration
+Level: Armorer 5
+Components: V, S, F
+Target: Item or construct
+
+As the spell of the same name.

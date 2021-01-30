@@ -1,0 +1,15 @@
+:: Tabaxi ::
+
+	See 5e materials.
+
+	+4 Dexterity, -2 Strength, -2 Constitution, -2 Wisdom
+	Monstrous Humanoid (tabaxi)
+	Tabaxi base land speed is 40 ft., and tabaxi have a climb speed of 20 ft.
+	- 4 racial penalty to Swim checks
+	+2 racial bonus on Spot and Listen checks
+	+2 racial bonus on Hide and Move Silently checks
+	Tabaxi have two natural claw attacks that deal 1d4 damage.
+	Darkvision
+	Automatic Languages: Common and Tabaxi
+	Bonus Languages: Halfling, Dwarf, Gnome, Elven, Terran, Auran
+	Favored Class: Ranger

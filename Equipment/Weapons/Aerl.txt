@@ -1,0 +1,8 @@
+:: Aerl (5) ::
+Ammunition
+Hardness: 8
+Weight: 2 lb.
+Cost: 5 gp
+
+	An aerl used as a melee weapon is treated as a light improvised weapon (-4 penalty on attack rolls) and deals damage as a throwing axe of its size (critical multiplier x2). An aerl used as a ranged weapon is treated as a light thrown improvised weapon (-4 penalty on attack rolls), has a range increment of 20 ft., and deals damage as a throwing axe of its size (critical multiplier x2). Aerl come in a leater waller that holds 5, typically worn on the hip. An aerl that hits is target is ot destroyed, and can be retrieved and reused; one that misses has a 20% chance of being lost. An aerl thrown as an improvised weapon is not subject to this loss chance.
+	Prices and weights are for five aerl.

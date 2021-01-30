@@ -1,0 +1,14 @@
+:: Knockback ::
+[Fighter]
+
+Prequisites:
+	Improved bull rush, power attack, Str 13
+
+Benefit:
+	When you hit a foe with a melee attack as part of a full attack action, you may make a free bull rush attempt against that foe. Unlike standard bull rush attempts, you do not move with the enemy you knock backward (and you therefore do not provoke corresponding attacks of opportunity and are not forced to move if you fail to beat the defender's Strength check result). As in a normal bull rush, your opponent's movement does not provoke attacks of opportunity from you.
+
+Normal:
+	Bull rush attempts are made as standard actions, and you must move with your opponent.
+
+Special:
+	A fighter may select knockback as one of his fighter bonus feats.

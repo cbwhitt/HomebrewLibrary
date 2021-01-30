@@ -1,0 +1,6 @@
+:: Reduce Person, Mass ::
+Transmutation
+Level: Armorer 4
+Target: Up to one item or construct/level, within 30 ft.
+
+As the spell of the same name, except imbued through multiple items or constructs.

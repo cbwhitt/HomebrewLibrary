@@ -1,0 +1,9 @@
+:: Maul ::
+Martial Two-Handed Melee
+Critical: x3
+Type: Bludgeoning
+Damage: 2d6
+Weight: 16 lb.
+Cost: 15 gp
+
+	A maul is an especially larger warhammer, designed to be wielded in two hands.

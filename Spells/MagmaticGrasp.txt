@@ -1,0 +1,16 @@
+:: Magmatic Grasp ::
+Transmutation [Earth, Fire]
+Level: Magmomancer 3rd
+Components: S
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Effect: Animated magmatic arm
+Duration: 2 rounds/level
+Saving Throw: None
+Spell Resistance: Yes
+
+You raise your hand into the air, and as you hold it there, you see a patch of ground nearby slowly melt into lava. Soon thereafter a molten arm as large as a person surges forth and begins grasping as you direct it.
+
+This spell functions as "earthen grasp," except that you may cause the molten arm to rise out of virtually any earthen or rocky material, including earth, mud, sand, stone, or even crystal. As long as the spell lasts, you may spend a standard action on your turn to move the arm up to 20 feet from its current position. If the molten arm is presently grappling an opponent, it must succeed on a grapple check to move the grapple and instead can move only up to 10 feet.
+
+Additionally, the burning heat from the molten first scorches grappled enemies. A creature that begins its turn in a grapple with the molten arm takes 2d6 fire damage (no save).

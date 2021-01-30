@@ -1,0 +1,16 @@
+:: Qeria ::
+
+	Qeria are an ancient subrace of humans that traditionally make their homes in deserts and wastelands. They tend to be nomadic and have a penchant and capacity for mysticism and spiritualism instead of skillful labor, but they are nevertheless as resourceful as all humans are.
+
+	+2 Wisdom, -2 Intelligence
+	A qeri's starting Intelligence score is always at least 3. If this adjustment would lower the character's score to 1 or 2, his score is nevertheless 3.
+	Humanoid (human)
+	Medium: As Medium creatures qeria have no special bonuses or penalties due to their size.
+	Qeri base land speed is 30 ft.
+	1 extra feat at 1st level
+	+2 racial bonus on Survival checks
+	Weapon Familiarity: Qeria may treat sand blades and sand whips as martial weapons rather than exotic weapons.
+	Automatic Languages: Common and Qerian
+	Bonus Languages: Any (other than secret languages, such as Druidic). See the Speak Language skill.
+	Favored Class: Mystic
+	Level Adjustment: +0

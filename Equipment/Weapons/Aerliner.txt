@@ -1,0 +1,12 @@
+:: Aerliner ::
+Exotic Light Projectile
+Critical: 19-20/x3
+Range Increment: 70 ft.
+Type: Slashing
+Hardness: 5
+Damage: 1d10
+Weight: 1 lb.
+HP: 4
+Cost: 100 gp
+
+	Normally, operating an aerliner requires two hands. However, you can shoot, but not load, an aerliner with one hand. You can shoot an aerliner with each hand, but you take a penalty on attack rolls as if attacking with two light weapons. If you have a penaalty for low Strength or a bonus for high Strength, apply it to damage rolls when you use an aerliner. An aerliner can be used mounted. You can benefit from the manyshot feats when using an aerliner.

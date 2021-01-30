@@ -1,0 +1,138 @@
+:: Void Paraelemental ::
+
+Void paraelementals of all sizes share the following traits:
+-----
+Type: Elemental (Dark, Air, Extraplanar)
+Speed: 30 ft. (6 squares)
+Special Attacks: Void mastery, singularity
+Special Qualities: Void step, elemental traits
+Environment: Paraelemental Plane of Void
+Organization: Solitary, pair, or essence (2-3 plus 3-6 smaller elementals)
+Treasure: None
+Alignment: Usually lawful evil
+Advancement: 1 HD (tiny), 2-3 HD (small), 4-7 HD (medium), 8-15 HD (large), 16-20 (huge), 21-23 HD (greater), 24+ HD (elder)
+Level Adjustment: --
+
+Void Mastery (Ex):
+	A void paraelemental recives a +1 bonus to attack and damage rolls on attacks of opportunity against enemies leaving a square it threatens.
+
+Singularity (Ex):
+	A void paraelemental can transform itself into a singularity once every 10 minutes and remain in that form for up to 1 round for every 2 HD it has. While in this form the paraelemental collapses to a near point, becoming Fine in size and receiving the corresponding bonuses to its Armor Class. The paraelemental also gains a fly speed of 20 ft. (perfect) and loses its land speed. While in this form, the paraelemental cannot make slam attacks and does not threaten the area around it.
+	The singularity creates a strong attractive force within a radius of the paraelemental, as dictated by its size. The area of the singularity is treated as difficult terrain for enemies, but only when moving against the force. Creatures that begin their turn within the area of the singularity are subject to a bull rush attempt from the force of the singulairty. The defender does not get an attack of opportunity. The paraelemental and enemy make opposed Strength checks as normal. The paraelemental's bonus increases based on its original size and includes a +4 racial bonus tabulated below. If the paraelemental defeats the defender's Strength check result that creature is pulled toward the center of the singularity 5 feet plus 5 feet for every 5 by which the paraelemental exceeds the defender's Strength check. A creature so pulled takes damage as indicated, and if they are moved into an occupied space, they fall prone. The paraelemental suffers no ill effect if it loses the oppposed Strength check.
+
+Table: Singularity Effects by Size
+:: Elemental	:: Area (radius)	:: Bull Rush Bonus	:: Damage	::
+----------------------------------------------------------------------------------
+:: Tiny		:: 5 ft.		:: 			:: 1d4		::
+:: Small	:: 10 ft.		:: +2			:: 1d6		::
+:: Medium	:: 15 ft.		:: +11			:: 1d8		::
+:: Large	:: 20 ft.		:: +17			:: 2d8		::
+:: Huge		:: 25 ft.		:: +23			:: 2d10		::
+:: Greater	:: 30 ft.		:: +24			:: 2d10		::
+:: Elder	:: 35 ft.		:: +25			:: 2d10		::
+
+Void Step (Su):
+	Three times per day, a void elemental can teleport as the spell 'dimension door'. They may only move up to 100 feet in this way, and it cannot take any other creatures with it. It can use this ability even in its singularity form.
+-----
+
+Void Parelemental, Tiny:
+Size: Tiny
+Hit Dice: 1d8+1 (5 hp)
+Initiative: +1
+Armor Class: 19 (+2 size, +1 Dex, +6 natural), touch 13, flat-footed 18
+BAB/Grapple: +0/-8
+Attack: Slam +3 melee (1d4)
+Space/Reach: 0 ft./0 ft.
+Saves: Fort +3, Ref +0, Will +0
+Abilities: Str 10, Dex 12, Con 13, Int 4, Wis 11, Cha 11
+Skills: Listen +2, Spot +2
+Feats: Power Attack
+Challenge Rating: 1/2
+
+Void Parelemental, Small:
+Size: Small
+Hit Dice: 2d8+2 (11 hp)
+Initiative: +0
+Armor Class: 17 (+1 size, +0 Dex, +6 natural), touch 11, flat-footed 17
+BAB/Grapple: +1/-1
+Attack: Slam +3 melee (1d6+3)
+Space/Reach: 5 ft./5 ft.
+Saves: Fort +4, Ref +0, Will +0
+Abilities: Str 14, Dex 10, Con 13, Int 4, Wis 11, Cha 11
+Skills: Listen +2, Spot +3
+Feats: Power Attack
+Challenge Rating: 1
+
+Void Parelemental, Medium:
+Size: Medium
+Hit Dice: 4d8+12 (30 hp)
+Initiative: +1
+Armor Class: 19 (+0 size, +1 Dex, +8 natural), touch 11, flat-footed 18
+BAB/Grapple: +3/+6
+Attack: Slam +6 melee (1d8+4)
+Space/Reach: 5 ft./5 ft.
+Saves: Fort +7, Ref +2, Will +1
+Abilities: Str 16, Dex 12, Con 17, Int 4, Wis 11, Cha 11
+Skills: Listen +3, Spot +4
+Feats: Power Attack, Improved Bull Rush
+Challenge Rating: 3
+
+Void Parelemental, Large:
+Size: Large
+Hit Dice: 8d8+32 (68 hp)
+Initiative: +2
+Armor Class: 20 (-1 size, +2 Dex, +9 natural), touch 11, flat-footed 18
+BAB/Grapple: +6/+15
+Attack: Slam +10 melee (2d8+5)
+Full Attack: 2 slams +10 melee (2d8+5)
+Space/Reach: 10 ft./10 ft.
+Saves: Fort +10, Ref +4, Will +2
+Abilities: Str 20, Dex 14, Con 19, Int 6, Wis 11, Cha 11
+Skills: Listen +5, Spot +6
+Feats: Power Attack, Improved Bull Rush, Stand Still
+Challenge Rating: 5
+
+Void Parelemental, Huge:
+Size: Huge
+Hit Dice: 16d8+80 (152 hp)
+Initiative: +4
+Armor Class: 21 (-2 size, +4 Dex, +9 natural), touch 12, flat-footed 17
+BAB/Grapple: +12/+27
+Attack: Slam +17 melee (2d10+7)
+Full Attack: 2 slams +17 melee (2d10+7)
+Space/Reach: 15 ft./15 ft.
+Saves: Fort +15, Ref +9, Will +5
+Abilities: Str 24, Dex 18, Con 21, Int 6, Wis 11, Cha 11
+Skills: Listen +11, Spot +12
+Feats: Power Attack, Improved Bull Rush, Stand Still, Combat Reflexes, Cleave, Great Cleave
+Challenge Rating: 7
+
+Void Parelemental, Greater:
+Size: Huge
+Hit Dice: 21d8+105 (199 hp)
+Initiative: +5
+Armor Class: 22 (-2 size, +5 Dex, +9 natural), touch 13, flat-footed 17
+BAB/Grapple: +15/+31
+Attack: Slam +21 melee (2d10+8)
+Full Attack: 2 slams +21 melee (2d10+8)
+Space/Reach: 15 ft./15 ft.
+Saves: Fort +17, Ref +14, Will +9
+Abilities: Str 26, Dex 20, Con 21, Int 8, Wis 11, Cha 11
+Skills: Listen +14, Spot +14
+Feats: Power Attack, Improved Bull Rush, Stand Still, Combat Reflexes, Cleave, Great Cleave, Iron Will
+Challenge Rating: 9
+
+Void Parelemental, Elder:
+Size: Huge
+Hit Dice: 24d8+120 (228 hp)
+Initiative: +6
+Armor Class: 23 (-2 size, +6 Dex, +9 natural), touch 14, flat-footed 17
+BAB/Grapple: +18/+35
+Attack: Slam +25 melee (2d10+9/19-20)
+Full Attack: 2 slams +25 melee (2d10+9/19-20)
+Space/Reach: 15 ft./15 ft.
+Saves: Fort +19, Ref +16, Will +9
+Abilities: Str 28, Dex 22, Con 21, Int 10, Wis 11, Cha 11
+Skills: Listen +15, Spot +16
+Feats: Power Attack, Improved Bull Rush, Stand Still, Combat Reflexes, Cleave, Great Cleave, Iron Will, Improved Critical (slam)
+Challenge Rating: 11

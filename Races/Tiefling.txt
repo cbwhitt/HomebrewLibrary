@@ -1,0 +1,14 @@
+:: Tiefling ::
+
+	See Planetouched MM entry.
+
+	Outsider (native)
+	+2 Dexterity, +2 Intelligence, -2 Constitution, -2 Charisma
+	Tiefling base land speed is 30 ft.
+	Medium: As Medium creatures, tieflings receive no special bonuses or penalties due to their size.
+	Darkvision
+	+2 racial bonus on Bluff and Hide checks
+	Spell-Like Abilities: 1/day - 'darkness'. Caster leve 3rd, save DC 10 + tiefling's Int modifier + spell level.
+	Automatic Languages: Common and Infernal
+	Bonus Languages: Draconic, Dwarf, Elven, Gnome, Goblin, Halfling, Orc, Noctan
+	Favored Class: Rogue

@@ -1,0 +1,79 @@
+:: Alchemist ::
+Starting Age: Complex
+Hit Die: d8
+
+Table: The Alchemist
+Level	:: BAB		:: Saves		:: Special							:: Recipes per Day				::
+			:: Fort :: Ref  :: Will ::								:: 1st :: 2nd :: 3rd :: 4th :: 5th :: 6th	::
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1st	:: +0		:: +2   :: +0   :: +2   :: Brew Potion, Impermanent Alchemy, Spontaneous Alchemy	:: 2   :: --  :: --  :: --  :: --  :: --	::
+ 2nd	:: +1		:: +3   :: +0   :: +3   :: Grenadier							:: 3   :: --  :: --  :: --  :: --  :: --	::
+ 3rd	:: +2		:: +3   :: +1   :: +3   :: Brew Spellvial						:: 3   :: --  :: --  :: --  :: --  :: --	::
+ 4th	:: +3		:: +4   :: +1   :: +4   :: Brew Spellbomb						:: 4   :: 2   :: --  :: --  :: --  :: --	::
+ 5th	:: +3		:: +4   :: +1   :: +4   :: Volatile Concotion (2 effects)				:: 4   :: 3   :: --  :: --  :: --  :: --	::
+ 6th	:: +4		:: +5   :: +2   :: +5   :: Brew Universal Potion					:: 5   :: 3   :: --  :: --  :: --  :: --	::
+ 7th	:: +5		:: +5   :: +2   :: +5   :: 								:: 5   :: 4   :: 2   :: --  :: --  :: --	::
+ 8th	:: +6/+1	:: +6   :: +2   :: +6   :: Down the Hatch (1 potion)					:: 5   :: 4   :: 3   :: --  :: --  :: --	::
+ 9th	:: +6/+1	:: +6   :: +3   :: +6   :: 								:: 6   :: 5   :: 3   :: --  :: --  :: --	::
+ 10th	:: +7/+2	:: +7   :: +3   :: +7   :: Volatile Concoction (3 effects), Master Alchemist (4th)	:: 6   :: 5   :: 4   :: 2   :: --  :: --	::
+ 11th	:: +8/+3	:: +7   :: +3   :: +7   :: 								:: 6   :: 5   :: 4   :: 3   :: --  :: --	::
+ 12th	:: +9/+4	:: +8   :: +4   :: +8   :: 								:: 7   :: 6   :: 5   :: 3   :: --  :: --	::
+ 13th	:: +9/+4	:: +8   :: +4   :: +8   :: Master Alchemist (5th)					:: 7   :: 6   :: 5   :: 4   :: 2   :: --	::
+ 14th	:: +10/+5	:: +9   :: +4   :: +9   :: 								:: 7   :: 6   :: 5   :: 4   :: 3   :: --	::
+ 15th	:: +11/+6/+1	:: +9   :: +5   :: +9   :: Volatile Concoction (4 effects)				:: 7   :: 7   :: 6   :: 5   :: 3   :: --	::
+ 16th	:: +12/+7/+2	:: +10  :: +5   :: +10  :: Master Alchemist (6th)					:: 8   :: 7   :: 6   :: 5   :: 4   :: 2 	::
+ 17th	:: +12/+7/+2	:: +10  :: +5   :: +10  :: 								:: 8   :: 7   :: 6   :: 5   :: 4   :: 3 	::
+ 18th	:: +13+8/+3	:: +11  :: +6   :: +11  :: Down the Hatch (2 potions)					:: 8   :: 7   :: 7   :: 6   :: 5   :: 3 	::
+ 19th	:: +14+9/+4	:: +11  :: +6   :: +11  :: 								:: 8   :: 8   :: 7   :: 6   :: 5   :: 4 	::
+ 20th	:: +15/+10/+5	:: +12  :: +6   :: +12  :: Volatile Concoction (5 effects)				:: 8   :: 8   :: 7   :: 6   :: 5   :: 4 	::
+
+Class Skills (4 + Int modifier per level, x4 at 1st level):
+	Craft (Int), Decipher Script (Int), Heal (Wis), Intimidate (Cha), Knowledge (nature) (Int), Knowledge (history) (Int), Knowledge (arcana) (Int), Profession (Wis), Search (Int), Spellcraft (Int), Survival (Wis), Use Magic Device (Cha)
+
+Weapon and Armor Proficiency:
+	An alchemist is proficient with all simple weapons and with the gnome calculus. He is proficient with light armor, but not with shields.
+
+Bonus Feats:
+	An alchemist gains every brewing feat as a bonus feat at or near the level at which it becomes available to spellcasters, regardless of whether he meets the prerequisites. He gets Brew Potion at 1st level, Brew Spellvial at 3rd level, Brew Spellbomb at 4th level, and Brew Universal Potion at 6th level.
+
+Recipes:
+	An alchemist is not a spellcaster, but he does have the ability to replicate spell effects when creating brewed items by using alchemical compounds he has collected. He does so through recipes. Each spell that can be imbued into a brewed item of some sort has a corresponding recipe. Recipes cannot be cast the way spells can to produce the effect of the spell. Instead, recipes can only be used to duplicate the effect of a spell (or the quality of knowing a spell) during the creation of a brewed item. In the example of a normal spellcaster creating a potion, she must have the spell prepared (for casters that prepare spells) or know the spell and have a spell slot available (for casters that cast spontaneously). An alchemist uses the corresponding recipe instead of using the spell when brewing the potion. To use a recipe, an alchemist must have materials on hand as normal for brewing, and employing a recipe is still a fundamentally magical act. To reproduce a spell effect which carries a costly material, experience, or focus component, an alchemist must consume the material, spend the experience, or have the focus on hand when he uses the recipe.
+	To learn or use a recipe, an alchemist must have an Intelligence score equal to at least 10 + the recipe level. The Difficulty Class for a saving throw against an effect using an alchemist’s recipe is 10 + the recipe level + the alchemist’s Intelligence modifier.
+	An alchemist can only use so many recipes of each recipe level per day. His base daily recipe allotment is shown in the table above. In addition, he receives bonus recipes per day if he has a high Intelligence score. The number of bonus recipes is equivalent to the number of bonus spells granted to a spellcaster for having a high ability score.
+	Like a spellcaster, an alchemist can apply metamagic feats he knows when using a recipe. Doing so takes no more time than usual.
+	An alchemist may know any number of recipes. However, the exact details are difficult to memorize and must be recorded in a journal (see below). He need not prepare his recipes in advance. He can use any recipe he knows at any time, assuming he has not yet used up his recipes per day for that recipe level. He does not have to decide ahead of time which recipes he’ll use.
+
+Journals:
+	The complexity of recipes is such that they cannot be memorized and must instead be recorded in a journal. An alchemist must reference his journal to use his recipes. He cannot use any recipe not recorded in his journal.
+	Alchemists begin play with a journal containing 3 1st-level recipes. For each point of Intelligence bonus the alchemist has, the journal holds one additional 1st-level recipe of your choice. At each new alchemist level, he gains two new recipes of any recipe level or levels that he can use (based on his new level) for his journal. At any time, an alchemist can also develop a recipe and add it to his journal.
+	To develop a recipe, an alchemist must have witnessed the corresponding spell effect, or have read or been given a very detailed account of it. He must conduct experiments to replicate the effects of the spell with alchemical ingredients, which takes 1 hour per recipe level. At the end of his experiments, he must succeed on a Craft (alchemy) check. The DC for this check is 20 + the minimum caster level necessary for the spell effect observed. If he succeeds, the recipe is added to his journal, otherwise, he fails, and must begin his experiments anew if he wishes to add the recipe to his journal. An alchemist may take 20 on this check, but it represents 20 experiments’ worth of time.
+
+Impermanent Alchemy (Su):
+	When creating a brewed item, an alchemist may alternately create an impermanent version of that item. An impermanent brewed item has no gold or experience cost: the alchemist instead hastily assembles a brewed item from different components he has on hand in his alchemical components pouch and binds them together with a smidgen of alchemical magic. A brewed item so created lasts only one day, until the alchemist receives his next daily allotment of recipes. If the spell effect to be brewed into the item has a costly material or xp component, those are consumed at the time of creation, and are not refunded even if the brewed item loses its potency the next day. For spell effects with a focus component, the alchemist must have the focus on hand at the time of creation. Creating these impermanent brewed items takes considerably less time than their regular counterparts: only one minute (instead of a full day). In all other respects, these brewed items function identically to their regular counterparts
+
+Spontaneous Alchemy (Ex):
+	As long as an alchemist has his alchemical components pouch on hand, he can near-instantaneously create from those components a number of special substances and items. Items so created have no associated cost or skill check (like when using the Craft skill), but they lose their potency very quickly. An item not used within 1 round becomes inert and unusable. Creating an item in this way is a swift action unless otherwise specified, and some items carry special restrictions on their use. Otherwise, items created through this ability function exactly like their normal counterparts. An alchemist gains access to creating new spontaneous alchemical items this way as he gains alchemist levels, indicated in the table below.
+Table: Spontaneous Alchemical Items
+:: Level Gained	:: Alchemical Items							::
+:: 1st		:: Tindertwig, Smokestick, Alchemist's Mercy				::
+:: 2nd		:: Sunrod[1], Acid[2], Alchemist's Fire[2], Thunderstone		::
+:: 3rd		:: Flash Pellet, Alcehmist's Spark[2], Alchemist's Frost[2]		::
+:: 5th		:: Tanglefoot Bag, Noxious Smokestick, Antitoxin[1]			::
+:: [1]: Lasts only one minute.								::
+:: [2]: Begining at 4th level, can create as a free action as part of making an attack.	::
+
+Grenadier:
+	An alchemist gains Grenadier as a bonus feat at 2nd level.
+
+Volatile Concoction (Ex):
+	Starting at 5th level, you gain the ability to stably synthesize multiple spell effects into a brewed item. When creating a brewed item, you can split the spell level if the item between two different spell effects whose spell levels total the original spell level of the item. The total spell level stored in the item this way cannot exceed the maximum spell level you can imbue in a brewed item. The item has one caster level, and each spell effect in the item uses this caster level. The minimum caster level of the brewed item is the minimum caster level for a recipe corresponding to the total spell level. For example, an alchemist of 6th level using this feature could create a potion of expeditious retreat and jump; expeditious retreat and jump are both 1st-level spell effects, for a total spell level of 2; the caster level of the potion therefore has a minimum of 4th and a maximum of 6th (the alchemist’s). In the case of  universal potions or other such brewed items where the spell effect is determined at activation and not at creation, an alchemist using this ability instead determines the number and level of spell effects that can be imbued in the potion upon its activation (a 7th level alchemist could therefore create using this ability a 3rd-level universal potion split between a 2nd-level spell effect and a 1st-level spell effect, both of these effects being imbued by the user upon its activation).
+	At 10th, 15th, and 20th level, this ability improves, allowing an alchemist using this ability to create potions with up to 3, 4, and 5 total spell effects, respectively.
+
+Down the Hatch (Ex):
+	An alchemist’s mastery of potions allows him to use them more efficiently and effectively. Beginning at 8th level, an alchemist may drink one potion each round as a swift action instead of a standard action. Doing so does not provoke an attack of opportunity. He may still use his standard action to consume another potion.
+	At 18th level, this ability improves. An alchemist of at least 18th level may drink up to two potions as a swift action.
+
+Master Alchemist (Ex):
+	At 10th level, the maximum spell level you can imbue into a potion, quick potion, spellvial, universal potion, or another brewed item increases to 4th, beyond the normal limit.
+	At 13th level and 16th level, this ability improves by one additional level (to a maximum of 6th-level spells at 16th level).
+

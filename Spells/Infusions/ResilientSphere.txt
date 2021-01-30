@@ -1,0 +1,7 @@
+:: Resilient Sphere ::
+Transmutation
+Level: Armorer 4
+Components: V, S, F
+Target: Item or construct
+
+As the spell of the same name.

@@ -1,0 +1,736 @@
+::    Elementalist Spells   ::
+::::::::::::::::::::::::::::::
+::       Zeroth Level       ::
+Compress Ally
+Create Water
+Cure Minor Wounds
+Dancing Lights
+Dawn
+Detect Magic
+Electric Jolt
+Flare
+Light
+Mending
+Ray of Frost
+Read Magic
+Resistance
+Sonic Snap
+Virtue
+
+::::::::::::::::::::::::::::::
+::   Elemental Discipline   ::
+: Aether :
+Elemental Body
+Elemental Swarm
+Resist Energy
+Resist Energy, Mass
+Summon Nature's Ally
+Summon Elemental Monolith
+Summon Elementite Swarm
+Summon Greater Elemental
+Primal Form
+
+: Light :
+Anger of the Noonday Sun
+Blistering Radiance
+Close Wounds
+Cure Light Wounds (and its derivatives)
+Continual Flame
+Daylight
+Death Ward
+Detect Good
+Disrupt Undead
+Disrupting Weapon
+Faerie Fire
+Flashburst
+Flare
+Guiding Light
+Glowing Orb
+Heal
+Heal, Mass
+Hypnotic Pattern
+Invisibility Purge
+Life Bolt
+Light of Lunia
+Light of Mecuria
+Light of Venya
+Lucent Lance
+Luminous Gaze
+Moon Bolt
+Moonfire
+Positive Energy Aura
+Protection from Negative Energy
+Ray of Light
+Searing Light
+See Invisibility
+Shadowblast
+Stabilize
+Sunbeam
+Sunburst
+Targeting Ray
+True Seeing
+Vigor
+Vigor, Lesser
+Vigor, Greater
+Vigor, Mass Lesser
+Vigorous Circle
+Wall of Light
+
+
+: Earth :
+Aspect of the Earth Hunter
+Bombardment
+Burrow
+Burrow, Mass
+Cast in Stone
+Cometfall
+Crumble
+Earth Clap
+Earthbind
+Earthen Grace
+Earthen Grasp
+Earthfast
+Earthquake
+Earth Lock
+Eradicate Earth
+Fist of Stone
+Flesh to Stone
+Foundation of Stone
+Giant's Wrath
+Hail of Stone
+Imprisonment
+Magic Stone
+Master Earth
+Maw of Stone
+Meld Into Stone
+Mountain Stance
+Move Earth
+Nimbus of Light
+Rapid Burrowing
+Repel Metal or Stone (stone only)
+Sarcophagus of Stone
+Soften Earth and Stone
+Spike Stones
+Stone Body
+Stone Shape
+Stone Shape, Greater
+Stone Sphere
+Stone Tell
+Stone to Flesh
+Stonehold
+Stoneskin
+Stony Grasp
+Strength of Stone
+Sudden Stalagmite
+Transmute Rock to Mud
+Tremor
+Tremorsense
+Tunnel Swallow
+Wall of Stone
+Xorn Movement
+
+: Fire :
+Animate Fire
+Balor Nimbus
+Blast of Flame
+Body of the Sun
+Burning Hands
+Combust
+Continual Flame
+Emerald Flame Fist
+Energy Spheres (all five fire)
+Energy Vortex (fire only)
+Explosive Cascade
+Fire Seeds
+Fire Shield
+Fire Shuriken
+Fire Spiders
+Fire Stride
+Fire Storm
+Fire Trap
+Fire Wings
+Fireball
+Firebrand
+Fireburst
+Fireburst, Greater
+Fires of Purity
+Flame Blade
+Flame Strike
+Flame Whips
+Flaming Sphere
+Inferno
+Orb of Fire
+Orb of Fire, Lesser
+Produce Flame
+Pyrotechnics
+Raging Flame
+Ray of Flame
+Scorch
+Scorching Ray
+Shroud of Flame
+Wall of Fire
+
+: Dark :
+Animate Dead
+Antilife Shell
+Armor of Darkness
+Awaken Undead
+Blacklight
+Blindness/Deafness
+Chill Touch
+Circle of Death
+Cloak of Dark Power
+Create Undead
+Create Undead, Greater
+Command Undead
+Control Undead
+Darkness
+Darkvision
+Darkvision, Mass
+Death Knell
+Death Ward
+Deathwatch
+Deeper Darkvision
+Detect Evil
+Detect Undead
+Enervation
+Energy Drain
+False Life
+Finger of Death
+Halt Undead
+Harm
+Inflict Light Wounds, etc.
+Life Ward
+Negative Energy Aura
+Plague of Undead
+Protection from Positive Energy
+Ray of Enfeeblement
+Ray of Entropy
+Ray of Exhaustion
+Ray of Weakness
+Slashing Darkness
+Slay Living
+Sword of Darkness
+Wall of Gloom
+Waves of Exhaustion
+Waves of Fatigue
+
+: Air :
+Air Breathing
+Air Walk
+Airblast
+Belker Claws
+Binding Winds
+Capricious Zephyr
+Cloud Wings
+Cloud-Walkers
+Control Weather
+Control Winds
+Cyclonic Blast
+Deep Breath
+Defenestrating Sphere
+Downdraft
+Eye of the Hurricane
+Feather Fall
+Fly
+Fly, Mass
+Fly, Swift
+Fog Cloud
+Gaseous Form
+Gust of Wind
+Master Air
+Obscuring Mist
+Overland Flight
+Stolen Breath
+Storm of Vengeance
+Storm Tower
+Updraft
+Whirlwind
+Whirlwind, Greater
+Whispering Wind
+Wind at Back
+Wind Tunnel
+Wind Walk
+Wind Wall
+Wings of Air
+
+: Water :
+Animate Water
+Buoyant Lifting
+Cloak of the Sea
+Cloudburst
+Control Water
+Downpour
+Dehydrate
+Delay Disease
+Delay Poison
+Drown
+Drown, Mass
+Extract Water Elemental
+Fireward
+Fog Cloud
+Maelstrom
+Neutralize Poison
+Obscuring Mist
+Panacea
+Quench
+Raise from the Deep
+Regenerate
+Remove Blindness/Deafness
+Remove Curse
+Remove Disease
+Remove Fear
+Remove Paralysis
+Red Tide
+Restoration
+Restoration, Greater
+Restoration, Mass
+Rushing Waters
+Sheltered Vitality
+Sink
+Sleet Storm
+Solid Fog
+Standing Wave
+Submerge Ship
+Swim
+Swim, Mass
+Tidal Surge
+Tsunami
+Vigor
+Vigor, Lesser
+Vigor, Greater
+Vigor, Mass Lesser
+Vigorous Circle
+Wall of Water
+Waterspout
+Water Breathing
+Water Walk
+Water Whip
+Wings of the Sea
+
+::::::::::::::::::::::::::::::
+:: Paraelemental Discipline ::
+: Crystal :
+Appraising Touch
+Binding (minimus containment in a gem only)
+Color Spray
+Diamondsteel
+Gembomb
+Gemjump
+Glass Strike
+Glowing Orb
+Heart of Stone (gem as flavor instead, works the same)
+Magic Jar
+Major Creation (crystal only)
+Miser's Envy
+Prismatic Eye
+Prsimatic Ray
+Prismatic Sphere
+Prismatic Spray
+Prismatic Wall
+Radiant Assault
+Rainbow Beam
+Rainbow Blast
+Rainbow Pattern
+Ruby Ray of Reversal
+Scintillating Pattern
+Shatter
+Trap the Soul
+
+: Lightning :
+Arc of Lightning
+Ball Lightning
+Call Lightning
+Call Lightning Storm
+Chain Lightning
+Electric Loop
+Energy Spheres (all five electricity)
+Energy Vortex (electricity only)
+Lightning Bolt
+Moonbow
+Orb of Electricity
+Orb of Electricity, Lesser
+Scintillating Sphere
+Shocking Grasp
+Storm of Vengeance
+Storm Tower
+Stormrage
+Stun Ray
+Thunderbits
+Thunderhead
+
+: Shadow :
+Blur
+Claws of Darkness
+Dark Way
+Dead End
+Disguise Self
+Displacement
+Illusory Script
+Illusory Pit
+Illusory Wall
+Invisibility
+Invisibility, Greater
+Invisibility, Mass
+Invisibility, Superior
+Invisibility, Swift
+***** Image
+Mirage Arcana
+Mirror Image
+Net of Shadows
+Phantasmal Assailants
+Phantasmal Killer
+Seeming
+Shades
+Shadow Binding
+Shadow Conjuratin
+Shadow Conjuration, Greater
+Shadow Evocation
+Shadow Evocation, Greater
+Shadow Form
+Shadow Hand
+Shadow Landscape
+Shadow Phase
+Shadow Mask
+Shadow Spray
+Shadow Walk
+Shadowy Grappler
+Veil of Shadow
+
+: Sound :
+Amplify
+Blindsight
+Blindsight, Greater
+Body Harmonic
+Bonefiddle
+Cacophonic Burst
+Cacophonic Shield
+Creaking Cacophony
+Deep Slumber (sound-based instead, verbal component)
+Dirge of Discord (verbal component)
+Dissonant Chord
+Energy Spheres (all five sonic)
+Ghost Sound
+Ghostharp
+Great Thunderclap
+Haunting Tune (verbal component)
+Ironthunder Horn (verbal component)
+Lullaby
+Nightmare Lullaby
+Orb of Sound
+Orb of Sound, Lesser
+Resonating Bolt
+Sculpt Sound
+Shatter
+Shatterfloor
+Shout (verbal component)
+Shout, Greater (verbal component)
+Silence
+Sleep (sound-based instead, verbal component)
+Song of Discord (verbal component)
+Sonic Blast
+Sonic Whip
+Sound Burst
+Sound Lance
+Hideous Laughter (verbal component)
+Thunderous Roar
+Tongues (verbal component)
+Ventriloquism (verbal component)
+
+: Ooze :
+Acid Arrow
+Acid Breath
+Acid Fog
+Acid Sheath
+Acid Splash
+Acid Storm
+Amorphous Form
+Blinding Spittle
+Corrosive Grasp
+Energy Spheres (all five acid)
+Energy Vortex (acid only)
+Grease
+Mudslide
+Ooze Puppet
+Orb of Acid
+Orb of Acid, Lesser
+Slime Wave
+Sticky Fingers
+Swamp Lung
+Swamp Stride
+Viscid Glob
+Water to Acid
+
+: Magma :
+Earth Reaver
+Heat Metal
+Kelgore's Fire Bolt
+Lava Lob
+Magma Burst
+Magma Fist
+Metal Melt
+Meteor Swarm
+Molten Rain
+Scalding Mud
+Transmute Rock to Lava
+Vitrify
+Wall of Magma
+
+: Metal :
+Bands of Steel
+Body of War
+Bristle
+Chill Metal
+Diamondsteel
+Fabricate (metal only)
+Heat Metal
+Iron Body
+Ironguard
+Ironguard, Lesser
+Keen Edge
+Magic Weapon
+Magic Weapon, Greater
+Major Creation (metal only)
+Metal Melt
+Repair Light Damage (etc.)
+Repel Metal or Stone (metal only)
+Rust Ray
+Rusting Grasp
+Steeldance
+Transformation
+Wall of Iron
+Wall of Gears
+Whirling Blade
+
+: Sand :
+Awaken Sand
+Black Sand
+Blast of Sand
+Blood Sirocco
+Choking Sands
+Control Sand
+Crumble
+Desiccating Bubble
+Expeditious Retreat
+Flaywind Burst
+Flesh to Salt
+Flesh to Salt, Mass
+Fuse Sand
+Haboob
+Halo of Sand
+Heatstroke
+Jump
+Longstrider
+Saltray
+Sandblast
+Sandform
+Sandstorm
+Soften Earth and Stone
+Storm Mote
+Transmute Rock to Mud
+Transmute Sand to Glass
+Transmute Sand to Stone
+Transmute Stone to Sand
+Quick March
+Vitrify
+Wall of Salt
+Wall of Sand
+Whirlwind
+Whirlwind, Greater
+Whispering Sand
+
+: Wood :
+Animate Plants
+Animate Wood
+Awaken
+Awaken, Mass
+Barkskin
+Brambles
+Briar Web
+Command Plants
+Control Plants
+Deadfall
+Detect Animals or Plants (plants only)
+Diminish Plants
+Entangle
+Goodberry
+Ironwood
+Kelpstrand
+Liveoak
+Plant Body
+Plant Growth
+Poison Thorns
+Poison Vines
+Repel Wood
+Shambler
+Spike Growth
+Splinterbolt
+Thornskin
+Transmute Metal to Wood
+Transport via Plants
+Tree Shape
+Tree Stride
+Unyielding Roots
+Vine Mine
+Wall of Thorns
+Warp Wood
+Wood Shape
+
+: Ash :
+Antipathy
+Bane
+Blackfire
+Cause Fear
+Crushing Despair
+Confusion
+Confusion, Lesser
+Darkfire
+Destruction
+Disintegrate
+Doom
+Fear
+Implosion
+Insanity
+Heartfire
+Maddening Scream
+Maddening Whispers
+Raging Flame
+Scare
+Slow Burn
+Sphere of Ultimate Destruction
+Touch of Madness
+Whispering Sand
+Wrack
+Wracking Touch
+
+: Smoke :
+Acid Fog
+Blight
+Belker Claws
+Bottle of Smoke
+Cloudkill
+Contagion
+Contagion, Mass
+Contagious Fog
+Contagious Touch
+Delay Poison
+Detect Poison
+Eyebite
+Incendiary Cloud
+Miasma
+Miasma of Entropy
+Mind Poison
+Nauseating Breath
+Poison
+Ray of Sickness
+Scourge
+Stinking Cloud
+Wall of Smoke
+
+: Steam :
+Animate Objects
+Fog Cloud
+Jet of Steam
+Murderous Mist
+Obscuring Mist
+Solid Fog
+Steam Breath
+
+: Void :
+Blink
+Blink, Greater
+Buk's Singularity, Lesser
+Dimension Door
+Dimensional Anchor
+Dimensional Lock
+Dismissal
+Ethereal Jaunt
+Etherealness
+False Gravity
+Gate
+Instant Summons (no arcane mark needed)
+Phase Door
+Plane Shift
+Reverse Gravity
+Slide
+Slide, Greater
+Sphere of Ultimate Destruction
+Teleport
+Teleport, Greater
+Force spells too, maybe?
+
+: Blood :
+Animal Growth
+Animal Messenger
+Animal Shapes
+Animal Trance
+Baleful Polymorph
+Bear's Endurance
+Beast Claws
+Beastland Ferocity
+Bear's Endurance, Mass
+Blood Frenzy
+Blood to Water
+Bull's Strength
+Bull's Strength, Mass
+Calm Animals
+Cat's Grace
+Cat's Grace, Mass
+Claws of the Bear
+Detect Animals or Plants (animals only)
+Dire Hunger
+Dominate Animal
+Enlarge Animal
+Hold Animal
+Magic Fang
+Magic Fang, Greater
+Mindless Rage
+Rage
+Reduce Animal
+Snake's Swiftness
+Snake's Swiftnes, Mass
+Snakebite
+Spider Poison
+Transformation
+
+: Ice :
+Anticold Sphere
+Chill Metal
+Cold Fire
+Cold Snap
+Cone of Cold
+Corona of Cold
+Creeping Cold
+Creeping Cold, Greater
+Energy Spheres (all five cold)
+Energy Vortex (cold only)
+Field of Icy Razors
+Freeze
+Freezing Mist
+Frost Breath
+Hailstones
+Heat Drain
+Hypothermia
+Ice Axe
+Ice Claw
+Ice Dagger
+Ice Flowers
+Ice Gauntlet
+Ice Knife
+Ice Storm
+Icelance
+Freezing Sphere
+Mantle of the Icy Soul
+Obedient Avalanche
+Orb of Cold
+Orb of Cold, Lesser
+Polar Ray
+Ray of Ice
+Simulacrum
+Sleet Storm
+Snowball Swarm
+Snowshoes
+Snowshoes, Mass
+Wall of Ice
+Winter Chill
+Winter's Embrace

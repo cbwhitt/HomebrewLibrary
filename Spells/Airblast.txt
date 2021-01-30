@@ -1,0 +1,15 @@
+:: Airblast ::
+Evocation [Air]
+Level: Aeromancer 1
+Components: S
+Casting Time: 1 swift action
+Range: 10 ft.
+Area: 10 ft. radius burst centered on you
+Duration: Instantaneous
+Saving Throw: Fortitude partial
+Spell Resistance: Yes
+
+With a snap of your fingers, a blast of wind emanates from you, disorienting your foes.
+
+Creatures within the area take 1d4 bludgeoning damage from the buffeting winds, plus 1d4 damage for every two levels beyond 1st, to a maximum of 3d4 damage at 5th level. A Fortitude save negates this damage.
+Additionally, creatures caught within the blast receive a -2 penalty on attack rolls until the start of your next turn, regardless of whether they saved.

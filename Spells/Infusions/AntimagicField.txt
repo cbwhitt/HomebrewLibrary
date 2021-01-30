@@ -1,0 +1,7 @@
+:: Antimagic Field ::
+Abjuration
+Level: Armorer 6
+Components: V, S, M
+Target: Item
+
+As the spell of the same name. The item emanates the antimagic field, but only functions if you are wearing or bearing it. The antimagic field does not stop itself from emanating from the item, but other magical functions of the item are suppressed as normal.

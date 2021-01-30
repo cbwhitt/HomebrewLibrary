@@ -1,0 +1,7 @@
+:: Body of the Sun ::
+Transmutation
+Level: Armorer 2
+Components: V, S, F
+Target: Item
+
+As the spell of the same name. Only YOU can benefit from the effect.

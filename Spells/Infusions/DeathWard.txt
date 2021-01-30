@@ -1,0 +1,7 @@
+:: Death Ward ::
+Necromancy
+Level: Armorer 5
+Components: V, S, F
+Target: Item
+
+As the spell of the same name.

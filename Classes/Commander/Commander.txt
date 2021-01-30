@@ -1,0 +1,218 @@
+:: Commander ::
+Starting Age: Moderate
+Hit Die: d8
+
+Table: The Commander
+Level	:: BAB		:: Saves		:: Special							:: Tactics Known 	::
+			:: Fort :: Ref  :: Will ::
+------------------------------------------------------------------------------------------------------------------------------------------
+ 1st	:: +0		:: +2   :: +0   :: +2   :: Skill Focus (Diplomacy), Motivation 1/day			:: --			::
+ 2nd	:: +1		:: +3   :: +0   :: +3   :: Tactics +1							:: 1			::
+ 3rd	:: +2		:: +3   :: +1   :: +3   :: Motivation 2/day						:: 1			::
+ 4th	:: +3		:: +4   :: +1   :: +4   :: 								:: 1			::
+ 5th	:: +3		:: +4   :: +1   :: +4   :: 								:: 2			::
+ 6th	:: +4		:: +5   :: +2   :: +5   :: Leadership, Motivation 3/day					:: 2			::
+ 7th	:: +5		:: +5   :: +2   :: +5   :: 								:: 2			::
+ 8th	:: +6/+1	:: +6   :: +2   :: +6   :: Tactics +2							:: 2			::
+ 9th	:: +6/+1	:: +6   :: +3   :: +6   :: Signature Command, Motivation 4/day				:: 3			::
+ 10th	:: +7/+2	:: +7   :: +3   :: +7   :: 								:: 3			::
+ 11th	:: +8/+3	:: +7   :: +3   :: +7   :: 								:: 3			::
+ 12th	:: +9/+4	:: +8   :: +4   :: +8   :: Mixed Tactics, Motivation 5/day				:: 3			::
+ 13th	:: +9/+4	:: +8   :: +4   :: +8   :: Signature Command						:: 3			::
+ 14th	:: +10/+5	:: +9   :: +4   :: +9   :: Tactics +3							:: 4			::
+ 15th	:: +11/+6/+1	:: +9   :: +5   :: +9   :: Motivation 6/day						:: 4			::
+ 16th	:: +12/+7/+2	:: +10  :: +5   :: +10  :: 								:: 4			::
+ 17th	:: +12/+7/+2	:: +10  :: +5   :: +10  :: Signature Command						:: 4			::
+ 18th	:: +13+8/+3	:: +11  :: +6   :: +11  :: Motivation 7/day						:: 4			::
+ 19th	:: +14+9/+4	:: +11  :: +6   :: +11  :: 								:: 4			::
+ 20th	:: +15/+10/+5	:: +12  :: +6   :: +12  :: Tactics +4, Signature Command				:: 5			::
+
+Class Skills: (6 + Int modifier per level, x4 at 1st level):
+Appraise (Int), Bluff (Cha), Craft (Int), Diplomacy (Cha), Gather Information (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (Int), Listen (Wis), Perform (Cha), Profession (Wis), Ride (Dex), Search (Int), Sense Motive (Wis), Spot (Wis), Survival (Wis), and Swim (Str).
+ 
+Weapon and Armor Proficiency:
+	Commanders are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
+
+Commands:
+	A commander is a master of battlefield strategy, guiding her comrades to victory. This mastery manifests in commands that the commander issues to her allies. A commander automatically gains access to new commands as she gains class levels. A commander need not prepare a command in advance: every command to which she has access (determined by her commander level) is available for her use.
+	Every command targets at least one of a commander’s allies, directing them to perform some sort of action. Commands also specify a restriction on the frequency of its use, usually as a number of rounds a commander must wait before issuing the same command again.  Some commands also allow the commander to achieve greater effect, the additional cost for which is specified. A commander may issue any command she knows, provided the command is ready to use. Issuing a command is a standard action unless otherwise specified.
+Commands most often allow a commander’s allies to perform extra actions outside of their normal initiative order. This does not change their position in the initiative order and may result in one of your allies performing an action on your turn immediately followed by a full round of actions on their turn. A character granted actions in addition to their regular turn by a command may not benefit from multiple such abilities in 1 round, even if issued by another commander. An ally cannot act before their first action (i.e. at the start of combat) as part of one of your commands, nor can they perform actions they are physically incapable of (e.g. a helpless ally bound in chains by your enemies cannot move or make an attack).
+Unless otherwise specified, only allies that can see, hear, or otherwise perceive her can benefit from a commander’s commands. A commander is considered her own ally and may therefore benefit from her own commands, where applicable.
+The save DC for a commander’s commands (if applicable) is 10 + one-half her commander level + her intelligence modifier.
+Each command specifies a minimum Intelligence score a commander must possess in order to use it.
+A full list of commands, at what level a commander gains access to them, and their effects can be found below:
+
+-----
+Advance:
+	Choose an enemy. Up to two allies may immediately move their speed as a move action. Each step of their movement must bring them closer to the chosen enemy. This movement provokes attacks of opportunity as it otherwise would.
+	A commander must wait 1 round before issuing this command again.
+	A commander gains access to this command at 1st level.
+	A commander must have an Intelligence score of at least 11 to issue this command.
+
+Retreat:
+	Choose an ally. They may immediately perform the withdraw action as a standard action. (They therefore may move only their speed, instead of twice their speed.)
+	A commander must wait 1d4 rounds before issuing this command again.
+	Instead, a commander may issue this command as a move action. In this case, she must wait 1d4+1 rounds before issuing this command again.
+	A commander gains access to this command at 1st level.
+A commander must have an Intelligence score of at least 11 to issue this command.
+
+Coordinated Attack:
+	Choose an ally who threatens an enemy threatened by another ally. The chosen ally may immediately make one melee attack against that enemy.
+	A commander must wait 1d3 rounds before issuing this command again.
+	Instead, both allies may immediately make one melee attack against that enemy. In this case, a commander must wait 1d4+1 rounds before issuing this command again.
+	A commander gains access to this command at 1st level.
+	A commander must have an Intelligence score of at least 11 to issue this command.
+
+Guard Up:
+	Choose an ally. That ally may immediately take the total defense action. This bonus lasts until the start of their next action. You can’t combine total defense with fighting defensively or with the benefit of the Combat Expertise feat (since both of those require you to declare an attack or full attack). You can’t make attacks of opportunity while using total defense.
+	A commander must wait 1d3 rounds before issuing this command again.
+	Instead, a commander may issue this command as an immediate action (including interrupting another person’s turn). In this case, she must wait 1d6+1 rounds before issuing this command again.	
+	A commander gains access to this command at 1st level.
+	A commander must have an Intelligence score of at least 11 to issue this command.
+
+Reposition:
+	Choose any number of allies. They all may immediately take a five-foot step. This step does not count against other allies’ limit of one five-foot step per round.
+	A commander must wait 1d4+1 rounds before issuing this command again.
+	A commander gains access to this command at 3rd level.
+A commander must have an Intelligence score of at least 12 to issue this command.
+
+Suppressing Fire:
+	Choose an enemy threatened by one of your allies. An ally may immediately make one ranged attack against that enemy. If their attack hits and deals damage, in addition to dealing its regular damage, that enemy receives a -2 penalty on attack rolls for 1 round.
+	A commander must wait 1d3 rounds before issuing this command again.
+	Instead, up to three allies may make one ranged attack against the chosen enemy. That enemy receives a cumulative -2 penalty for each ally whose attack hits and deals damage. In this case, a commander must wait 1d4+1 rounds before issuing this command again.
+	A commander gains access to this command at 3rd level.
+	A commander must have an Intelligence score of at least 12 to issue this command.
+
+Shock and Awe:
+	Choose any number of allies. Each chosen ally may immediately perform a charge as a standard action. (They therefore may move only their speed, instead of twice their speed.)
+	A commander must wait 1d6+1 rounds before issuing this command again.
+	A commander gains access to this command at 3rd level.
+A commander must have an Intelligence score of at least 12 to issue this command.
+
+Preparations:
+	Choose up to two allies. Each of those allies may draw a weapon, load a hand crossbow or light crossbow, pick up an item, sheathe a weapon, ready or loose a shield, or retrieve a stored item as a move action.
+	A commander must wait 1 round before issuing this command again.
+	Instead, a commander may issue this command as a move action. In this case, she must wait 1d4 rounds before issuing this command again.
+	A commander gains access to this command at 3rd level.
+A commander must have an Intelligence score of at least 12 to issue this command.
+
+Battle Cry:
+	Choose up to two allies. Each of those allies gives their best battle yell. All enemies within 10 feet of either of the chosen allies must succeed on a Will save or be shaken for 1d4+1 rounds.
+	A commander must wait 1d4+1 rounds before issuing this command again.
+	Instead, a commander may choose any number of allies. In this case, she must wait 1d6+1 rounds before issuing this command again.
+	A commander gains access to this command at 5th level.
+	A commander must have an Intelligence score of at least 13 to issue this command.
+
+Sortie:
+	Choose an ally threatened by two or more different enemies. That ally may immediately make a melee attack against each of up to two of those enemies.
+	A commander must wait 1d4 rounds before issuing this command again.
+	Instead, the chosen ally may attack all such enemies. In this case, a commander must wait 1d6+1 rounds before issuing this command again.
+	A commander gains access to this command at 5th level.
+	A commander must have an Intelligence score of at least 13 to issue this command.
+
+Melee:
+	Choose an ally. As a standard action, that ally may either attempt to grapple an enemy, or, if in a grapple already, move that grapple, pin an opponent, break another’s pin, or escape from the grapple.
+	A commander must wait 1d3 rounds before issuing this command again.
+	A commander gains access to this command at 5th level.
+	A commander must have an Intelligence score of at least 13 to issue this command.
+
+Ready for Action:
+	Choose an ally. As a standard action, that ally may ready an action. Their initiative result still becomes the count on which they take their readied action, if they do.
+	A commander must wait 1d4 rounds before issuing this command again.
+	A commander gains access to this command at 5th level.
+	A commander must have an Intelligence score of at least 13 to issue this command.
+
+Skirmish:
+	Choose an ally. That ally may immediately perform a full attack as a full attack action. Issuing this command is a full-round action.
+	A commander must wait 1d4+1 rounds before issuing this command again.
+	A commander gains access to this command at 7th level.
+	A commander must have an Intelligence score of at least 14 to issue this command.
+
+Guerilla Tactics:
+	Choose an enemy. Up to two allies may immediately move their speed as a move action and attack that enemy as a standard action. They may move both before and after the attack, provided that their total distance moved is not greater than their speed. Each step before their attacks must bring them closer to the enemy. Moving in this way does not provoke attacks of opportunity from that enemy.
+	A commander must wait 1d6+1 rounds before issuing this command again.
+	A commander gains access to this command at 7th level.
+	A commander must have an Intelligence score of at least 14 to issue this command.	
+
+Phalanx Formation:
+	Choose any number of allies. Each of those allies may immediately move their speed as a move action. Each one of those allies that ends their movement adjacent to another ally receives a +1 dodge bonus to their AC and a +1 circumstance bonus on attack rolls until they break formation or after 3 rounds, whichever comes first.
+	A commander must wait 1d6+1 rounds before issuing this command again.
+	A commander gains access to this command at 7th level.
+	A commander must have an Intelligence score of at least 14 to issue this command.
+
+Mortal Combat:
+	Choose an ally about to make an attack granted them by another command you have issued. If that attack hits, in addition to dealing its regular damage, the target must succeed on a Fortitude saving throw or take an additional 2 Constitution damage. Issuing this command is an immediate action but must be done concurrently with issuing another command.
+	A commander must wait 1d6+1 rounds before issuing this command again.
+	A commander gains access to this command at 7th level.
+	A commander must have an Intelligence score of at least 14 to issue this command.
+
+Take No Prisoners:
+	Choose an ally. That ally may immediately perform a coup de grace as a full-round action. Issuing this command is a full-round action.
+	A commander must wait 1d3 rounds before issuing this command again.
+	A commander gains access to this command at 9th level.
+	A commander must have an Intelligence score of at least 15 to issue this command.
+
+Ambush:
+	Choose any number of allies. Each one of those allies, if able, may Hide as a move action. To attempt this Hide check, they must have cover or concealment or be within range (see the Hide skill description for additional details) of cover or concealment. If they move into cover or concealment, they still get the -10 penalty to their Hide check. If any allies are being even casually observed by an enemy, they must make a Bluff check as normal to use Hide. However, you may also make a Bluff check (if you are also using Hide as a part of issuing this command and must make a Bluff check yourself, you use that check result for this as well). Your allies may use either their Bluff check results or yours, whichever is higher.
+	Until the start of each ally’s next action, whenever an enemy enters a square that ally threatens, that enemy provokes an attack of opportunity from that ally if that ally is hidden from that enemy.
+	A commander must wait 1d6+1 rounds before issuing this command again.
+	A commander gains access to this command at 9th level.
+	A commander must have an Intelligence score of at least 15 to issue this command.
+	
+Artillery Barrage:
+	Choose an ally wielding a ranged weapon. Choose also a 20-foot radius area at least 20 feet away from that ally. Until the start of that ally’s next turn, whenever an enemy steps into the chosen region, that ally may immediately make one ranged attack against that enemy, provided that enemy is within range of their attack. The chosen ally may not make more than one attack against the same enemy this way, nor may they make a total number of attacks in excess of their Dexterity bonus (if any), to a minimum of 1 attack.
+	A commander must wait 1d4+1 rounds before issuing this command again.
+	Instead, a commander may choose up to three allies. The area is the same for all three allies, but each chosen ally has their own limit on number of attacks. In this case, she must wait 1d6+1 rounds before issuing this command again.
+	A commander gains access to this command at 9th level.
+	A commander must have an Intelligence score of at least 15 to issue this command.
+
+Preemptive Strike:
+	Choose an ally being attacked by an enemy they threaten. That ally may immediately make an attack against that enemy. Issuing this command is an immediate action.
+	A commander must wait 1d6+1 rounds before issuing this command again.
+	A commander gains access to this command at 9th level.
+	A commander must have an Intelligence score of at least 15 to issue this command.
+-----
+
+Skill Focus (Diplomacy):
+	Because a commander has a way with people, she gains Skill Focus (Diplomacy) as a bonus feat at 1st level.
+
+Motivation (Ex):
+	 A commander is a master of motivating her comrades, and can keep their spirits high, edging them on to their best. Once per day, plus one additional time per day for every three commander levels she has, a commander may give an ally a morale bonus on any skill check equal to her Intelligence bonus (if any). A commander must be nearby and able to encourage her ally, and she cannot also use the aid another action to help with the same skill check.
+
+Tactics (Ex):
+	Beginning at 2nd level, a commander learns to employ various sets of tactics on the battlefield. She can learn to implement different tactics over the course of her career. She may employ up to one tactic at a time.
+	Employing a tactic is a swift action. The tactic remains in effect until the commander uses a free action to dismiss it or employs another tactic. A commander can have a tactic active continually; thus, a tactic can be in effect at the start of a combat encounter even before she takes her first turn.
+Employing a tactic involves haranguing, ordering, directing, encouraging, cajoling, or calming allies. A commander sizes up the enemy, allies, and the terrain, then gives allies the direction that they need to do their best.
+	Unless otherwise noted, a commander’s tactics affects all allies that can see, hear, or otherwise perceive her (including herself). An ally must have an Intelligence score of 3 or higher and to gain the bonus. A commander’s tactic is dismissed if she is dazed, unconscious, stunned, paralyzed, or otherwise unable to be heard or understood by her allies.
+Tactics provide a +1 bonus (or some equivalent) on certain rolls (or equivalent). This bonus increases to +2 at 8th level, to +3 at 14th level, and to +4 at 20th level.
+At second level, a commander learns one tactic of her choice. At 5th, 9th, 14th, and 20th levels, a commander learns one new tactic of her choice.
+	A full list of tactics appears below.
+
+-----
+Hardy Soldiers: The commander’s allies gain damage reduction equal to the amount of bonus her tactics provide. For example, if she is 10th level, her affected allies gain DR 2/–.
+
+Ardorous Blows: The commander’s allies gain a morale bonus on melee damage rolls equal to her tactics bonus.
+
+Combat Prowess: The commander’s allies gain a morale bonus on melee attack rolls equal to her tactics bonus.
+
+Take Care: The commander’s allies gain a dodge bonus to Armor Class equal to her tactics bonus.
+
+With Urgency: All forms of movement of the commander’s allies are increased by 5 feet per point of tactics she possesses. For example, the allies of a 10th level commander add 10 feet to all of their speeds. This ability does not grant forms of movement to her allies that they do not already possess. This speed may be reduced by armor or encumbrance, as appropriate.
+
+Resilient Troops: The commander’s allies gain a morale bonus on all saves equal to her tactics bonus.
+
+Steady Hand: The commander’s allies gain a morale bonus on all ranged attack rolls equal to her tactics bonus.
+
+Keen Eye: The commander’s allies gain a morale bonus on all ranged damage rolls equal to the tactics bonus.
+-----
+
+Leadership:
+	At 6th level, a commander gains Leadership as a bonus feat. She automatically qualifies for the “great renown” modifier to her Leadership score (as a result of her prestigious/honored background).
+
+Signature Command (Ex):
+	At 9th level, a commander develops a signature command, a battlefield technique she’s known for implementing very well. She selects one command. She must wait one step (e.g. from 1d6+1 to 1d4+1, from 1d4+1 to 1d4, from 1d4 to 1d3, from 1d3 to 1, and from 1 to 1) fewer rounds to use that command again, for all of its modes. As an example, Lady Windgrace, a 9th-level commander, chooses the command Guard Up. When she uses it in its standard mode as a standard action, she waits only 1 round (instead of 1d3) before she can issue Guard Up again. Additionally, when she uses it in its enhanced mode (as an immediate action), she need only wait 1d4+1 rounds before issuing it again.
+	A commander develops additional signature commands at 13th, 17th, and 20th level. She may not select the same commander more than once.
+
+Mixed Tactics (Ex):
+	At 12th level, a commander becomes able to blend tactics together. She may employ up to two tactics at a time (instead of one). It is now a free action to dismiss one or both of her employed tactics. When she uses a swift action to employ a tactic, if she already has two tactics active, she selects one of her two tactics to replace with the new one. (If she has less than two tactics active, the new tactic simply becomes active.)
+	In employing these tactics, a commander divides the total bonus of her tactics ability (+2 when she gains this ability at 12th level) between her employed tactics, and she may adjust the distribution of bonus points automatically whenever she employs a new tactic or as a swift action. For example, Lady Windgrace, a 12th-level commander, knows the Ardorous Blows, Combat Prowess, and Take Care tactics. She already has Take Care active (at a +2 bonus). As a swift action on her next turn, she employs the Combat Prowess tactic, choosing to split the bonus evenly between the two abilities, at +1 apiece. Her allies therefore gain a +1 dodge bonus to their AC and a +1 morale bonus on all melee attack rolls.

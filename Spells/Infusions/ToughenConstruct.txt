@@ -1,0 +1,10 @@
+:: Toughen Construct ::
+Transmutation
+Level: Armorer 2
+Components: V, S, F
+Target: Construct
+Duration: 10 min./level
+Saving Throw: None
+Spell Resistance: Yes (harmless)
+
+This infusion thickens the unliving matter that forms a construct's skin. The effect grants a +2 enhancement bonus to the creature's existing natural armor bonus. This enhancement bonus increases by 1 for every three caster levels beyond 3rd, to a maximum of +5 at 12th level.

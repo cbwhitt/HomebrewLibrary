@@ -1,0 +1,21 @@
+:: Myconids ::
+
+	Myconids are a race of intelligent mushroom-creatures.
+
+	+2 Constitution, +2 Wisdom, -2 Intelligance, -2 Dexterity
+	A myconid's starting Intelligence score is always at least 3. If this adjustment would lower the character's score to 1 or 2, her score is nevertheless 3.
+	Plant (myconid)
+	Small: As a Small creature, a myconid gains a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but she uses smaller weapons than humans use and her lifting and carrying capacities are three-quarters those of a Medium creature.
+	A myconid's base land speed is 15 ft.
+	Low-Light Vision:  A myconid can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions.
+	Darkvision: Myconids can see in the dark up to 60 ft. Darkvision is black and white only, but is otherwise like normal sight, and myconids can function just fine with no light at all.
+	Light Sensitivity: Myconids are dazzled in bright sunlight or within the radius of a daylight spell.
+	Fungal Consciousness: Unlike other plants, myconids are not immune to min-affecting effects (charms, compulsions, phatasms, patterns, moral effects, etc.).
+	Discernible Anatomy: Unlike other plants, myconids are subject to critical hits.
+	Spore Cloud (Ex): Once per day, as a standard action, a myconid can release a cloud of spores to illuminate its foes. This ability functions like the spell glitterdust, except that is has a range of 30 ft., lasts for 1 minute, and doesn't blind.
+	+2 racial bonus on Profession (farmer) checks
+	Automatic Languages: Common and Undercommon.
+	Bonus Languages: Dwarf, Kobold, Terran, and Goblin.
+	Spell-Like Abilities: 1/day - 'speak with plants' (fungus only, duration 1 min.).
+	Favored Class: Druid
+	Level Adjustment: +0

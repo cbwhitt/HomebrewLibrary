@@ -1,0 +1,15 @@
+:: Aurans ::
+
+	+2 Dexterity, -2 Strength 
+	Outsider (native, air)
+	Medium: As Medium creatures, aurans have no special bonuses or penalties due to their size.
+	Auran base land speed is 40 feet.
+	Darkvision
+	Light as Air: Aurans are preternaturally light weight (about a tenth of a human of equivalent size). They receive a +12 racial bonus on Jump checks and +8 racial bonus on Climb checks (this includes the bonus associated with having a land speed greater than 30 feet). An auran has no fly speed, unlike most creatures of the air subtype.
+	+1 racial bonus on attack rolls against terrans
+	+2 racial bonus on Spot checks
+	+2 racial bonus on Tumble checks
+	Automatic Languages: Common and Auran
+	Bonus Languages: Aven, Gnome, Gnoll, Goblin, Orc, Draconic.
+	Favored Class: Elementalist
+	Level Adjustment: +0

@@ -1,0 +1,12 @@
+:: Stone Construct ::
+Transmutation
+Level: Armorer 3
+Components: S, F
+Target: Construct
+Duration: 10 min./level or until discharged
+Saving Throw: Will negates (harmless)
+Spell Resistance: Yes (harmless)
+
+The construct imbued with this infusion gains resistance to blows, cuts, stabs, and slashes. It gain damage reduction 10/adamantine. Once the spell has prevented a total of 10 points of damage per level (maximum 150 points), it is discharged.
+
+

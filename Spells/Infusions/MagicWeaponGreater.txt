@@ -1,0 +1,9 @@
+:: Magic Weapon, Greater ::
+Transmutation
+Level: Armorer 3
+Components: S, F
+Target: Weapon
+
+As the spell of the same name.
+
+

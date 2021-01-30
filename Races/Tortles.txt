@@ -1,0 +1,14 @@
+:: Tortles ::
+
+	Tortles are a semi-aquatic race of humanoid creature that resemble turtles or tortoises. They stand between 4-1/2 and 5 ft. tall, but weight between 140 and 180 lb. due to their heavy shells. THeir shells, in addition to serving as a natural defense mechanism, are usually decorated with elaborate patterns, often personally significant. Tortles usually hide some of this pattern except to their closest friends and family. Tortles are a reserved, patient people, living sometimes in excess of 600 years; they value meditation and self-reflection.
+
+	+2 Wisdom, -2 Dexterity
+	Monstrous Humanoid (reptilian, aquatic)
+	Medium: As Medium creatures, tortles have no special bonuses or penalties due to their size.
+	A tortle's base land speed is 20 ft. Additionally, a tortle has a 40 ft. swim speed.
+	Amphibious: Tortles can hold their breath nearly 5 times as long as a human can.
+	Protective Shell: Tortles have a +2 racial bonus to their natural armor.
+	+2 racial bonus on Profession (fisherman) checks
+	Automatic Languages: Common and Tortle.
+	Bonus Languages: Aquan, Gnome, Sylvan, Draconic
+	Favored Class: Mystic

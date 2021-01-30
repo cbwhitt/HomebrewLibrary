@@ -1,0 +1,7 @@
+:: Protection from Arrows ::
+Abjuration
+Level: Armorer 2
+Components: V, S, F
+Target: Item or construct
+
+As the spell of the same name.

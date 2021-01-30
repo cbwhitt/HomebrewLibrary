@@ -1,0 +1,6 @@
+:: Animate Objects ::
+Transmutation
+Level: Armorer 6
+Targets: One Small item per caster level (see text), within 100 ft. + 10 ft./level
+
+As the spell of the same name. One of the imbued items must be within reach for someone to activate the infusion. The effect does not function for imbued items carried or worn by a creature until that item leaves that creature's possession. Treat this the same as an object outside of range of a key item. You cannot change the items imbued by the infusion as in the spell, but you may still transfer the infusion as normal using the Transfer Infusion class feature.

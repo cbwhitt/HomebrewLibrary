@@ -1,0 +1,16 @@
+:: Grung ::
+
+	Grung are a race of small humanoid frog-creatures with a rigid, colration-based caste system. See 5e materials for additional information.
+
+	Monstrous Humanoid (grung, aquatic)
+	+2 Dexterity, -2 Charisma
+	Grung base speed is 30 ft. and they have a swim speed of 30 ft.
+	Small: As a Small creatures, a grung gain a +1 size bonus to Armor Class, a +2 size bonus on attack rolls, and a +4 size bonu on Hide checks, but he uses smaller weapons than humans use and his lifting and carrying capacities are three-quarters those of a Medium creature.
+	+2 racial bonus on saving throws against poison
+	+2 racial bonus on Craft (alchemy) checks
+	+12 rcial bonus on Jump checks
+	Amphibious: Grung can breath both underwater and in the air.
+	Poison Skin: A grung's skin is covered in a mild poison. Non-grung creatures that make unprotected contact with the grung are subject to the poison: Contact. Initial and secondary damage 1 Dex. A creature that successfully saves against a grung's poison is unaffected by the same grung's poison for 24 hours. A grung can harvest poison from its skin to apply to a weapon or store in a vail. Doing so is a standard action. A poison so farvested continues to act as a contact poison but loses its potency after 1 minute. A grung can also stop its poison production for 24 hours by consuming a simple herbal tonic that every grung can concoct from memory.
+	Automatic Languages: Common and Grung
+	Bonus Languages: Draconic, Kraul, Undercommon, Terran, Aquan, Halfling, Sylvan
+	Favored Class: Rogue

@@ -1,0 +1,11 @@
+:: Adamantine Weapon ::
+Transmutation
+Level: Armorer 3
+Components: S, F
+Target: Weapon
+Duration: 1 min./level
+Saving Throw: Will negates (harmless, object)
+Spell Resistance: No (object)
+
+This infusion temporarily alters the substance of one weapon, transforming it into adamantine. This effect replaces the properties of any other special material the weapon might be constructed from. Only weapons made of metal can benefit from this infusion.
+

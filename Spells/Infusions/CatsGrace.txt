@@ -1,0 +1,7 @@
+:: Cat's Grace ::
+Transmutation
+Level: Armorer 2
+Components: V, S, F
+Target: Item or construct
+
+As the spell of the same name.

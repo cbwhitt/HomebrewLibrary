@@ -1,0 +1,7 @@
+:: Align Weapon ::
+Transmutation [Varies]
+Level: Armorer 2
+Components: V, S, F
+Target: Weapon
+
+As the spell of the same name.

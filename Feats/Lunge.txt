@@ -1,0 +1,13 @@
+:: Lunge ::
+[Fighter]
+
+Prequisites:
+	Combat expertise
+Benefit:
+	When taking the full attack action, one of your attacks may be made as though its reach were 5 ft. greater, including with a reach weapon. You may still attack an opponent with the normal reach of your weapon with this attack.
+
+Normal:
+	A medium character can only exceed their standard 5 ft. reach by utilizing a reach weapon.
+
+Special:
+	A fighter may select lunge as one of her fighter bonus feats.

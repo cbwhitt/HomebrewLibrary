@@ -1,0 +1,12 @@
+:: Slaying Arrow ::
+Transmutation
+Level: Armorer 5
+Components: V, S, F
+Target: Arrow or bolt
+Duration: 10 min./level
+Saving Throw: None (object) or Fortitude negates; see text
+Spell Resistance: No (object)
+
+An arrow or bolt imbued with this infusion becomes extremely deadly against creatures of a type specified when the infusion is cast (such as dragons or outsiders), and also gains a +1 enhancement bonus on attack rolls and damage rolls. If the imbued projectile successfully hits a creature of the type to which it is keyed, the target must make a Fortitude save or die (or, in the case of an unliving target, be destroyed). Even creatures normally exempt from Fortitude saves, such as undead and constructs, are subject to this effect. If the save is successful, the target takes no additional damage beyond the actual projectile.
+
+When keyed to a kind of living creature (as opposed to a construct or undead), this is a death effect.

@@ -1,0 +1,19 @@
+:: Inklings ::
+
+	Inklings stand between 5 and 6 ft. tall and have very slight builds, using four tentacles as legs and saving another pair to use as arms. They very closely resemble squid, using their sharp beaks to eay and speak. Inklings are a secluded and quiet people; they often live in dark cities nestled within the depths of the ocean. They have a tendency toward intellectual pursuits, ranging from qizardry and other magical arts to martial prowess, and most have an innate knack for magical tinkering.
+
+	+2 Intelligance, -2 Constitution
+	Monstrous Humanoid (aquatic)
+	Medium: As Medium creatures, inklings have no special bonuses or penalties due to their size.
+	An inkling's base land speed is 30 ft. Additionally, an inkling has a 40 ft. swim speed.
+	Low-Light Vision
+	Darkvision
+	Jet: While underwater, an inling can jet backward once per round as a full-round action, at a speed of 120 ft. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
+	Amphibious: Inklings can breath both underwater and in the air.
+	+4 racial bonus on grapple checks
+	+2 racial bonus on hide checks (+4 in underwater)
+	+2 racial bonus on Use Magic Device checks
+	Automatic Languages: Common and Inkling
+	Bonus Languages: Aquan, Undercommon, Noctan, Dwarf
+	Favored Class: Artificer
+	Level Adjustment: +0

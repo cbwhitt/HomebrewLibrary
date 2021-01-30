@@ -1,0 +1,7 @@
+:: Disrupting Weapon ::
+Transmutation
+Level: Armorer 5
+Components: V, S, F
+Target: Melee weapon
+
+As the spell of the same name.

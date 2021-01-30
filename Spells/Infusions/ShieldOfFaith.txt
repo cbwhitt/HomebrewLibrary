@@ -1,0 +1,7 @@
+:: Shield of Faith ::
+Abjuration
+Level: Armorer 1
+Components: V, S, F
+Target: Construct or item
+
+As the spell of the same name.

@@ -1,0 +1,7 @@
+:: Righteous Might ::
+Transmutation [Varies, see text]
+Level: Armorer 5
+Components: V, S, F
+Target: Item or construct
+
+As the spell of the same name. You may select when imbuing the infusion whether this infusion grants damage reduction overcome by evil or good, and this infusion is a good or evil infusion, respectively. A creature of opposite alignment to the descriptor of the infusion cannot benefit from its effects.

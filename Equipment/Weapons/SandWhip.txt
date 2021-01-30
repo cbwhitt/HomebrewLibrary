@@ -1,0 +1,15 @@
+:: Sand Whip ::
+Exotic Two-Handed Melee
+Critical: x2
+Type: Slashing
+Hardness: 3
+Damage: 1d6/1d6
+Weight: 2 lb.
+HP: 3
+Cost: 30 gp
+
+	A sand whip is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur the attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon.
+	A sand whip has reach, so you can strike opponents 10 feet away with it. In addition, unlike most other weapons with reach, it can be used against an adjacent foe.
+	A creature wielding a sand whip in one hand can't use it as a double weapon: only one end of the weapon can be used in any given round. Additionally, when used in this manner, a sand whip is treated as a regular whip, except that it's damage is not negated by your opponents armor bonus.
+	You can use the weapon finesse feat to apply your Dexterity modifier instead of Strength modifier to attack rolls with a sand whip sized for you, even though it isn't a light weapon for you.
+	Qeria treat sand whips as martial weapons.

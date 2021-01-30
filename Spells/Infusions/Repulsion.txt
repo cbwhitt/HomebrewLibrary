@@ -1,0 +1,7 @@
+:: Repulsion ::
+Abjuration
+Level: Armorer 6
+Target: Item
+Components: V, S, F
+
+As the spell of the same name. The item emanates the 'repulsion', but only while you wear or bear it. You only need a regular armorer focus to imbue the infusion.

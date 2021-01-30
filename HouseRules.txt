@@ -1,0 +1,57 @@
+:: House Rules ::
+
+Heighten Spell:
+	Heighten spell is not a feat. All spellcasters can innately heighten spells by preparing (in the case of casters that prepare) or casting (in the case of spontaneous casters) them in a higher-level spell slot. Any feat with Heighten Spell as an explicit prerequisite loses that prerequisite.
+
+
+Leveling Up:
+	Unless otherwise specified, gaining a character level takes 80 in-game hours of training. Nor more than 8 hours of training can be gained per in-game day. (10 days at 8 hours/day)
+
+
+Feat Retraining:
+	A player may retrain any feat he possesses as part of gaining a level, provided: 1. The player replaces that feat with one she could have taken at the level he took the one she is replacing. 2. The feat to be replaced is not the prerequisite for another character option. 3. The feat does not provide a one-time bonus or otherwise cannot be reasonably reversed (such as Leadership).
+
+
+Combat Expertise:
+	The feats Improved Combat Expertise or Superior Combat Expertise have been eliminated. Instead, the Combat Expertise feat has no limit to the dodge bonus you can gain aside from your Base Attack Bonus.
+
+
+Toughness:
+	The feat Improved Toughness has been eliminated. Instead, the toughness feat grants +1 hit point per hit die, but may only be taken once.
+
+
+Cleric Spontaneous Casting:
+	Clerics who channel positive energy can spontaneously cast all spells with the healing descriptor, not just 'cure' spells.
+
+
+Darkness:
+	The spell 'darkness' and its derivatives produce actual darkness, not shadowy illumination. They therefore provide total concealment.
+
+
+Elementals:
+	A number of changes to elementals have been made to support a fuller elemental themes for some of my settings.
+	Firstly, for relevant settings, the concepts of 'positive energy' and 'negative energy' have primarily been eliminated. They are instead merely aspects of the new elements of 'Light' and 'Dark'. Nevertheless, creatures that use positive and negative energy still function as they had previously. (Undead are harmed by positive energy, etc.) This change usually accompanies a reflavoring or rexcontextualization of the planes as well. To some extent, celestial and infernal creatures, which have the Outsider type, can be considered as the "genie" of the planes of Light and Dark, much the same as efreet are fire genie.
+	Additionally, the elemental languages are all rooted in a common Primordial. They all share the Primordial script and mirror some of the basic structure. True Primordial is essentially never spoken (narratively, then it can serve a wide range of roles). However, Primordial has six primary dialects corresponding to the six elements (Terran, Auran, Ignan, Aquan, Luman, Noctan), with further regional dialects that may correspond to paraelements, etc. Celestial and Infernal/Abyssal may be replaced by Luman and Noctan, as appropriate. The dialects are not mutually intelligible, and from a rules perspective are treated as separate languages.
+	In settings that use my elemental cosmology and pantheon, the alignment of basic elemental creatures (such as earth elementals or light elementals) is changed to be that of the corresponding emperor or lord (see the setting details for Godai).
+	Lastly, there are a number of minor changes to the abilities for the basic elementals, detailed below.
+	Air Elementals:
+		Air Mastery (Ex):
+			An air elementals receives a +1 bonus on attack and damage rolls against airborne (flying) creatures.
+	Earth Elementals:
+		Earth Mastery (Ex):
+			An earth elemental receives a +1 bonus on attack and damage rolls against creatures touching the ground.
+	Fire Elementals:
+		Fire Mastery (Ex): [new]
+			A fire elemental receives a +1 bonus on attack and damage rolls against creatures on fire (e.g. from its burn ability).
+	Water Elementals:
+		Water Mastery (Ex):
+			A water elemental receives a +1 bonus on attack and damage rolls against waterborne (swimming) creatures.
+		Vortext (Su):
+			As description, except that a water elemental need not be in water to transform into a vortex. If not waterborne, however, the maximum height and width of the vortex are each reduced by half. It kicks up dust as normal (i.e. like the air elementals' whirlwind).
+
+
+Native Subtype:
+	In addition to the other properties of the native subtype for outsiders, a native outsider does not receive any weapons proficiencies as a result of her type.
+
+Tower Shields:
+	There are many clarifications and expansions of the rules for tower shields in the FAQs, which are largely a result of treating the tower shield as a piece of terrain. As a clarification of my own: If you are wielding two (or more) tower shields simultaneously, you can claim cover from each of them on your own with a single standard action (thereby providing protection over multiple edges of your space).

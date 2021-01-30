@@ -1,0 +1,139 @@
+:: Smoke Paraelemental ::
+
+Smoke paraelementals of all sizes share the following traits:
+-----
+Type: Elemental (Fire, Dark, Extraplanar)
+Speed: Fly 50 ft. (perfect) (10 squares)
+Special Attacks: Smoke mastery, poison smoke
+Special Qualities: Elemental traits
+Environment: Paraelemental Plane of Smoke
+Organization: Solitary, pair, or essence (2-3 plus 3-6 smaller elementals)
+Treasure: None
+Alignment: Usually chaotic evil
+Advancement: 1 HD (tiny), 2-3 HD (small), 4-7 HD (medium), 8-15 HD (large), 16-20 (huge), 21-23 (greater), 24+ HD (elder)
+Level Adjustment: --
+
+Smoke Mastery (Ex):
+	A smoke paraelemental receives a +1 bonus to attack and damage rolls against poisoned enemies and in smoke-filled terrain.
+
+Poison Smoke (Ex):
+	Creatures fighting near a smoke paraelemental must hold their breath to avoid breathing in the toxic fumes that make up its body. A creature that starts its turn within reach of the paraelemental and isn't holding its breath must make a Fortitude save or be poisoned. Tabulated below are the corresponding Difficulty Classes and poison damage (initial and secondary) for elementals of different sizes. A creature trying to hold its breath who is deal damage (e.g. by the paraelemental's slam attack) must make a Concentration check (DC 10 + damage dealt) or be forced to start breathing until its next action. A creature forced to start breathing in this way within the reach of the paraelemental is subject to the poison smoke on its next action, even if the paraelemental moves or the creature somehow exits the area before its next action. The save DC's are Constitution-based.
+
+Table: Poison Smoke by Size
+:: Elemental	:: Damage	:: Fort DC	::
+--------------------------------------------------
+:: Tiny		:: 1 Con	:: 10		::
+:: Small	:: 1d2 Con	:: 11		::
+:: Medium	:: 1d3 Con	:: 14		::
+:: Large	:: 1d4 Con	:: 17		::
+:: Huge		:: 1d6 Con	:: 22		::
+:: Greater	:: 1d8 Con	:: 26		::
+:: Elder	:: 1d10 Con	:: 28		::
+
+-----
+
+Smoke Paraelemental, Tiny:
+Size: Tiny
+Hit Dice: 1d8 (4 hp)
+Initiative: +6
+Armor Class: 17 (+2 size, +2 Dex, +3 natural), touch 14, flat-footed 15
+BAB/Grapple: +0/-12
+Attack: Slam +4 melee (1d3-2 plus poison [see text])
+Space/Reach: 0 ft./0 ft.
+Saves: Fort +0, Ref +5, Will +0
+Abilities: Str 6, Dex 15, Con 10, Int 4, Wis 11, Cha 11
+Skills: Listen +2, Spot +2
+Feats: Flyby Attack, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 1/2
+
+Smoke Paraelemental, Small:
+Size: Small
+Hit Dice: 2d8 (9 hp)
+Initiative: +5
+Armor Class: 15 (+1 size, +1 Dex, +3 natural), touch 12, flat-footed 14
+BAB/Grapple: +1/-3
+Attack: Slam +3 melee (1d4 plus poison [see text])
+Space/Reach: 5 ft./5 ft.
+Saves: Fort +0, Ref +5, Will +0
+Abilities: Str 10, Dex 13, Con 10, Int 4, Wis 11, Cha 11
+Skills: Listen +2, Spot +3
+Feats: Flyby Attack, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 1
+
+Smoke Paraelemental, Medium:
+Size: Medium
+Hit Dice: 4d8+8 (26 hp)
+Initiative: +7
+Armor Class: 16 (+0 size, +3 Dex, +3 natural), touch 13, flat-footed 13
+BAB/Grapple: +3/+4
+Attack: Slam +6 melee (1d6+1 plus poison [see text])
+Space/Reach: 5 ft./5 ft.
+Saves: Fort +3, Ref +7, Will +1
+Abilities: Str 12, Dex 17, Con 14, Int 4, Wis 11, Cha 11
+Skills: Listen +3, Spot +4
+Feats: Flyby Attack, Dodge, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 3
+
+Smoke Paraelemental, Large:
+Size: Large
+Hit Dice: 8d8+24 (60 hp)
+Initiative: +9
+Armor Class: 18 (-1 size, +5 Dex, +4 natural), touch 14, flat-footed 13
+BAB/Grapple: +6/+12
+Attack: Slam +10 melee (2d6+2 plus poison [see text])
+Full Attack: 2 slams +10 melee (2d6+2 plus poison [see text])
+Space/Reach: 10 ft./10 ft.
+Special Qualities: Damage reduction 5/-
+Saves: Fort +5, Ref +11, Will +2
+Abilities: Str 14, Dex 21, Con 16, Int 6, Wis 11, Cha 11
+Skills: Listen +5, Spot +6
+Feats: Flyby Attack, Dodge, Mobility, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 5
+
+Smoke Paraelemental, Huge:
+Size: Huge
+Hit Dice: 16d8+64 (136 hp)
+Initiative: +10
+Armor Class: 19 (-2 size, +7 Dex, +4 natural), touch 15, flat-footed 12
+BAB/Grapple: +12/+24
+Attack: Slam +18 melee (2d8+4 plus poison [see text])
+Full Attack: 2 slams +18 melee (2d8+4 plus poison [see text])
+Space/Reach: 15 ft./15 ft.
+Special Qualities: Damage reduction 5/-
+Saves: Fort +9, Ref +19, Will +5
+Abilities: Str 18, Dex 25, Con 18, Int 6, Wis 11, Cha 11
+Skills: Listen +11, Spot +12
+Feats: Flyby Attack, Dodge, Mobility, Spring Attack, Combat Reflexes, Lightning Reflexes, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 7
+
+Smoke Paraelemental, Greater:
+Size: Huge
+Hit Dice: 21d8+84 (178 hp)
+Initiative: +12
+Armor Class: 24 (-2 size, +8 Dex, +8 natural), touch 16, flat-footed 16
+BAB/Grapple: +15/+28
+Attack: Slam +22 melee (2d8+5 plus poison [see text])
+Full Attack: 2 slams +22 melee (2d8+5 plus poison [see text])
+Space/Reach: 15 ft./15 ft.
+Special Qualities: Damage reduction 10/-
+Saves: Fort +11, Ref +22, Will +9
+Abilities: Str 20, Dex 27, Con 18, Int 8, Wis 11, Cha 11
+Skills: Listen +14, Spot +14
+Feats: Flyby Attack, Dodge, Mobility, Spring Attack, Combat Reflexes, Lightning Reflexes, Ability Focus (poison smoke), Iron Will, Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 9
+
+Smoke Paraelemental, Elder:
+Size: Huge
+Hit Dice: 24d8+96 (204 hp)
+Initiative: +12
+Armor Class: 25 (-2 size, +9 Dex, +8 natural), touch 17, flat-footed 16
+BAB/Grapple: +18/+32
+Attack: Slam +26 melee (2d8+6/19-20 plus poison [see text])
+Full Attack: 2 slams +26 melee (2d8+6/19-20 plus poison [see text])
+Space/Reach: 15 ft./15 ft.
+Special Qualities: Damage reduction 10/-
+Saves: Fort +11, Ref +22, Will +9
+Abilities: Str 20, Dex 27, Con 18, Int 8, Wis 11, Cha 11
+Skills: Listen +15, Spot +16
+Feats: Flyby Attack, Dodge, Mobility, Spring Attack, Combat Reflexes, Lightning Reflexes, Ability Focus (poison smoke), Iron Will, Improved Critical (slam), Improved Initiative [B], Weapon Finesse [B]
+Challenge Rating: 11

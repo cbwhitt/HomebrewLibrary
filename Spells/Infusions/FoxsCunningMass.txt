@@ -1,0 +1,6 @@
+:: Fox's Cunning, Mass ::
+Transmutation
+Level: Armorer 6
+Targets: One item or construct per level within 30 ft.
+
+As the spell of the same name, except imbued across multiple items.

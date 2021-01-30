@@ -1,0 +1,15 @@
+:: Tower Shield Master ::
+[Fighter]
+
+Prequisites:
+	Tower shield proficiency
+
+Benefit:
+	You can make shield bash attacks with tower shields. Treat this as an exotic one-handed melee weapon with which you are proficient that deals 1d6 bludgeoning damage with a successful attack. If fitted with shield spikes, this damage changes to 1d8 piercing and bludgeoning. As for other shields, making this shield bash forfeits the shield's bonus to your AC unless you have the improved shield bash feat. If you claimed total cover from the shield, you forfeit it as well, even if you have improved shield bash (though in that case you would still maintain its shield bonus).
+	Additionally, when wielding a tower shield you do not suffer the regular -2 penalty on attack rolls.
+
+Normal:
+	A character cannot bash with a tower shield and suffers a -2 penalty on attack rolls made while employing one.
+
+Special:
+	A fighter may select tower shield master as one of her fighter bonus feats.

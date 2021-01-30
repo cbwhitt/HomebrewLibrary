@@ -1,0 +1,7 @@
+:: Magic Vestment ::
+Transmutation
+Level: Armorer 1
+Target: Armor or shield
+Components: V, S, F
+
+As the spell of the same name.

@@ -1,0 +1,7 @@
+:: Hardening ::
+Transmutation
+Level: Armorer 6
+Components: V, S
+Target: Item
+
+As the spell of the same name. Unlike other infusions, hardening is permanent once activated.
