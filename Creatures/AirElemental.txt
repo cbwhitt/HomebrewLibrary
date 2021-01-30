@@ -1,0 +1,36 @@
+:: Air Elemental ::
+
+All sizes (except tiny [new, see below]) are as the Monster Manual entry, with the following changes:
+-----
+Air Mastery (Ex):
+	An air elemental receives a +1 bonus on attack and damage rolls against airborne (flying) creatures.
+-----
+
+Air Elemental, Tiny:
+Size/Type: Small Elemental (Air, Extraplanar)
+Hit Dice: 1d8 (4 hp)
+Initiative: +8
+Speed: Fly 100 ft. (perfect) (20 squares)
+Armor Class: 19 (+2 size, +4 Dex, +3 natural), touch 16, flat-footed 15
+Base Attack/Grapple: +0/-12
+Attack: Slam +6 melee (1d3-2)
+Space/Reach: 0 ft./0 ft.
+Special Attacks: Air mastery, whirlwind
+Special Qualities: Elemental traits
+Saves: Fort +0, Ref +6, Will +0
+Abilties: Str 6, Dex 19, Con 10, Int 4, Wis 11, Cha 11
+Skills: Listen +2, Spot +2
+Feats: Flyby Attack, Improved Initiative [B], Weapon Finesse [B]
+Environment: Elemental Plane of Air
+Organization: Essence (3-6 plus 2-3 larger elementals)
+Challenge Rating: 1/2
+Treasure: None
+Alignment: Usually neutral
+Advancement: 1 HD (tiny), 2-3 HD (small), 4-7 HD (medium), 8-15 HD (large), 16-20 HD (huge), 21-23 HD (greater), 24+ (elder)
+Level Adjustment: --
+
+Table: Air Elemental Sizes
+::		::		:: 		:: Whirlwind			  ::
+:: Elemental	:: Height	:: Weight	:: Save DC :: Damage :: Height	  ::
+------------------------------------------------------------------------------------
+:: Tiny		:: 2 ft.	:: 1/2 lb.	:: 8	   :: 1d3    :: 10-10 ft. ::
