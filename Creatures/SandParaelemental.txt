@@ -17,7 +17,7 @@ Sand Mastery (Ex):
 	A sand paraelemental receives a +1 bonus to attack and damage rolls against enemies standing or surrounded by sand.
 
 Sand Trap (Su):
-	Once every ten minutes, a sand paraelemental can cause an area of dry earth or sand directly underneath itself to become quicksand. The area affected is dependent on the paraelemental's size, as shown below. This effect lasts for 1 minute for every 2 HD the paraelemental has (minimum 1 minute), after which the area returns to its previous state.
+	Once every ten minutes, a sand paraelemental can cause an area of dry earth, sand, or sandstone directly underneath itself to become quicksand. The area affected is dependent on the paraelemental's size, as shown below. This effect lasts for 1 minute for every 2 HD the paraelemental has (minimum 1 minute), after which the area returns to its previous state.
 
 Table: Sand Trap Size by Size
 :: Elemental	:: Depth	:: Width (radius)	::
