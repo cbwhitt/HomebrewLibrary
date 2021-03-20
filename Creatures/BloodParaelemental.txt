@@ -16,7 +16,7 @@ Blood Mastery (Ex):
 	A blood paraelemental receives a +1 bonus on attack and damage rolls against enemies affected by its enraging wound ability.
 
 Enraging Wound (Su):
-	A blood paraelemental’s attacks cause a persistent wound. An injured creature loses 2 hit points at the start of each of their turns. The wound does not heal naturally and resists healing spells. It can be healed with a successful Heal check, a cure spell, or a heal spell (or equivalent), but a character attempting to heal the wound magically in this way must succeed on a caster level check. 
+	A blood paraelemental’s attacks cause a persistent wound. An injured creature loses 2 hit points at the start of each of their turns. The wound does not heal naturally and resists healing spells. It can be healed with a successful Heal check, a 'cure' spell, or a 'heal' spell (or equivalent), but a character attempting to heal the wound magically in this way must succeed on a caster level check. 
 	Additionally, when a creature becomes wounded, it must succeed on a Will saving throw or become enraged as the spell 'rage' for as long as it remains wounded. A character can willingly fail this save. A blood paraelemental receives a cumulative +2 bonus to Strength and Constitution for each enemy enraged this way for as long as that enemy remains enraged. The maximum bonus a paraelemental can accrue in this manner is based on its size, as shown below.
 
 Table: Maximum Strength and Constitution Bonus by Size
