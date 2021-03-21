@@ -21,7 +21,7 @@ Persistent Wound (Su):
 
 Blood Rage:
 	Spread by creatures native to the Plane of Blood. Symptoms include large bloody tumors that ooze and fall off the body and can spread the disease. Some tumors develop semi-sapience and can crawl slowly toward new hosts. Additionally, as the disease progresses the afflicted develop a violent rage.
-Contact, DC varies, Incubation 1 day, Damage 1d2 Con. A creature afflicted with the blood rage for two or more days develops a violent rage, as the spell rage, until they overcome or are cured of the disease. If a creature dies while afflicted with the blood rage, a blood paraelemental one size category smaller than the creature (if possible) will be created 1d4 hours later, unless the corpse is burned or otherwise rendered to no longer be flesh.
+Contact, DC varies, Incubation 1 day, Damage 1d3 Con. A creature afflicted with the blood rage for two or more days develops a violent rage, as the spell rage, until they overcome or are cured of the disease. If a creature dies while afflicted with the blood rage, a blood paraelemental one size category smaller than the creature (if possible) will be created 1d4 hours later, unless the corpse is burned or otherwise rendered to no longer be flesh.
 
 Table: Persistent Wound by Size
 :: Size		:: Wound Damage	:: DC	::
