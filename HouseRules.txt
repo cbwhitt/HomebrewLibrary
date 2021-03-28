@@ -55,3 +55,10 @@ Native Subtype:
 
 Tower Shields:
 	There are many clarifications and expansions of the rules for tower shields in the FAQs, which are largely a result of treating the tower shield as a piece of terrain. As a clarification of my own: If you are wielding two (or more) tower shields simultaneously, you can claim cover from each of them on your own with a single standard action (thereby providing protection over multiple edges of your space).
+
+Homunculus Subtype:
+	As a clarifying detail, I have added a homunculus subtype for construct creatures. See below.
+	Homunculi are constructs that are irrevocably linked to their creators. They are constructed and designed to carry out specific tasks and are effective tools for magical artisans.
+	Homunculi are extensions of their creators, and as such always share their alignment and same basic nature. Additionally, unlike many constructs, homunculi are intelligent creatures.
+	Homunculi usually cannot speak, but they are linked telepathically with their creators. A homunculus knows what its master knows and convey to them everything it sees or hears out to a distance of 1500 feet. A homunculus never travels beyond this range willingly, though it can be removed forcibly. If this occurs, the creature does everything in its power to regain contact with its master.
+	An attack that destroys a homunculus deals 2d10 points of damage to its master, and if its master is slain, the homunculus also dies.

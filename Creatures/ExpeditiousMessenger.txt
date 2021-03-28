@@ -1,0 +1,33 @@
+:: Expeditious Messenger ::
+Size/Type: Diminutive Construct (homunculus)
+Hit Dice: 1/2 d10 (2 hp)
+Initiative: +3
+Speed: 20 ft. (4 squares), fly 100 ft. (perfect)
+Armor Class: 17 (+4 size, +3 Dex), touch 17, flat-footed 14
+Base Attack/Grapple: +0/-17
+Attack: Sting +7 melee (1d2)
+Full Attack: Sting +7 melee (1d2)
+Space/Reach: 0 ft./ 0 ft.
+Special Attacks: --
+Special Qualities: Construct traits, homunculus traits, darkvision 60 ft., low-light vision, message
+Saves: Fort +0, Ref +5, Will +0
+Abilities: Str 1, DEx 17, Con --, Int 8, Wis 12, Cha 7
+Skills: Escape Artist +7
+Feats: Lightning Reflexes, Weapon Finesse [B]
+Environment: Any
+Organization: Solitary
+Challenge Rating: 1/2
+Treasure: None
+Alignment: Any (same as creator)
+Advancement: 2-3 HD (Tiny)
+
+Example description (from ECS pg. 286): "Looking like a cross between a tiny dragon and a winged lemur, this bizarre creature is only about 9 inches from its black nose to its barbed tail. Its neck is short and its head is round, while its body and tail are long and sinuous. Downy fur covers its body, and its wings are feathered."
+
+Expeditious messengers are homunculi designer to quickly carry messages on behalf of their creators, but they can also serve effectively as spies. Unlike other homunculi, an expeditious messenger is capable of speech, speaking and understanding the same languages as its creator.
+
+Combat:
+An expeditious messenger generally attempts to avoid any obstacles to delivering its message.
+
+Message (Su): An expeditious messenger's master can converse with a creature up to 1 mile away through the homunculus, though the homunculus' telepathic abilities still only function out to 1500 feet. Unlike other homunculi, an expeditious messenger is willing to leave this range, though it only usually does so if it receives an order to return to its master at some point.
+
+Construction:
