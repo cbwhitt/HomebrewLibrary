@@ -28,7 +28,7 @@ Level	:: BAB		:: Saves		:: Special							:: Infusions per Day				::
  20th	:: +15/+10/+5	:: +12  :: +6   :: +12  :: Magical Artisan +8, Advanced Activation (3 infusions)	:: 5   :: 5   :: 5   :: 5   :: 4   :: 3 	::
 
 Class Skills (4 + Int modifier per level, x4 at 1st level):
-Craft (Int), Decipher Script (Int), Heal (Wis), Intimidate (Cha), Knowledge (nobility), Knowledge (history), Knowledge (arcana), Profession (Wis), Search (Int), Spellcraft (Int), Survival (Wis), Use Magic Device (Cha)
+Craft (Int), Decipher Script (Int), Heal (Wis), Intimidate (Cha), Knowledge (nobility), Knowledge (history), Knowledge (arcana), Knowledge (architecture & engineering), Profession (Wis), Search (Int), Spellcraft (Int), Survival (Wis), Use Magic Device (Cha)
  
 Weapon and Armor Proficiency:
 An armorer is proficient with all simple and martial weapons, with light and medium armor, and with shields (but not tower shields).
