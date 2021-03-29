@@ -26,8 +26,13 @@ Example description (from ECS pg. 286): "Looking like a cross between a tiny dra
 Expeditious messengers are homunculi designer to quickly carry messages on behalf of their creators, but they can also serve effectively as spies. Unlike other homunculi, an expeditious messenger is capable of speech, speaking and understanding the same languages as its creator.
 
 Combat:
-An expeditious messenger generally attempts to avoid any obstacles to delivering its message.
+	An expeditious messenger generally attempts to avoid any obstacles to delivering its message.
 
-Message (Su): An expeditious messenger's master can converse with a creature up to 1 mile away through the homunculus, though the homunculus' telepathic abilities still only function out to 1500 feet. Unlike other homunculi, an expeditious messenger is willing to leave this range, though it only usually does so if it receives an order to return to its master at some point.
+Message (Su):
+	An expeditious messenger's master can converse with a creature up to 1 mile away through the homunculus, though the homunculus' telepathic abilities still only function out to 1500 feet. Unlike other homunculi, an expeditious messenger is willing to leave this range, though it only usually does so if it receives an order to return to its master at some point.
 
 Construction:
+	An expeditious messenger is formed from soft clay, bits of hair, scales, feathers, and a pint of the creator's blood. The materials cost 50 gp. Creating the body requires a DC 16 Craft (sculpting) check.
+	An expeditious messenger with more than 1 Hit Die can be created, but each additional Hit Die adds 2000 gp to the COST (not price) to create.
+	Craft Construct, 'arcane eye', 'sending'; Price -- (never sold); Cost 1650 gp + 126 xp
+
