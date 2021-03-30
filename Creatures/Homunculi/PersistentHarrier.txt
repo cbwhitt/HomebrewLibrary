@@ -1,0 +1,34 @@
+:: Persistent Harrier ::
+Size/Type: Small Construct
+Hit Dice: 2d10+10 (21 hp)
+Initiative: +3
+Speed: 40 ft. (8 squares)
+Armor Class: 18 (+1 size,+3 Dex, +4 natural), touch 14, flat-footed 15
+Base Attack/Grapple: +1/-2
+Attack: Spike +3 melee (1d6+1)
+Full Attack: Spike +3 melee (1d6+1)
+Space/Reach: 5 ft./5 ft.
+Special Attacks: Sneak attack +1d6
+Special Qualities: Construct traits, homunculus traits, darkvision 60 ft., low-light vision
+Saves: Fort +0, Ref +3, Will +0
+Abilities: Str 12, Dex 16, Con --, Int 11, Wis 10, Cha 7
+Skills: Jump +14, Tumble +12
+Feats: Acrobatic
+Environment: Any
+Organization: Solitary
+Challenge Rating: 1
+Treasure: None
+Alignment: Any (same as creator)
+Advancement: 3-6 HD (small)
+Level Adjustment: --
+
+Example description (from ECS pg. 285): "A small, wiry figure darts between the legs of combatants, poking dangerous-looking spikes toward its foes."
+
+Standing almost 2 feet tall, a persistent harrier is designed to weave in and out of combat, distracting and flanking opponents to assist its master.
+
+Sneak Attack (Ex): A persitent harrier deals an extra 1d6 points of damage when it is flanking an opponent or any time when the target would be denied its Dexterity bonus. See the rogues class feature, page 50 of the Player's Handbook.
+
+Construction:
+	A persistent harrier is craft from leather, metal, clay, and a pint of the creator's blood. The materials cost 50 gp. Creating the body requires a DC 14 Craft (sculpting) check.
+	A persistent harrier with more than 1 Hit Die can be created, but each additional Hit Die adds 2000 gp to the COST (not price) to create.
+	Craft Construct, 'arcane eye', 'mending'; Price -- (never sold); Cost 1250 gp + 93 xp.

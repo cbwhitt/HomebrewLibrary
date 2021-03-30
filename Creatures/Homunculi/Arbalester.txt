@@ -1,0 +1,35 @@
+:: Arbalester ::
+Size/Type: Tiny Construct
+Hit Dice: 1d10 (5 hp)
+Initiative: +4
+Speed: 10 ft. (2 squares)
+Armor Class: 16 (+2 size, +4 Dex), touch 16, flat-footed 12
+Base Attack/Grapple: +0/-9
+Attack: Masterwork light crossbow +7 ranged (1d8/19-20)
+Full Attack: Masterwork light crossbow +7 ranged (1d8/19-20)
+Space/Reach: 2-1/2 ft./0 ft.
+Special Attacks: --
+Special Qualities: Construct traits, homunculus traits, darkvision 60 ft., low-light vision
+Saves: Fort +0, Ref +4, Will +0
+Abilities: Str 8, Dex 19, Con --, Int 12, Wis 10, Cha 7
+Skills: Balance +8, Listen +4, Spot +4
+Feats: Point Blank Shot
+Environment: Any
+Organization: Solitary
+Challenge Rating: 1/2
+Treasure: None
+Alignment: Any (same as creator)
+Advancement: 2-6 HD (tiny), 7-10 HD (small)
+Level Adjustment: --
+
+Example description (from ECS pg. 285): "What at first appeared to be a carving of arms and a face on the stock of a crossbow suddenly springs to life, the arms moving to reload the crossbow while the face looks for another target."
+
+An arbalester is a homunculus specialized in ranged combat. It is built around the stock of a light crossbow, which it can fire and reload itself using the normal rules for crossbow attacks. Its body includes a quiver capable of carrying 20 bolts. Once built, the crossbow cannot be separated without destroying the homunculus.
+
+Item Creation (Su):
+	A dedicated wright can perform the daily tasks related to item creaiton on behalf of its master. The master must meet (or emulate) all the prerequisites to create the desired item normally, and pays the gold and xp cost themself. The only cost a dedicated wright can assist with is time. The master must spend at least 1 hour initiating the process, channeling the necessary spells into the dedicated wright and paying the xp cost to make the item. They may then leave, allowing the wright to carry the process through to completion.
+
+Construction:
+	An arbalester is carved from wood, threads of silver and gold, a pint of the creator's blood, and a masterwork light crossbow. The materials cost 350 gp. Creating the body requires a DC 14 Craft (sculpting) check or a DC 14 Craft (carpentry) check.
+	An arbalester with more than 1 Hit Die can be created, but each additional Hit Die adds 2000 gp to the COST (not price) to create.
+	Craft Construct, 'arcane eye', 'mending'; Price -- (never sold); Cost 1250 gp + 93 xp.

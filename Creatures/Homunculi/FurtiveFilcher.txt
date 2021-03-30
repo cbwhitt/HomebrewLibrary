@@ -1,0 +1,32 @@
+:: Furtive Filcher ::
+Size/Type: Tiny Construct
+Hit Dice: 1d10 (5 hp)
+Initiative: +4
+Speed: 50 ft. (10 squares)
+Armor Class: 16 (+2 size, +4 Dex), touch 16, flat-footed 12
+Base Attack/Grapple: +0/-9
+Attack: Bite +1 melee (1d4-1)
+Full Attack: Bite +1 melee (1d4-1)
+Space/Reach: 2-1/2 ft./0 ft.
+Special Attacks: --
+Special Qualities: Construct traits, homunculus traits, darkvision 60 ft., low-light vision
+Saves: Fort +0, Ref +4, Will +0
+Abilities: Str 8, Dex 19, Con --, Int 12, Wis 10, Cha 7
+Skills: Hide +18, Move Silently +10, Sleight of Hand +8
+Feats: Stealthy
+Environment: Any
+Organization: Solitary
+Challenge Rating: 1/2
+Treasure: None
+Alignment: Any (same as creator)
+Advancement: 2-6 HD (tiny), 7-10 HD (small)
+Level Adjustment: --
+
+Example description (from ECS pg. 286): "This tiny creature seems like nothing more than a wisp of shadow in a vaguely humanoid form, about eighteen inches tall. It moves with incredible quickness.
+
+A furtive filcher makes an adept thief, including as a pick-pocket in and out of combat.
+
+Construction:
+	A furtive filcher is assembled from clay, ashes, a pint of the creator's blood, and raw shadowstuff from the Plane of Shadow. The materials cost 50 gp. Creating the body requires a DC 12 Craft (sculpting) or a DC 12 Craft (pottery) check.
+	A furtive filcher with more than 1 Hit Die can be created, but each additional Hit Die adds 2000 gp to the COST (not price) to create.
+	Craft Construct, 'arcane eye', 'shadow conjuration'; Price -- (never sold); Cost 1550gp + 118 xp.

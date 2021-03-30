@@ -1,0 +1,43 @@
+:: Packmate ::
+Size/Type: Small Construct
+Hit Dice: 2d10+13 (24 hp)
+Initiative: +0
+Speed: 30 ft. (6 squares)
+Armor Class: 15 (+1 size, +4 natural), touch 11, flat-footed 15
+Base Attack/Grapple: +1/+0
+Attack: Slam +5 melee (1d3+3)
+Full Attack: Slam +5 melee (1d3+3)
+Space/Reach: 5 ft./5 ft.
+Special Attacks: Throw flask
+Special Qualities: Construct traits, homunculus traits, darkvision 60 ft., low-light vision, feed potion, hold item, ready item
+Saves: Fort +0, Ref +0, Will +1
+Abilities: Str 16, Dex 11, Con --, Int 8, Wis 12, Cha 7
+Skills: Climb +6, Swim +5
+Feats: Toughness
+Environment: Any
+Organization: Solitary
+Challenge Rating: 1
+Treasure: None
+Alignment: Any (same as creator)
+Advancement: 3-6 HD (small)
+Level Adjustment: --
+
+Example description (from ECS pg. 285): "A chest that moments ago was resting upon the floor suddenly stands on legs of its own. As it opens a lid on its top, an arm folds out from the side of the chest and begins sifting through the contents of its internal compartments."
+
+A packmate is designed to carry items for its master, resembling a chest with several compartments. It stands on four legs and has a pair of arms ending in pincerlike claws, which it uses to stow items.
+The packmate's compartments are difficult to open. Treat each as if protected by an 'arcane lock' spell cast by a 3rd-level caster.
+A packmate's carrying capacity is as a medium creature instead of a small creature.
+
+Throw Flask (Ex):
+	A packmate can be directed to make ranged attacks with vials of acid, holy water, or similar splash weapons. It can throw any such item it carries.
+
+Feed Potion (ex):
+	A packmate is dexterous enough to retrieve a potion from one of its storage compartments, uncork it, and administer it to a fallen creature. A packmate is typically given instructions to use a 'cure' potion on its master if they fall.
+
+Ready Item (Ex):
+	The telepathic connection between a packmate and its master allows it to anticipate what item its master might call for next. If the homunculus and its master are adjacent, then the master can retrieve an item from the packmate as a swift action that does not provoke attacks of opportunity.
+
+Construction:
+	A packmate is constructed from wood or metal and a pint of te creator's blood. The materials cost 50 gp. Creating the body requires a DC 14 Craft (sculpting) chec.
+	A packmate with more than 2 Hit Dice can be created, but each addtional Hit Die adds 2000 gp to the COST (not price) to create.
+	Craft Construct, 'arcane lock', 'arcane eye', 'mending'; Price -- (never sold); Cost 1260 gp + 93 xp.

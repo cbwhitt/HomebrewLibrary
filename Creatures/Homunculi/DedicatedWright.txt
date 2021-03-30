@@ -1,0 +1,35 @@
+:: Dedicated Wright ::
+Size/Type: Tiny Construct
+Hit Dice: 1d10 (5 hp)
+Initiative: +0
+Speed: 10 ft. (2 squares)
+Armor Class: 12 (+2 size), touch 12, flat-footed 12
+Base Attack/Grapple: +0/-7
+Attack: Hammer +3 melee (1d3+1)
+Full Attack: Hammer +3 melee (1d3+1)
+Space/Reach: 2-1/2 ft./0 ft.
+Special Attacks: --
+Special Qualities: Construct traits, homunculus traits, darkvision 60 ft., item creation, low-light vision
+Saves: Fort +0, Ref +0, Will +0
+Abilities: Str 12, Dex 11, Con --, Int 10, Wis 11, Cha 7
+Skills: Craft (any) +7, Craft (any) +4
+Feats: Skill Focus (Craft)
+Environment: Any
+Organization: Solitary
+Challenge Rating: 1/2
+Treasure: None
+Alignment: Any (same as creator)
+Advancement: 2-3 HD (tiny), 4-10 HD (small)
+Level Adjustment: --
+
+Example description (from ECS pg. 285): "Resembling a stunted, misshapen dwarf barely over a foot tall, the creature hobbles slowly away from the item it was working on."
+
+A dedicated wright is skilled enough to carry out the process of item creation for its master, when given proper instruction. Additionally, unlike most homunculi, a dedicated wright will tolerate separation from its master, staying home dutifully crafting new items.
+
+Item Creation (Su):
+	A dedicated wright can perform the daily tasks related to item creaiton on behalf of its master. The master must meet (or emulate) all the prerequisites to create the desired item normally, and pays the gold and xp cost themself. The only cost a dedicated wright can assist with is time. The master must spend at least 1 hour initiating the process, channeling the necessary spells into the dedicated wright and paying the xp cost to make the item. They may then leave, allowing the wright to carry the process through to completion.
+
+Construction:
+	A dedicated wright is molded from clay, glazed with a mixture of arcane unguents and the creator's blood, and fired in a kiln. The materials cost 100 gp. Crating the body requires a DC 14 Craft (sculpting) check.
+	A dedicated wright with more than 1 Hit Die can be created, but each additional Hit Die adds 2000 gp to the cost to create.
+	Craft Construct, 'arcane eye', 'fabricate', Price -- (never sold); Cost 2100 gp + 160 xp.
