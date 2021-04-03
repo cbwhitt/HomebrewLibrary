@@ -60,7 +60,7 @@ Hit Dice:
 	An armorer’s homunculus servant has a number of Hit Dice equal to her armorer level. Whenever the armorer gains a level, her servant gains a Hit Die. Her servant’s statistics improve as normal for a construct, and since homunculi are intelligent, they receive additional skill points and feats as they advance. Her servant’s size grows when it acquires enough Hit Dice (as dictated by its creature entry), its statistics changing consistent with the rules outlined in the Monster Manual. A homunculus may be advanced beyond the maximum number of Hit Dice indicated in its entry in this way, though it never again grows in size.
 
 Share Infusions:
-	At her option, when an armorer activates an infusion, she may have that infusion affect her servant as though it had been imbued with it also. The servant must be within 5 feet of her at the time of activation to receive the benefit. The infusion stops affecting the servant if it moves more than 5 feet away and will not affect it again, even if it returns before the duration expires.
+	At her option, when an armorer activates an infusion, she may have that infusion affect her servant as though it had been imbued with it also. The servant must be within 5 feet of her at the time of activation to receive the benefit. The infusion stops affecting the servant if it ends its turn more than 5 feet away from the armorer and will not affect it again, even if it returns before the duration expires.
 
 Evasion (Ex):
 	Beginning at 3rd level, if an armorer’s homunculus servant is subjected to an attack that normally allows a Reflex saving throw for half damage, it instead takes no damage if it makes a successful saving throw.
