@@ -5,7 +5,7 @@ Prequisites:
 	Improved shield bash
 
 Benefit:
-	You can effectively leverage wielding two shields simultaneously. When you wear two shields, you may add one half the shield bonus of the shield in your off hand (rounded down, minimum 1) to your AC in addition to the shield bonus of the other shield.
+	You can effectively leverage wielding two shields simultaneously. When you bear two shields, you may add one half the shield bonus of the shield in your off hand (rounded down, minimum 1) to your AC in addition to the shield bonus of the other shield.
 
 Normal:
 	A character, though capable of wielding two shields, does not receive the bonus from both shields.

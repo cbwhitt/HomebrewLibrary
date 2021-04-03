@@ -29,7 +29,7 @@ Level	:: BAB			:: Saves		:: Special									:: AC Bonus 	::
 
 Class Skills: (2 + Int modifier per level, x4 at 1st level):
 
-Craft (Int), Listen (Wis), Sense Motive (Wis), and Spot (Wis)
+Craft (Int), Intimidate (Cha), Listen (Wis), Profession (Wis), Sense Motive (Wis), and Spot (Wis)
  
 Weapon and Armor Proficiency:
 	A defender is proficient with all simple and martial weapons, all types of armor, and shields (including tower shields).
@@ -53,6 +53,8 @@ Uncanny Dodge (Ex):
 
 Trap Sense (Ex):
 	At 3rd level, a defender gains a +1 bonus on Reflex saves made to avoid traps and a +1 dodge bonus to AC against attacks by traps. At every 3rd level thereafter, these bonuses increase by 1. These bonuses stack with trap sense bonuses gained from other classes.
+Damage Reduction (Ex):
+
 Damage Reduction (Ex):
 	At 5th level, a defender gains damage reduction. Subtract 2 points from the damage the defender takes each time he is dealt damage from a weapon or a natural attack. At every fifth level thereafter, this damage reduction rises by 2 points. Damage reduction can reduce damage to 0 but not below 0.
 

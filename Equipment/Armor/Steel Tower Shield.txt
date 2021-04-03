@@ -9,4 +9,4 @@ Weight: 60 lb.
 
 Shield Bonus: +4
 
-This shield functions exactly as a tower shield, except that it is made of metal, making it more difficult to break and heaver to carry.
+This shield functions exactly as a tower shield, except that it is made of metal, making it more difficult to break and heavier to carry.
