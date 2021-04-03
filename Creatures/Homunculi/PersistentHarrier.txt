@@ -19,7 +19,7 @@ Organization: Solitary
 Challenge Rating: 1
 Treasure: None
 Alignment: Any (same as creator)
-Advancement: 3-6 HD (small)
+Advancement: 3-8 HD (Small), 9-13 HD (Medium)
 Level Adjustment: --
 
 Example description (from ECS pg. 285): "A small, wiry figure darts between the legs of combatants, poking dangerous-looking spikes toward its foes."

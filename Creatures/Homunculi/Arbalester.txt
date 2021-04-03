@@ -19,7 +19,7 @@ Organization: Solitary
 Challenge Rating: 1/2
 Treasure: None
 Alignment: Any (same as creator)
-Advancement: 2-6 HD (tiny), 7-10 HD (small)
+Advancement: 2-5 HD (tiny), 6-10 HD (small)
 Level Adjustment: --
 
 Example description (from ECS pg. 285): "What at first appeared to be a carving of arms and a face on the stock of a crossbow suddenly springs to life, the arms moving to reload the crossbow while the face looks for another target."

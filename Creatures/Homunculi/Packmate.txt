@@ -19,14 +19,14 @@ Organization: Solitary
 Challenge Rating: 1
 Treasure: None
 Alignment: Any (same as creator)
-Advancement: 3-6 HD (small)
+Advancement: 3-7 HD (Small), 8-10 HD (Medium)
 Level Adjustment: --
 
 Example description (from ECS pg. 285): "A chest that moments ago was resting upon the floor suddenly stands on legs of its own. As it opens a lid on its top, an arm folds out from the side of the chest and begins sifting through the contents of its internal compartments."
 
 A packmate is designed to carry items for its master, resembling a chest with several compartments. It stands on four legs and has a pair of arms ending in pincerlike claws, which it uses to stow items.
 The packmate's compartments are difficult to open. Treat each as if protected by an 'arcane lock' spell cast by a 3rd-level caster.
-A packmate's carrying capacity is as a medium creature instead of a small creature.
+A packmate's carrying capacity is as a medium creature instead of a small creature (one size category larger than its actual size).
 
 Throw Flask (Ex):
 	A packmate can be directed to make ranged attacks with vials of acid, holy water, or similar splash weapons. It can throw any such item it carries.

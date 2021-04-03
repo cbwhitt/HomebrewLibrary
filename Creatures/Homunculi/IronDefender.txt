@@ -19,7 +19,7 @@ Organization: Solitary
 Challenge Rating: 1
 Treasure: None
 Alignment: Any (same as creator)
-Advancement: 3-6 HD (Small), 7-10 HD (Medium)
+Advancement: 3-5 HD (Small), 6-11 HD (Medium), 12-16 HD (Large)
 Level Adjustment: --
 
 Example description (from ECS pg. 287): "This creature resembles a dog, but its body is formed from iron plates and bars. It stands about two feet high at the shoulder. Its mouth is lined with serrated blades of steel."
