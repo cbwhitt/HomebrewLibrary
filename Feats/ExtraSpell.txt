@@ -1,0 +1,10 @@
+:: Extra Spell ::
+
+Prerequisites:
+	Caster level 1st, limited number of spells known (such as a sorcerer, bard, or elementalist)
+
+Benefit:
+	You learn one additional spell of any level you can cast when you take this feat. Thus, a 3rd-level sorcerer (maximum spell level 1st) may learn a new 0th level or 1st level spell. The spell learned in this way may exceed the number of spells such a caster would ordinarily know.
+
+Special:
+	You may gain this feat multiple times. Each time you do, you learn a different spell.
