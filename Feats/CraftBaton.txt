@@ -1,0 +1,9 @@
+:: Craft Baton ::
+[Item Creation, Virgery]
+
+Preprequisites:
+	Caster level 3rd
+
+Benefit:
+	You can fashion batons, magical sticks that act as storage devices for spells. Creating a baton is similar to creating a wand. Batons follow all the rules for wands, except that batons only carry one charge of the spell within them, and may only contain spells of up to 3rd level (instead of 4th).
+	The base price of a baton is its spell level x its caster level x 35 gp. To fashion a baton, you must spend 1/25 of this base price in xp and use up raw materials costing one half of this base price. Fashioning a baton takes 1 day for each 1000 gp in its base price. Any baton that stores a spell with a costly material component or xp cost also carries a commensurate cost; in addition to the costs derived from the base price, you must expend the material component or pay the xp when creating the baton.

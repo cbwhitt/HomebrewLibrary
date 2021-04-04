@@ -1,0 +1,69 @@
+:: Arcanist ::
+Starting Age: Complex
+Hit Die: d6
+
+Table: The Arcanist
+Level	:: BAB		:: Saves		:: Special						:: Imbuements per Day				::
+			:: Fort :: Ref  :: Will ::							:: 1st :: 2nd :: 3rd :: 4th :: 5th :: 6th 	::
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1st	:: +0		:: +0	:: +0	:: +2	:: Craft Baton, Magical Artisan				:: 2   :: --  :: --  :: --  :: --  :: --	::
+ 2nd	:: +1		:: +0	:: +0	:: +3	:: Virgery Focus					:: 3   :: --  :: --  :: --  :: --  :: --	::
+ 3rd	:: +1		:: +1	:: +1	:: +3	:: Stick Slinger					:: 3   :: --  :: --  :: --  :: --  :: --	::
+ 4th	:: +2		:: +1	:: +1	:: +4	:: Craft Wand						:: 4   :: 2   :: --  :: --  :: --  :: --	::
+ 5th	:: +2		:: +1	:: +1	:: +4	:: 							:: 4   :: 3   :: --  :: --  :: --  :: --	::
+ 6th	:: +3		:: +2	:: +2	:: +5	:: Craft Scepter					:: 5   :: 3   :: --  :: --  :: --  :: --	::
+ 7th	:: +3		:: +2	:: +2	:: +5	::							:: 5   :: 4   :: 2   :: --  :: --  :: --	::
+ 8th	:: +4		:: +2	:: +2	:: +6	:: Ace of Wands (1 bonus)				:: 5   :: 4   :: 3   :: --  :: --  :: --	::
+ 9th	:: +4		:: +3	:: +3	:: +6	:: 							:: 6   :: 5   :: 3   :: --  :: --  :: --	::
+ 10th	:: +5		:: +3	:: +3	:: +7	:: Expert Virger (4th)					:: 6   :: 5   :: 4   :: 2   :: --  :: --	::
+ 11th	:: +5		:: +3	:: +3	:: +7	:: Craft Staff						:: 6   :: 5   :: 4   :: 3   :: --  :: --	::
+ 12th	:: +6/+1	:: +4	:: +4	:: +8	::							:: 7   :: 6   :: 5   :: 3   :: --  :: --	::
+ 13th	:: +6/+1	:: +4	:: +4	:: +8	:: Expert Virger (5th)					:: 7   :: 6   :: 5   :: 4   :: 2   :: --	::
+ 14th	:: +7/+2	:: +4	:: +4	:: +9	:: Ace of Wands (2 bonus)				:: 7   :: 6   :: 5   :: 4   :: 3   :: --	::
+ 15th	:: +7/+2	:: +5	:: +5	:: +9	::							:: 7   :: 7   :: 6   :: 5   :: 3   :: --	::
+ 16th	:: +8/+3	:: +5	:: +5	:: +10	:: Expert Virger (6th)					:: 8   :: 7   :: 6   :: 5   :: 4   :: 2 	::
+ 17th	:: +8/+3	:: +5	:: +5	:: +10	::							:: 8   :: 7   :: 6   :: 5   :: 4   :: 3 	::
+ 18th	:: +9/+4	:: +6	:: +6	:: +11	:: 							:: 8   :: 7   :: 7   :: 6   :: 5   :: 3 	::
+ 19th	:: +9/+4	:: +6	:: +6	:: +11	::							:: 8   :: 8   :: 7   :: 6   :: 5   :: 4 	::
+ 20th	:: +10/+5	:: +6	:: +6	:: +12	:: Ace of Wands (3 bonus)				:: 8   :: 8   :: 7   :: 6   :: 5   :: 4 	:: 
+
+Class Skills (4 + Int modifier per level, x4 at 1st level):
+	Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Knowledge (arcana), Knowledge (architecture and engineering), Knowledge (dungeoneering), Knowledge (nature), Profession (Wis), Search (Int), Spellcraft (Int), Use Magic Device (Cha)
+
+Weapon and Armor Proficiency:
+	An arcanist is proficient with all simple weapons, but not with any armor or shield.
+
+Bonus Feats:
+	An arcanist gains every virgery feat as a bonus feat at or near the level at which it becomes available to spellcasters, regardless of whether he meets the prerequisites. He gains Craft Baton at 1st level, Craft Wand at 4th level, Craft Scepter at 6th level, and Craft Staff at 11th level.
+
+Infusions:
+	An arcanist is not a spellcaster in the typical sense, but he does have the ability to create temporary virgeries (wands, batons, etc.) which produce spell effects. He does so through infusions. The way an arcanist uses infusions is straightforward: he uses them to create impermanent versions of virgeries. Essentially, he hastily assembles a virgery from different components he has on hand in his virger's kit and seals them together with a bit of his own magic, the infusion. For example, an arcanist who knows the infusion 'scorching ray' could spend one minute (since infusions generally take 1 minute to imbue) fashioning a baton from sticks and gems in his pouch. The baton so created works exactly like a true baton of 'scorching ray', except that the magic of the item is maintained by the infusion (and could, for example, fade away when the arcanist receives a new daily allotment of infusions). In all cases, since the source of the effect is the item, it is transferrable inasmuch as the item can change possession. An arcanist's allies can find just as much use out of the items he emulates with his infusions as he can.
+	To imbue infusions in this way, an arcanist must have the item creation feat corresponding to the virgery he wishes to emulate. He need only spend the one minute it takes to imbue an infusion, however, and there is no base cost associated with imbuing the infusion (the infusion only emulates the quality of a magic item). Each infusion ordinarily produces only one charge of the corresponding spell effect within the virgery. Thus, in most cases any virgery an arcanist emulates with his infusion will function as a baton. However, in the case of virgeries which can hold multiple charges, an arcanist may imbue the same infusion into an item multiple times to produce additional charges of that effect, up to the number of charges that virgery can hold. Each infusion still takes the full 1 minute of time. In the case of scepters, the infusion does not allow the charges to be restored automatically. In the case of staves, multiple different spell effects can be imbued in the same item.
+	To learn or use an infusion, an arcanist must have an Intelligence score equal to at least 10 + the infusion level. The Difficulty Class for a saving throw against an effect produced by an arcanist's infusion is 10 + the infusion level + the arcanist's Intelligence modifier. This supercedes the rules for saving throws from magic items, as it is the infusion producing the effect. His caster level for these effects is his alchemist level. In the case of staves, if another character uses the staff, for both the caster level and the Difficult Class use either that character's or the arcanist's, whichever is greater. All infusions require an arcanist to have access to a kit full of miscellaneous materials and tools when imbued.
+	An arcanist can only use so many infusions of each infusion level per day. He needs 8 hours of rest to regain his infusions for the day. His base daily infusion allotment is shown in the table above. In addition, he receives bonus infusions per day if he has a high Intelligence score. The number of bonus infusions is equivalent to the number of bonus spells granted to a spellcaster for having a high ability score.
+	An arcanist does not have an explicit infusion list the way an armorer does, since all his infusions manifest as virgeries, which are containers for explicit spell effects. Instead, there exists implicitly for each arcane spell that can be incorporated into a virgery an equivalent infusion of the same name, which produces a spell effect that functions identically to it. That is, there is an infusion 'scorching ray' for the spell 'scorching ray' and an infusion 'fireball' for the spell 'fireball', etc.
+	Though the temporary virgeries created by an arcanist's infusions have no inherent cost, when imbuing an infusion the arcanist must still consume any costly material components, pay any xp cost, and have on hand any needed focus. These costs are forfeit if the magic of the infusion lapses.
+	Like a spellcaster, an arcanist can apply metamagic feats he knows when using an infusion. The metamagic applies to the spell effect created by the infusion, as opposed to the imbuing of the infusion itself. Imbuing an infusion in this way takes no more time than usual.
+	An arcanist may know any number of infusions. However, the details of the construction are difficult to memorize and must be recorded in a journal (see below). He need not prepare his infusions in advance. He may imbue any infusion he knows at any time, provided he has his journal at hand and has not yet used up his infusions per day for that level.
+
+Journals:
+	The complexity of an arcanist's infusions are such that they cannot be memorized and must instead be recorded in a journal. An arcanist must reference his journal to use his infusions. He cannot use an infusion not recorded in his journal.
+	Arcanists begin play with a journal containing 3 1st-level infusions. For each point of Intelligence bonus the alchemist has, the journal holds one additional 1st-level infusion of your choice. At each new arcanist level, he gains two new infusions of any infusion level or levels that he can use (based on his new level) for his journal. At any time, an arcanist can also develop an infusion and add it to his journal or copy from a scroll of the equivalent spell the same way a wizard can incorporate additional spells into her spellbook. Writing an infusion into his journal, aside from the two free infusions he gains at every level, costs the same as writing a spell into a spellbook. Journals otherwise function identically to spellbooks.
+
+Magical Artisan:
+	An arcanist gains every virgery feat as a bonus feat at or near the level at which it becomes available to normal spellcasters, regardless of whether he meets the prerequisites. He gains Craft Baton at 1st level, Craft Wand at 4th level, Craft Scepter at 4th level, and Craft Staff at 10th level.
+	When crafting a magic item, an arcanist may use an infusion in his journal in place of the corresponding spell. For example, to craft a true wand of 'scorching ray', an arcanist can use the infusion 'scorching ray' in the same way a normal spellcaster would use the spell of the same name. For all other spells, he must emulate knowing the spell using the Use Magic Device skill or have access to another magic item that stores the spll as normal. An arcanist's skill working with magic items provides him a +4 bonus to Use Magic Device checks to emulate knowing spells made in this way.
+
+Virgery Focus (Ex):
+	At 2nd level, an arcanist gains a +1 bonus on attack rolls made when casting a spell from a virgery, regardless of whether the spell is a ray, a touch spell, or a spell that requires a normal attack roll. This bonus stakcs with the benefit of Weapon Focus (ray) and similar feats.
+
+Stick Slinger (Ex):
+	At 3rd level, an arcanist can produce a virgery stored at his belt or in a bandolier as a free action, as if he were drawing a weapon using the Quick Draw feat. Staves are too large to be retrieved in this way.
+
+Ace of Wands (Su):
+	At 8th level, an arcanist learns how to activate two virgeries one after the other in rapid succession as a full-round action. He may not activate virgeries which produce spell effects with a casting time greater than 1 standard action in this way, and he cannot activate the same virgery multiple times in this way, even to produce different spell effects. An arcanist must be able to produce and stow virgeries as fast as he activates them (i.e. through use of the stick slinger ability).
+	At 14th level, an arcanist may instead activate three virgeries as a full-round action, and at 20th level, four.
+
+Master Virger (Ex):
+	At 10th level, the maximum spell level you can imbue into a virgery increases to 4th, beyond the normal limit for batons.
+	At 13th level and 16th level, this ability improves by one additional level (to a maximum of 6th-level spells at 16th level).
