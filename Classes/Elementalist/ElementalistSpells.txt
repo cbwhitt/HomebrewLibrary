@@ -282,6 +282,7 @@ Remove Disease
 Remove Fear
 Remove Paralysis
 Red Tide
+Restoration, Lesser
 Restoration
 Restoration, Greater
 Restoration, Mass
