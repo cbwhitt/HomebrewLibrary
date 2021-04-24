@@ -6,3 +6,6 @@ Prerequisites:
 
 Benefit:
 	When wielding one or more shields, adjacent allies receive a shield bonus to AC equal to one half your total shield bonus, rounded down. Unlike other shield bonuses, this effect stacks with any shield bonuses those allies may have.
+
+Special:
+	A fighter may select shield others as one of her fighter bonus feats.
