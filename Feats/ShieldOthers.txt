@@ -1,0 +1,8 @@
+:: Shield Others ::
+[Fighter]
+
+Prerequisites:
+	Improved shield bash, proficiency with shields
+
+Benefit:
+	When wielding one or more shields, adjacent allies receive a shield bonus to AC equal to one half your total shield bonus, rounded down. Unlike other shield bonuses, this effect stacks with any shield bonuses those allies may have.

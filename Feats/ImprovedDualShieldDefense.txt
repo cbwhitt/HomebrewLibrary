@@ -5,7 +5,7 @@ Prequisites:
 	Improved shield bash, dual shield defense, fighter level 6th
 
 Benefit:
-	When wielding a shield in both hands, you may add the entire shield bonus of your off-hand shield to your AC, instead of one-half.
+	When wielding a shield in each hand, you may add the entire shield bonus of your off-hand shield to your AC, instead of one-half.
 
 Normal:
 	A character fighting with two shields using dual shield defense receives only one-half of its shield bonus to their AC.

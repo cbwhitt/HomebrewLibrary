@@ -9,22 +9,22 @@ Level	:: BAB			:: Saves		:: Special									:: AC Bonus 	::
  1st	:: +1			:: +2   :: +0   :: +2   :: Defensive Stance 1/day, Advanced Shield Proficiency				:: +0		::
  2nd	:: +2			:: +3   :: +0   :: +3   :: Uncanny Dodge, Bonus Feat							:: +0		::
  3rd	:: +3			:: +3   :: +1   :: +3   :: Trap Sense +1								:: +1		::
- 4th	:: +4			:: +4   :: +1   :: +4   :: Defensive Stance 2/day							:: +1		::
+ 4th	:: +4			:: +4   :: +1   :: +4   :: Defensive Stance 2/day, Bonus Feat						:: +1		::
  5th	:: +5			:: +4   :: +1   :: +4   :: Improved Uncanny Dodge. Damage Reduction 2/--				:: +1		::
  6th	:: +6/+1		:: +5   :: +2   :: +5   :: Trap Sense +2								:: +2		::
  7th	:: +7/+2		:: +5   :: +2   :: +5   :: Mobile Stance								:: +2		::
  8th	:: +8/+3		:: +6   :: +2   :: +6   :: Defensive Stance 3/day, Bonus Feat						:: +2		::
- 9th	:: +9/+4		:: +6   :: +3   :: +6   :: Trap Sense +3								:: +3		::
+ 9th	:: +9/+4		:: +6   :: +3   :: +6   :: Trap Sense +3, Shared Stance (adjacent allies)				:: +3		::
  10th	:: +10/+5		:: +7   :: +3   :: +7   :: Damage Reduction 4/--							:: +3		::
  11th	:: +11/+6/+1		:: +7   :: +3   :: +7   :: Greater Stance								:: +3		::
- 12th	:: +12/+7/+2		:: +8   :: +4   :: +8   :: Defensive Stance 4/day, Trap Sense +4					:: +4		::
+ 12th	:: +12/+7/+2		:: +8   :: +4   :: +8   :: Defensive Stance 4/day, Trap Sense +4, Bonus Feat				:: +4		::
  13th	:: +13/+8/+3		:: +8   :: +4   :: +8   :: Greater Mobile Stance							:: +4		::
- 14th	:: +14/+9/+4		:: +9   :: +4   :: +9   :: Bonus Feat									:: +4		::
+ 14th	:: +14/+9/+4		:: +9   :: +4   :: +9   :: Interpose									:: +4		::
  15th	:: +15/+10/+1		:: +9   :: +5   :: +9   :: Damage Reduction 6/--, Trap Sense +5						:: +5		::
- 16th	:: +16/+11/+6/+1	:: +10  :: +5   :: +10  :: Defensive Stance 5/day							:: +5		::
+ 16th	:: +16/+11/+6/+1	:: +10  :: +5   :: +10  :: Defensive Stance 5/day, Bonus Feat						:: +5		::
  17th	:: +17/+12/+7/+2	:: +10  :: +5   :: +10  :: Tireless Stance								:: +5		::
  18th	:: +18/+13/+8/+3	:: +11  :: +6   :: +11  :: Trap Sense +6								:: +6		::
- 19th	:: +19/+14/+9/+4	:: +11  :: +6   :: +11  :: 										:: +6		::
+ 19th	:: +19/+14/+9/+4	:: +11  :: +6   :: +11  :: Shared Stance (15 feet)							:: +6		::
  20th	:: +20/+15/+10/+5	:: +12  :: +6   :: +12  :: Damage Reduction 8/--, Mighty Stance, Defensive Stance 6/day, Bonus Feat	:: +6		::
 
 Class Skills: (2 + Int modifier per level, x4 at 1st level):
@@ -41,11 +41,11 @@ Advanced Shield Proficiency:
 	A defender gains Improved Shield Bash and Tower Shield Mastery as bonus feats at 1st level.
 
 Defensive Stance (Ex):
-	A defender can adopt a defensive stance a certain number of times per day, fortifying himself at the cost of his mobility. He gains a +2 bonus to Strength, a +4 bonus to Constitution, a +2 resistance bonus on all saving throws, and a +4 dodge bonus to AC. The increase in Constitution increases the defender’s hit points by 2 points per level, but these hit points go away at the end of the defensive stance when his Constitution score drops back to normal. (These extra hit points are not lost first the way temporary hit points are.) While in a defensive stance, a defender may not move or use abilities that would require him to move into a new square except that he can take one five-foot step each turn. If a defender is moved against his will (e.g. a bull-rushing opponent), he maintains his stance unless he falls unconscious. If he is knocked prone, he maintains his stance and can stand up as normal, his stance simply restricts his ability to move into new squares.
-A defensive stance lasts for a number of rounds equal to 3 + the defender’s (newly improved) Constitution modifier. A defender may voluntarily end his defensive stance prior to this limit. At the end of the defensive stance, he is winded and takes a -2 penalty to Strength for 1 hour. A defender can only use his defensive stance a certain number of times per day, as determined by his level (see Table: The Defender). Adopting or leaving a defensive stance is a free action.
+	A defender can adopt a defensive stance a certain number of times per day, fortifying himself at the cost of his mobility. He gains a +2 bonus to Strength, a +4 bonus to Constitution, a +2 resistance bonus on all saving throws, and a +4 dodge bonus to AC. The increase in Constitution increases the defender’s hit points by 2 points per level, but these hit points go away at the end of the defensive stance when his Constitution score drops back to normal. (These extra hit points are not lost first the way temporary hit points are.) While in a defensive stance, a defender may not move or use abilities that would require him to move into a new square except that he can take one five-foot step each turn. If a defender is moved against his will (e.g. an opponent bull rushes him), he maintains his stance. If he is knocked prone (e.g. an opponent trips him), he maintains his stance and can stand up as normal, his stance simply restricts his ability to move into new squares. Though a defender can be forced to move while in a defensive stance, doing so is difficult. He is considered exceptionally stable while in his defensive stance.
+	A defensive stance lasts for a number of rounds equal to 3 + the defender’s (newly improved) Constitution modifier and ends if he falls unconscious. A defender may voluntarily end his defensive stance prior to this limit. At the end of the defensive stance, he is winded and takes a -2 penalty to Strength for 1 hour. A defender can only use his defensive stance a certain number of times per day, as determined by his level (see Table: The Defender). Adopting or leaving a defensive stance is a free action.
 
 Bonus Feats:
-	At 2nd level and every 6th level thereafter (8th, 14th, 20th) a defender gets a bonus combat-oriented feat. These bonus feats must be one marked as a fighter bonus feat. A defender must still meet all the prerequisites for these bonus feats, but qualifies as a fighter of level equivalent to his defender level for this purpose.
+	At 2nd level, and again at every 4th level (4th, 8th, 12th, 16th, and 20th) a defender gains a bonus combat-oriented feat. These bonus feats must be one marked as a fighter bonus feat. A defender must still meet all the prerequisites for these bonus feats, but qualifies as a fighter of level equivalent to his defender level for this purpose.
 
 Uncanny Dodge (Ex):
 	Starting at 2nd level, a defender retains his Dexterity bonus to AC (if any) regardless of being caught flat-footed or struck by an invisible attacker. (He still loses any Dexterity bonus to AC if immobilized.)
@@ -53,7 +53,6 @@ Uncanny Dodge (Ex):
 
 Trap Sense (Ex):
 	At 3rd level, a defender gains a +1 bonus on Reflex saves made to avoid traps and a +1 dodge bonus to AC against attacks by traps. At every 3rd level thereafter, these bonuses increase by 1. These bonuses stack with trap sense bonuses gained from other classes.
-Damage Reduction (Ex):
 
 Damage Reduction (Ex):
 	At 5th level, a defender gains damage reduction. Subtract 2 points from the damage the defender takes each time he is dealt damage from a weapon or a natural attack. At every fifth level thereafter, this damage reduction rises by 2 points. Damage reduction can reduce damage to 0 but not below 0.
@@ -62,11 +61,18 @@ Improved Uncanny Dodge (Ex):
 	At 5th level, a defender can no longer be flanked. This defense denies a rogue the ability to sneak attack the defender by flanking him, unless the attacker has at least four more rogue levels than the target has defender levels. If a character already has uncanny dodge from a second class, the character automatically gains improved uncanny dodge instead, and the levels from the classes that grant uncanny dodge stack to determine the minimum level a rogue must be to flank the character.
 
 Mobile Stance (Ex):
-	At 7th level, a defender becomes more mobile. A defender may move up to his land speed as a move action without losing the benefit of his stance. He may not charge or withdraw, however, even though these abilities are normally allowed when characters have limited actions (it is not his actions which are limited, but his movement itself.)
+	At 7th level, a defender becomes more mobile. Once per turn, a defender may move up to his land speed as a move action without losing the benefit of his stance. He may not charge or withdraw, however, even though these abilities are normally allowed when characters have limited actions (it is not his actions which are limited, but his movement itself.)
 	At 13th level, a defender becomes fully mobile. He may move as he pleases without losing the benefit of his stance, including running, charging, withdrawing, and the like.
+
+Shared Stance (Ex):
+	At 9th level, a defender becomes especially skilled at protecting his allies. While he is in a defensive stance, allies adjacent to him receive a resistance bonus on all saving throws and a dodge bonus to AC equal to one-half those the defender gains while in his defensive stance, rounded down. Additionally, they are considered exceptionally stable for the purposes of trip attacks and the like (receiving the full +4 bonus).
+	At 19th level, this ability improves. A defender's allies need only be within 15 feet of him while he is in a defensive stance to receive these bonuses.
 
 Greater Stance (Ex):
 	At 11th level, a defender’s bonuses to Strength and Constitution during his defensive stance increase to +4 and +6, respectively, his resistance bonus on all saves increases to +3, and his dodge bonus to AC increases to +5.
+
+Interpose (Ex):
+	At 14th level, the defender gains the ability to interpose himself between an enemy and one of his allies. Once per round, when an adjacent ally is attacked, a defender may have that attack target him instead. When interposing himself in this way, a defender forfeits any size, Dexterity, or dodge bonuses to his AC (but not penalties). A defender need not be in a defensive stance to use this ability.
 
 Tireless Stance (Ex):
 	Starting at 17th level, a defender no longer takes a -2 penalty to Strength at the end of his defensive stance.
