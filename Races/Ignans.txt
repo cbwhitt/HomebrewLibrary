@@ -5,7 +5,7 @@
 	Medium: As Medium creatures, ignans have no special bonuses or penalties due to their size.
 	Ignan base land speed is 30 feet.
 	Darkvision
-	Fire Walker: Ignans' elemental blood grants them resistance to fire 5, and is not vulnerable to cold. This supercedes the immunity to fire and vulnerability to cold typically granted by the fire subtype.
+	Fire Walker: Ignans' elemental blood grants them resistance to fire 5, but not any vulnerability to cold. This supercedes the immunity to fire and vulnerability to cold typically granted by the fire subtype.
 	+1 racial bonus on attack rolls against aquans
 	+2 racial bonus on Diplomacy and Gather Information checks
 	Spell-Like Abilities: 1/day - 'produce flame'. Caster level 1st; save DC 10 + ignan's Charisma modifier + spell level.

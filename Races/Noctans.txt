@@ -6,7 +6,6 @@
 	Medium: As Medium creatures, noctans have no special bonuses or penalties due to their size.
 	Noctan base land speed is 30 feet.
 	Darkvision 120 feet
-	Humanoid Anatomy: Unlike other elementals, noctans have discernible anatomies and are therefore subject to critical hits and flanking. Additionally, noctans are not immune to poison, 'sleep' effects, paralysis, or stunning like other elementals are, and they must eat, sleep, and breathe.
 	Fearmonger: Noctans are immune to magical fear effects, and the DC of [Fear] spells cast by Noctans increases by 1.
 	+1 racial bonus on attack rolls against lumans
 	+2 racial bonus on Intimidate checks
