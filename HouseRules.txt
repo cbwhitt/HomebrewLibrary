@@ -7,12 +7,23 @@ Heighten Spell:
 Leveling Up:
 	Unless otherwise specified, gaining a character level takes 80 in-game hours of training. Nor more than 8 hours of training can be gained per in-game day. (10 days at 8 hours/day)
 
+
 Ability Score Increases:
 	Instead of increasing one ability score by a single point every 4 levels, player characters may increase two different ability scores each by one point.
+
 
 Hit Points:
 	When gaining hit points at a level above 1st, a player may either roll the die or take average, at their option. If average is taken, the half a hit point is retained and rounded down when appropriate, such that a player character choosing only the latter option (you may mix and match, if you want) would gain an additional hit point every 2 levels.
 	This same choice applies to a player character's minion, campanion, or familiar that may also gain hit dice as the character gains levels. In this case, the choice and result remains if the character gains a replacement companion of the same creature (so a druid choosing to roll for the hit dice of her wolf companion would use those same rolls for all subsequent wolf companions, if her first should perish).
+
+
+Death and Dying:
+	The campaign uses all standard rules for death and dying, with two exceptions. Instead of dying at negative 10 hit points, a player dies at either negative 10 hit points or negative their constitution score, whichever is greater. Additionally, a character has a 20% chance of stabilizing instead of 10%.
+
+
+Resurrection:
+	Some effects that revive a character from the grave specify that they bestow a negative level that cannot be removed by any means. This stipulation is removed. Instead, a character revived through such a method is revived with a negative level, but this negatve level persists only until the next time that character gains a character level, at which point it is expunged, in addition to that character gaining a new level.
+
 
 Feat Retraining:
 	A player may retrain any feat he possesses as part of gaining a level, provided: 1. The player replaces that feat with one she could have taken at the level he took the one she is replacing. 2. The feat to be replaced is not the prerequisite for another character option. 3. The feat does not provide a one-time bonus or otherwise cannot be reasonably reversed (such as Leadership).

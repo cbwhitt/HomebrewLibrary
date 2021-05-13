@@ -211,7 +211,7 @@ Leadership:
 
 Signature Command (Ex):
 	At 9th level, a commander develops a signature command, a battlefield technique she’s known for implementing very well. She selects one command. She must wait one step (e.g. from 1d6+1 to 1d4+1, from 1d4+1 to 1d4, from 1d4 to 1d3, from 1d3 to 1, and from 1 to 1) fewer rounds to use that command again, for all of its modes. As an example, Lady Windgrace, a 9th-level commander, chooses the command Guard Up. When she uses it in its standard mode as a standard action, she waits only 1 round (instead of 1d3) before she can issue Guard Up again. Additionally, when she uses it in its enhanced mode (as an immediate action), she need only wait 1d4+1 rounds before issuing it again.
-	A commander develops additional signature commands at 13th, 17th, and 20th level. She may not select the same commander more than once.
+	A commander develops additional signature commands at 13th, 17th, and 20th level. She may not select the same command more than once.
 
 Mixed Tactics (Ex):
 	At 12th level, a commander becomes able to blend tactics together. She may employ up to two tactics at a time (instead of one). It is now a free action to dismiss one or both of her employed tactics. When she uses a swift action to employ a tactic, if she already has two tactics active, she selects one of her two tactics to replace with the new one. (If she has less than two tactics active, the new tactic simply becomes active.)
