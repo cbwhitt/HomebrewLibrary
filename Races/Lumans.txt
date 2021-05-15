@@ -1,7 +1,7 @@
 :: Lumans ::
 
 	+2 Intelligence, -2 Constitution
-	Outsider (native, light)
+	Outsider (native, light, primordial)
 	Medium: As Medium creatures, lumans have no special bonuses or penalties due to their size.
 	Luman base land speed is 30 feet.
 	Darkvision

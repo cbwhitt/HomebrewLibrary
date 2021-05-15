@@ -2,7 +2,7 @@
 
 	+2 Constitution, -2 Intelligence
 	A noctan's starting Intelligence score is always at least 3. If this adjustment would lower the character's score to 1 or 2, her score is nevertheless 3.
-	Outsider (native, dark)
+	Outsider (native, dark, primordial)
 	Medium: As Medium creatures, noctans have no special bonuses or penalties due to their size.
 	Noctan base land speed is 30 feet.
 	Darkvision 120 feet

@@ -1,7 +1,7 @@
 :: Terrans ::
 
 	+2 Strength, -2 Dexterity
-	Outsider (native, earth)
+	Outsider (native, earth, primordial)
 	Medium: As Medium creatures, terrans have no special bonuses or penalties due to their size.
 	Terran base land speed is 30 feet.
 	Darkvision

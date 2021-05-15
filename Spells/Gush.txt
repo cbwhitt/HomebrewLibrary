@@ -10,4 +10,4 @@ Spell Resistance: No
 
 You gather the water between your hands and thrust your arm forward, manipulating it into a powerful jet that slams into your foe.
 
-You must succeed on a ranged touch attack with the jet to strike your target (effectively a ray). If your attack is successful, the energetic waters deal 1d6 bludgeoning damage, plus 1d6 additional damage for every 2 levels beyond 1st, to a maximum of 5d6 damage at 9th level. Additionally, the target must succeed on a Foritude save or be pushed directly away from you 5 ft. If this space is occupied, they fall prone in that square.
+You must succeed on a ranged touch attack with the jet to strike your target (effectively a ray). If your attack is successful, the energetic waters deal 1d6 bludgeoning damage, plus 1d6 additional damage for every 2 levels beyond 1st, to a maximum of 5d6 damage at 9th level. Additionally, the spell (not you) initiates a bull rush attempt against the creature. The bonus for this attempt is equal to your caster level. If this attempt succeeds, the opponent is pushed back 5 feet, plus an additional 5 feet for each 5 by which your check exceeds theirs.

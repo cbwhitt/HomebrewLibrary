@@ -61,6 +61,7 @@ Moonfire
 Positive Energy Aura
 Protection from Negative Energy
 Ray of Light
+Raise Dead
 Searing Light
 See Invisibility
 Shadowblast
@@ -282,6 +283,7 @@ Remove Disease
 Remove Fear
 Remove Paralysis
 Red Tide
+Reincarnate
 Restoration, Lesser
 Restoration
 Restoration, Greater
@@ -581,6 +583,7 @@ Wood Shape
 Antipathy
 Bane
 Blackfire
+Buk's Illusory Immolation
 Cause Fear
 Crushing Despair
 Confusion
@@ -638,9 +641,11 @@ Solid Fog
 Steam Breath
 
 : Void :
+Black Tentacles
+Blast of Force
 Blink
 Blink, Greater
-Buk's Singularity, Lesser
+Buk's Singularity
 Dimension Door
 Dimensional Anchor
 Dimensional Lock
@@ -648,17 +653,25 @@ Dismissal
 Ethereal Jaunt
 Etherealness
 False Gravity
+Floating Disk
+Force Cage
+Force Missiles
+Forcewave
 Gate
 Instant Summons (no arcane mark needed)
+Magic Missile
 Phase Door
 Plane Shift
+Repulsion
+Resilient Sphere
 Reverse Gravity
 Slide
 Slide, Greater
 Sphere of Ultimate Destruction
+Telekinetic Sphere
 Teleport
 Teleport, Greater
-Force spells too, maybe?
+Wall of Force
 
 : Blood :
 Animal Growth
@@ -677,21 +690,27 @@ Bull's Strength, Mass
 Calm Animals
 Cat's Grace
 Cat's Grace, Mass
+Charm Animal
 Claws of the Bear
 Detect Animals or Plants (animals only)
 Dire Hunger
 Dominate Animal
 Enlarge Animal
+Hide from Animals
 Hold Animal
 Magic Fang
 Magic Fang, Greater
 Mindless Rage
+Polymorph (animal creatures only)
 Rage
 Reduce Animal
+Shapechange (animal creatures only)
 Snake's Swiftness
 Snake's Swiftnes, Mass
 Snakebite
+Speak with Animals
 Spider Poison
+Summon Nature's Ally (animals also)
 Transformation
 
 : Ice :

@@ -1,7 +1,7 @@
 :: Ignans ::
 
 	+2 Charisma, -2 Wisdom
-	Outsider (native, fire)
+	Outsider (native, fire, primordial)
 	Medium: As Medium creatures, ignans have no special bonuses or penalties due to their size.
 	Ignan base land speed is 30 feet.
 	Darkvision

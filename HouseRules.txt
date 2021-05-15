@@ -22,8 +22,7 @@ Death and Dying:
 
 
 Resurrection:
-	Some effects that revive a character from the grave specify that they bestow a negative level that cannot be removed by any means. This stipulation is removed. Instead, a character revived through such a method is revived with a negative level, but this negatve level persists only until the next time that character gains a character level, at which point it is expunged, in addition to that character gaining a new level.
-
+	Most effects that revive a character from the grave (the exception being 'true resurrection') incur a penalty of a lost level upon resurrection. This stipulation is removed. Instead, a revived character simply loses 250 xp per character level they possess. If a character has insufficiently much xp remaining, they cannot be raised.
 
 Feat Retraining:
 	A player may retrain any feat he possesses as part of gaining a level, provided: 1. The player replaces that feat with one she could have taken at the level he took the one she is replacing. 2. The feat to be replaced is not the prerequisite for another character option. 3. The feat does not provide a one-time bonus or otherwise cannot be reasonably reversed (such as Leadership).

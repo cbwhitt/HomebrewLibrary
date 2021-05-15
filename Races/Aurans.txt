@@ -1,7 +1,7 @@
 :: Aurans ::
 
 	+2 Dexterity, -2 Strength 
-	Outsider (native, air)
+	Outsider (native, air, primordial)
 	Medium: As Medium creatures, aurans have no special bonuses or penalties due to their size.
 	Auran base land speed is 40 feet.
 	Darkvision

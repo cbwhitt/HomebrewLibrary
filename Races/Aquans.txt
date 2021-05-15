@@ -1,7 +1,7 @@
 :: Aquans ::
 
 	+2 Wisdom, -2 Charisma
-	Outsider (native, water)
+	Outsider (native, water, primordial)
 	Medium: As Medium creatures, aquans have no special bonuses or penalties due to their size.
 	Aquan base land speed is 30 feet. Additionally, aquans have a swim speed of 30 feet.
 	Darkvision
