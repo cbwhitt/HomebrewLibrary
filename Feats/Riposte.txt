@@ -3,6 +3,7 @@
 
 Prequisites:
 	Combat expertise, parry
+
 Benefit:
 	Whenever an opponent you threaten fails a melee attack against you, that opponent immediately provokes an attack of opportunity from you.
 

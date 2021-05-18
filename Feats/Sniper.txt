@@ -1,0 +1,12 @@
+:: Sniper ::
+[General]
+
+Prerequisites:
+	Point blank shot, precise shot, Dex 15, sneak attack special ability
+
+Benefit:
+	Ranged attacks you make can count as sneak attacks if the target is within 150 feet.
+	Additionally, when using the Hide skill to snipe (see the hide skill description), you take only a -15 penalty to your Hide check to conceal yourself after the shot.
+
+Normal:
+	Ranged attacks can count as sneak attacks only if the target is within 30 feet, and you take a -20 penalty to your Hide check to try to conceal yourself after attacking at range.

@@ -1,0 +1,121 @@
+::    Prestidigitator Spells   ::
+:::::::::::::::::::::::::::::::::
+::          0th Level          ::
+Arcane Mark
+Caltrops
+Daze
+Dancing Lights
+Detect Magic
+Flare
+Ghost Sound
+Launch Bolt
+Launch Item
+Light
+Mage Hand
+Mending
+Message
+Minor Disguise
+Open/Close
+Prestigitation
+Silent Portal
+Stick
+
+::          1st Level          ::
+Accelerated Movement
+Animate Rope
+Benign Transposition
+Blades of Fire
+Buzzing Bee
+Charm Person
+Cheat
+Critical Strike
+Dead End
+Deep Breath
+Detect Secret Doors
+Disguise Self
+Distract
+Distract Assailant
+Expeditious Retreat
+Expeditious Retreat, Swift
+Feather Fall
+Grease
+Guided Shot
+Hold Portal
+Insightful Feint
+Instant Locksmith
+Invisibility, Swift
+Jump
+Low-Light Vision
+Mage Hand, Greater
+Magic Aura
+Net of Shadows
+Obscure Object
+Obscuring Mist
+Phantom Threat
+Ray of Clumsiness
+Reduce Person
+Scatterspray
+Serene Visage
+Shock and Awe
+Silent Image
+Slide
+Sniper's Shot
+Sticky Fingers
+Summon Monster I
+Targeting Ray
+Undetectable Alignment
+Ventriloquism
+Wall of Smoke
+Weapon Shift
+
+::          2nd Level          ::
+Alter Self
+Baleful Transposition
+Bladeweave
+Blindness/Deafness
+Blur
+Cat's Grace
+Chain of Eyes
+Curse of Impending Blades
+Daggerspell Stance
+Dark Way
+Darkness
+Darkvision
+Daze Monster
+Detect Thoughts
+Distracting Ray
+Eagle's Splendor
+Fly, Swift
+Fog Cloud
+Force Ladder
+Fox's Cunning
+Glitterdust
+Infernal Wound
+Inky Cloud
+Invisibility
+Iron Silence
+Knock
+Know Vulnerabilities
+Levitate
+Locate Object
+Marked Object
+Minor Image
+Mirror Image
+Misdirection
+Phantom Trap
+Ray of Stupidity
+Ray of Weakness
+Reflective Disguise
+Silence
+Slapping Hand
+Slide, Greater
+Surefooted Stride
+Sonic Weapon
+Spectral Hand
+Sting Ray
+Summon Monster II
+Swim
+Touch of Idiocy
+Veil of Shadow
+Whispering Wind
+Wraithstrike

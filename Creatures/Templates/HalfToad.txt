@@ -1,0 +1,17 @@
+:: Half-Toad ::
+
+Half-toad is an inherited template that can be added to any living, corporeal animal, vermin, or magical beast (referred to hereafter as the base creature).
+
+A half-fiend uses all the base creature's statistics and special abilities except as noted here.
+
+Special Qualities:
+A half-toad retains all special qualities of the base creature, but also gains the amphibious special quality if it does not already possess it.
+
+Abilities:
+Change from base creature as follows: -2 Str, +2 Dex.
+
+Skills:
+A half-toad gains a +8 racial bonus on Jump checks, and can always choose to take 10 on Jump checks, even when rushed or threatened.
+
+Challenge Rating:
+Same as base creature.

@@ -1,0 +1,7 @@
+:: Rapid Summoning ::
+[General]
+
+Prequisites:
+	Spell focus (conjuration)
+Benefit:
+	When casting a summoning spell whose casting time is ordinarily 1 round, its casting time is 1 standard action instead. (Creatures so summoned can only take a standard action in the round they are summoned.) Additionally, these spells gain the normal benefits from being enhanced with the Quicken Spell feat.
