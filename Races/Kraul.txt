@@ -9,9 +9,9 @@
 	Kraul base land speed is 40 ft.
 	Low-Light Vision
 	Darkvision
-	Insectoid Intellect: Unlike other vermin, kraul have an Intelligence score and ar not immune to mind-affecting effects (charms, compulsion, phantasms, patterns, morale, etc.).
+	Insectoid Intellect: Unlike other vermin, kraul have an Intelligence score and are not immune to mind-affecting effects (charms, compulsion, phantasms, patterns, morale, etc.).
 	A kraul has two natural claw attacks that deal 1d3 damage.
-	Kraul have four armsL two larger, more powerful arms and two weaker arms. The weak arms are strong enought o hold small items like potions, vials, flasks, wands, etc., but not to wield weapons. A kraul therefore is treated as having only two arms to qualify for feats and for wielding weapons.
+	Kraul have four arms: two larger, more powerful arms and two weaker arms. The weak arms are strong enough to hold small items like potions, vials, flasks, wands, etc., but not to wield weapons. A kraul therefore is treated as having only two arms to qualify for feats and for wielding weapons.
 	Exoskeleton: Kraul receive a +1 racial bonus to natural armor.
 	Automatic Languages: Common and Kraul
 	Bonus Languages: Undercommon, Terran, Noctan, Draconic.

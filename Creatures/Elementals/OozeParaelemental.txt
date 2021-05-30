@@ -21,14 +21,14 @@ Acid (Ex):
 	An ooze paraelemental's body incorporates a powerful acid. It deals additional acid damage on its attacks, as indicated in its description. Creatures attacking an ooze elemental unarmed or with a natural attack suffer this same damage.
 
 Engulf (Ex):
-	A creature equal to or smaller in size than an ooze paraelemental hit by its slam attack must succeed on a Reflex saving throw or be engulfed by the paraelemental, being absorbed into its body. Engulfed creatures are subject to the paraelemental's acid and are considered to be grappled and trapped within its body. A small elemental, for example, can engulf 1 small, 2 tiny, 8 diminutive, or 32 fine creatures in this way, or any equivalent combination. This capacity changes corresponding to the paraelemental's size. (A medium paraelemental holds 1 medium, 2 mall, etc.). The save DC is Strength-based.
+	A creature equal to or smaller in size than an ooze paraelemental hit by its slam attack must succeed on a Reflex saving throw or be engulfed by the paraelemental, being absorbed into its body. Engulfed creatures are subject to the paraelemental's acid and are considered to be grappled and trapped within its body. A small elemental, for example, can engulf 1 small, 2 tiny, 8 diminutive, or 32 fine creatures in this way, or any equivalent combination. This capacity changes corresponding to the paraelemental's size. (A medium paraelemental holds 1 medium, 2 small, etc.). The save DC is Strength-based.
 -----
 
 Ooze Paraelemental, Tiny:
 Size: Tiny
 Hit Dice: 1d8+5 (9 hp)
 Initiative: +0
-Armor Class: 18 (+2 size, +0 Dex, +6 natural), touch 12, flat-footed 18
+Armor Class: 15 (+2 size, +0 Dex, +3 natural), touch 12, flat-footed 15
 BAB/Grapple: +0/-12
 Attack: Slam +3 melee (1d4-2 plus 1d4 acid)
 Space/Reach: 0 ft./0 ft.
@@ -43,7 +43,7 @@ Ooze Paraelemental, Small:
 Size: Small
 Hit Dice: 2d8+10 (19 hp)
 Initiative: -1
-Armor Class: 16 (+1 size, -1 Dex, +6 natural), touch 10, flat-footed 17
+Armor Class: 13 (+1 size, -1 Dex, +3 natural), touch 10, flat-footed 13
 BAB/Grapple: +1/-3
 Attack: Slam +2 melee (1d6 plus 1d6 acid)
 Space/Reach: 5 ft./5 ft.
@@ -58,7 +58,7 @@ Ooze Paraelemental, Medium:
 Size: Medium
 Hit Dice: 4d8+28 (46 hp)
 Initiative: -1
-Armor Class: 19 (+0 size, +0 Dex, +9 natural), touch 10, flat-footed 19
+Armor Class: 12 (+0 size, -1 Dex, +3 natural), touch 9, flat-footed 12
 BAB/Grapple: +3/+5
 Attack: Slam +5 melee (1d8+3 plus 1d8 acid)
 Space/Reach: 5 ft./5 ft.
@@ -73,7 +73,7 @@ Ooze Paraelemental, Large:
 Size: Large
 Hit Dice: 8d8+72 (108 hp)
 Initiative: -1
-Armor Class: 18 (-1 size, -1 Dex, +10 natural), touch 8, flat-footed 18
+Armor Class: 15 (-1 size, -1 Dex, +7 natural), touch 8, flat-footed 15
 BAB/Grapple: +6/+13
 Attack: Slam +9 melee (2d8+3 plus 2d8 acid)
 Full Attack: 2 slams +9 melee (2d8+3 plus 2d8 acid)
@@ -84,13 +84,13 @@ Saves: Fort +12, Ref +1, Will +2
 Abilities: Str 16, Dex 8, Con 27, Int 6, Wis 11, Cha 11
 Skills: Listen +5, Spot +6
 Feats: Toughness, Improved Natural Armor, Power Attack
-Challenge Rating: 3
+Challenge Rating: 5
 
 Ooze Paraelemental, Huge:
 Size: Huge
 Hit Dice: 16d8+176 (248 hp)
 Initiative: -1
-Armor Class: 17 (-2 size, -1 Dex, +10 natural), touch 7, flat-footed 17
+Armor Class: 14 (-2 size, -1 Dex, +7 natural), touch 7, flat-footed 14
 BAB/Grapple: +12/+25
 Attack: Slam +17 melee (2d10+5 plus 2d10 acid)
 Full Attack: 2 slams +17 melee (2d10+5 plus 2d10 acid)
@@ -107,7 +107,7 @@ Ooze Paraelemental, Greater:
 Size: Huge
 Hit Dice: 21d8+252 (346 hp)
 Initiative: -1
-Armor Class: 17 (-2 size, -1 Dex, +10 natural), touch 7, flat-footed 17
+Armor Class: 14 (-2 size, -1 Dex, +7 natural), touch 7, flat-footed 14
 BAB/Grapple: +15/+29
 Attack: Slam +21 melee (2d10+6 plus 2d10 acid)
 Full Attack: 2 slams +21 melee (2d10+6 plus 2d10 acid)
@@ -124,7 +124,7 @@ Ooze Paraelemental, Elder:
 Size: Huge
 Hit Dice: 24d8+312 (420 hp)
 Initiative: -1
-Armor Class: 17 (-2 size, -1 Dex, +10 natural), touch 7, flat-footed 17
+Armor Class: 14 (-2 size, -1 Dex, +7 natural), touch 7, flat-footed 14
 BAB/Grapple: +18/+33
 Attack: Slam +25 melee (2d10+7/19-20 plus 2d10 acid)
 Full Attack: 2 slams +21 melee (2d10+7/19-20 plus 2d10 acid)
