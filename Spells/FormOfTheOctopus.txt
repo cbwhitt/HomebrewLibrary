@@ -1,0 +1,16 @@
+:: Form of the Octopus ::
+Transmuation [Water, Primordial]
+Level: Hydromancer 3
+Components: S
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Effect: 1 watery tentacle per 2 levels, to a maximum of 8 tentacles at 16th level
+Duration: Concentration, up to 1 round/level
+
+As you make the last motion, the ring of water that has coalesced around your waist twists as several tendrils of water shoot out, ready to strike.
+
+For the duration of the spell and as long as you maintain concentration, you manifest one large tentacle made from water per 2 caster levels, to a maximum of 8 tentacles at 16th level. The tentacles attack your foes as you command, effectively granting you a tentacle attack for each one manifested. These attacks have special properties, however.
+Each tentacle has a reach of 20 feet, and you threaten the area within this reach as long as the spell lasts and you have at least one tentacle available to attack with. When attacking with a tentacle, treat each as a Large creature with a base attack bonus equal to your caster level and a Strength of 18 plus 2 per three caster levels beyond 6th, to a maximum of 22 at 15th level (so an attacking tentacle would have an attack bonus of +9 when you cast this spell at 6th level, accounting for the -1 attack modifier as a result of its large size). A tentacle deals bludgeoning damage equal to 1d6 + its Str modifier.
+Additionally, you can make grapple attempts with the tentacles. Doing so does not provoke an attack of opportunity (it is the tentacle making the attack; in principle, an enemy could attack the tentacle, but only attacks that would reasonably destroy water would be effective in stopping it, and you can simply reform the tentacle on your next turn). If you succeed, the target is grappled in its space and the tentacle grappling it becomes unavailable for other attacks or grappling other creatures. When you establish a hold, the target takes damage as from an attack. The tentacle can deal damage again on subsequent turns with a successful grapple check or take other grappling actions like moving or pinning the grappled opponent. You are not considered grappled yourself. However, if you move out of the reach of the tentacle, the tentacle is dismissed and reforms on your subsequent turn when you renew concentration on the spell.
+Each turn when you maintain concentration on the spell, you may either do so normally (a standard action) or do so as a full-round action. In either case, any dismissed tentacles reform as you do. Then, if you concentrated as a standard action you may have one tentacle attack (including to execute other attack actions like tripping, starting a grapple, or dealing damage in a grapple, see above). If you maintained concentration as a full-round action, each tentacle may make an attack or an attack-equivalent action instead.
