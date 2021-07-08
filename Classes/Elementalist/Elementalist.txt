@@ -101,10 +101,10 @@ Elemental Power (Su):
 
 -----
 Earthskin [Earth]:
-A geomancer receives a +1 enhancement bonus to her natural armor bonus. A creature without natural armor has an effective natural armor bonus of +0.
+	A geomancer receives a +1 enhancement bonus to her natural armor bonus. A creature without natural armor has an effective natural armor bonus of +0.
 
 Windstep [Air]:
-An aeromancer gains an enhancement bonus of 10 feet to her base land speed. This benefit applies only when she is wearing no armor or light armor and not carrying a medium or heavy load.
+	An aeromancer gains an enhancement bonus of 10 feet to her base land speed. This benefit applies only when she is wearing no armor or light armor and not carrying a medium or heavy load.
 
 Controlled Burn [Fire]:
 	When casting a fire spell (as determined from the elementalist spell list), you may designate one creature (potentially yourself) within its area. This creature is unaffected by the spell. All other creatures are affected normally.
