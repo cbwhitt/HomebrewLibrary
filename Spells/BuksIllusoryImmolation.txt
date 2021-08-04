@@ -11,5 +11,5 @@ Spell Resistance: Yes
 
 Your eyes gleam with a faint flame as you grind the pepper in the mortar; suddenly, your enemies writhe and scream as if alight with hellfire.
 
-You can target one creature, plus on additional creature per three levels (to a maximum of 5 creatures at 12th level).
+You can target one creature, plus one additional creature per three levels (to a maximum of 5 creatures at 12th level).
 The targeted creatures believe themselves to be wreathed in flame, though only the caster and victims can sense them. Any attempt by those creatures to extinguish the flames will fail due to their illusory nature. Each round on its turn, the victim must make a Will save or take 2d8 points of fire damage. A successful save negates the damage and ends the effect of the spell on that creature.

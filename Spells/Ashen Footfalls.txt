@@ -1,0 +1,14 @@
+:: Ashen Footfalls ::
+Level: Tefromancer 2
+Components: S
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One creature
+Duration: 1 round/level
+Saving Throw: Reflex negates; see text
+Spell Resistance: Yes
+
+As you complete the last motions, the vegetation beneath your target's feat begins to burn and smolder, reducing quickly to ash.
+
+Ashen Footfalls causes small piles of ash to form under the subject's feet. The ash moves with the subject, following it unerringly even if they become invisible or leave the original range of the spell. Additionally, the target leaves tracks of (now cold) ash behind itself for as long as the spell persists.
+At the start of each of their turns, the subject suffers 1 point of fire damage from stepping into the ash that forms unless the succeed on a Reflex saving throw.

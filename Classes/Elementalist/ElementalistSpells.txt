@@ -1,12 +1,15 @@
 ::    Elementalist Spells   ::
 ::::::::::::::::::::::::::::::
-::       Zeroth Level       ::
+::          Aether          ::
+------------------------------
+: Zeroth :
 Compress Ally
 Create Water
 Cure Minor Wounds
 Dancing Lights
 Dawn
 Detect Magic
+Disrupt Undead
 Electric Jolt
 Flare
 Light
@@ -17,740 +20,1201 @@ Resistance
 Sonic Snap
 Virtue
 
-::::::::::::::::::::::::::::::
-::   Elemental Discipline   ::
-: Aether :
-Elemental Body
-Elemental Swarm
-Resist Energy
-Resist Energy, Mass
-Summon Nature's Ally
-Summon Elemental Monolith
-Summon Elementite Swarm
-Summon Greater Elemental
-Primal Form
+: First :
+Summon Nature's Ally I (elementals only)
 
-: Light :
-Anger of the Noonday Sun
-Blistering Radiance
-Close Wounds
-Cure Light Wounds (and its derivatives)
-Continual Flame
-Daylight
-Death Ward
+: Second :
+Resist Energy
+Summon Nature's Ally II (elementals only)
+
+: Third :
+Attune Form (elemental planes only)
+Primal Form
+Resist Energy, Mass
+Summon Nature's Ally III (elementals only)
+
+: Fourth :
+Summon Elementite Swarm
+Summon Nature's Ally IV (elementals only)
+
+: Fifth :
+Summon Nature's Ally V (elementals only)
+
+: Sixth :
+Elemental Body
+Summon Greater Elemental
+Summon Nature's Ally VI (elementals only)
+
+: Seventh :
+Summon Nature's Ally VII (elementals only)
+
+: Eighth :
+Summon Nature's Ally VIII (elementals only)
+
+: Ninth :
+Elemental Swarm
+Summon Elemental
+Summon Nature's Ally IX (elementals only)
+
+
+::           Light          ::
+------------------------------
+: Zeroth :
+
+: First :
+Cure Light Wounds
 Detect Good
-Disrupt Undead
-Disrupting Weapon
 Faerie Fire
-Flashburst
-Flare
 Guiding Light
-Glowing Orb
-Heal
-Heal, Mass
-Hypnotic Pattern
-Invisibility Purge
-Life Bolt
 Light of Lunia
-Light of Mecuria
-Light of Venya
-Lucent Lance
 Luminous Gaze
-Moon Bolt
-Moonfire
-Positive Energy Aura
-Protection from Negative Energy
-Ray of Light
-Raise Dead
-Searing Light
-See Invisibility
-Shadowblast
-Stabilize
-Sunbeam
-Sunburst
+Nimbus of Light
 Targeting Ray
-True Seeing
-Vigor
 Vigor, Lesser
-Vigor, Greater
+
+: Second :
+Close Wounds
+Continual Flame
+Cure Moderate Wounds
+Hypnotic Pattern
+Life Bolt
+Light of Mercuria
+Protection from Negative Energy
+See Invisibility
+Stabilize
+
+: Third :
+Cure Serious Wounds
+Daylight
+Flashburst
+Glowing Orb
+Invisibility Purge
+Light of Venya
+Searing Light
+Vigor
 Vigor, Mass Lesser
-Vigorous Circle
 Wall of Light
 
+: Fourth :
+Blistering Radiance
+Cure Critical Wounds
+Death Ward
+Moon Bolt
+Positive Energy Aura
+Shadowblast
 
-: Earth :
-Aspect of the Earth Hunter
-Bombardment
-Burrow
-Burrow, Mass
-Cast in Stone
-Cometfall
-Crumble
+: Fifth :
+Cure Light Wounds, Mass
+Disrupting Weapon
+Lucent Lance
+Raise Dead
+True Seeing
+Vigor, Greater
+
+: Sixth :
+Anger of the Noonday Sun
+Cure Moderate Wounds, Mass
+Heal
+Ray of Light
+Vigorous Circle
+
+: Seventh :
+Cure Serious Wounds, Mass
+Sunbeam
+
+: Eighth :
+Cure Critical Wounds, Mass
+Sunburst
+
+: Ninth :
+Heal, Mass
+Moonfire
+
+::           Earth          ::
+------------------------------
+: Zeroth :
+
+: First :
 Earth Clap
+Fist of Stone
+Foundation of Stone
+Hail of Stone
+Magic Stone
+Rapid Burrowing
+
+: Second :
+Burrow
 Earthbind
 Earthen Grace
 Earthen Grasp
-Earthfast
-Earthquake
 Earth Lock
-Eradicate Earth
-Fist of Stone
-Flesh to Stone
-Foundation of Stone
-Giant's Wrath
-Hail of Stone
-Imprisonment
-Magic Stone
-Master Earth
-Maw of Stone
-Meld Into Stone
+Earthfast
 Mountain Stance
-Move Earth
-Nimbus of Light
-Rapid Burrowing
-Repel Metal or Stone (stone only)
-Sarcophagus of Stone
 Soften Earth and Stone
-Spike Stones
-Stone Body
+
+: Third :
+Crumble
+Eradicate Earth
+Giant's Wrath
+Meld into Stone
 Stone Shape
-Stone Shape, Greater
-Stone Sphere
-Stone Tell
-Stone to Flesh
-Stonehold
-Stoneskin
 Stony Grasp
 Strength of Stone
-Sudden Stalagmite
-Transmute Rock to Mud
 Tremor
 Tremorsense
-Tunnel Swallow
+
+: Fourth :
+Burrow, Mass
+Spike Stones
+Stone Sphere
+Stoneskin
+Sudden Stalagmite
+
+: Fifth :
+Stone Shape, Greater
+Stone to Flesh (antipetrification only)
+Transmute Rock to Mud
 Wall of Stone
 Xorn Movement
 
-: Fire :
+: Sixth :
+Aspect of the Earth Hunter
+Cometfall
+Flesh to Stone
+Move Earth
+Sarcophagus of Stone
+Stone Body
+Stone Tell
+Stonehold
+Tunnel Swallow
+
+: Seventh :
+Earthquake
+Master Earth
+Maw of Stone
+
+: Eighth :
+Bombardment
+Repel Metal or Stone (stone only)
+
+: Ninth :
+Cast in Stone
+Imprisonment
+
+
+::           Fire           ::
+------------------------------
+: Zeroth :
+
+: First :
 Animate Fire
-Balor Nimbus
-Blast of Flame
-Body of the Sun
 Burning Hands
-Combust
-Continual Flame
-Emerald Flame Fist
-Energy Spheres (all five fire)
-Energy Vortex (fire only)
-Explosive Cascade
-Fire Seeds
-Fire Shield
-Fire Shuriken
-Fire Spiders
-Fire Stride
-Fire Storm
-Fire Trap
-Fire Wings
-Fireball
-Firebrand
-Fireburst
-Fireburst, Greater
-Fires of Purity
-Flame Blade
-Flame Strike
-Flame Whips
-Flaming Sphere
-Inferno
-Orb of Fire
 Orb of Fire, Lesser
 Produce Flame
-Pyrotechnics
-Raging Flame
+Ragin Flame
 Ray of Flame
+
+: Second :
+Balor Nimbus
+Body of the Sun
+Combust
+Continual Flame
+Fire Shuriken
+Fire Trap
+Fireburst
+Flame Blade
+Flaming Sphere
+Pyrotechnics
 Scorch
 Scorching Ray
-Shroud of Flame
+
+: Third :
+Energy Vortex (fire only)
+Fire Wings
+Fireball
+
+: Fourth :
+Blast of Flame
+Energy Spheres (all fire)
+Explosive Cascade
+Fire Shield
+Fire Stride
+Flame Strike
+Flame Whips
+Orb of Fire
 Wall of Fire
 
-: Dark :
-Animate Dead
-Antilife Shell
-Armor of Darkness
-Awaken Undead
-Blacklight
-Blindness/Deafness
+: Fifth :
+Firebrand
+Fireburst, Greater
+Inferno
+Shroud of Flame
+
+: Sixth :
+Fire Seeds
+Fire Spiders
+Fires of Purity
+
+: Seventh :
+Emerald Flame Fist
+Fire Storm
+
+: Eighth :
+
+: Ninth :
+Meteor Swarm
+
+::           Dark           ::
+------------------------------
+: Zeroth :
+
+: First :
 Chill Touch
-Circle of Death
 Cloak of Dark Power
-Create Undead
-Create Undead, Greater
-Command Undead
-Control Undead
-Darkness
-Darkvision
-Darkvision, Mass
-Death Knell
-Death Ward
 Deathwatch
-Deeper Darkvision
 Detect Evil
 Detect Undead
-Enervation
-Energy Drain
+Inflict Light Wounds
+
+: Second :
+Blindness/Deafness
+Claws of Darkness
+Command Undead
+Darkness
+Darkvision
+Death Knell
 False Life
-Finger of Death
+Inflict Moderate Wounds
+Protection from POsitive Energy
+Ray of Weakness
+Wall of Gloom
+
+: Third :
+Animate Dead
+Blacklight
+Deeper Darkvision
 Halt Undead
-Harm
-Inflict Light Wounds, etc.
+Inflict Serious Wounds
+Ray of Exhaustion
+Slashing Darkness
+
+: Fourth :
+Armor of Darkness
+Darkvision, Mass
+Death Ward
+Enervation
+Inflict Critical Wounds
 Life Ward
 Negative Energy Aura
-Plague of Undead
-Protection from Positive Energy
-Ray of Enfeeblement
-Ray of Entropy
-Ray of Exhaustion
-Ray of Weakness
-Slashing Darkness
+
+: Fifth :
+Inflict Light Wounds, Mass
 Slay Living
-Sword of Darkness
-Wall of Gloom
-Waves of Exhaustion
 Waves of Fatigue
 
-: Air :
-Air Breathing
-Air Walk
+: Sixth :
+Antilife Shell
+Circle of Death
+Create Undead
+Harm
+Inflict Moderate Wounds, Mass
+Ray of Entropy
+
+: Seventh :
+Awaken Undead
+Control Undead
+Finger of Death
+Inflict Serious Wounds, Mass
+Sword of Darkness
+Waves of Exhaustion
+
+: Eighth :
+Creatre Undead, Greater
+Inflict Critical Wounds, Mass
+
+: Ninth :
+Energy Drain
+Plague of Undead
+
+
+::            Air           ::
+------------------------------
+: Zeroth :
+
+: First :
 Airblast
+Deep Breath
+Feather Fall
+Obscuring Mist
+Updraft
+
+: Second :
 Belker Claws
 Binding Winds
-Capricious Zephyr
 Cloud Wings
-Cloud-Walkers
-Control Weather
-Control Winds
-Cyclonic Blast
-Deep Breath
-Defenestrating Sphere
-Downdraft
-Eye of the Hurricane
-Feather Fall
-Fly
-Fly, Mass
 Fly, Swift
 Fog Cloud
-Gaseous Form
 Gust of Wind
 Master Air
-Obscuring Mist
-Overland Flight
 Stolen Breath
-Storm of Vengeance
-Storm Tower
-Updraft
-Whirlwind
-Whirlwind, Greater
 Whispering Wind
-Wind at Back
-Wind Tunnel
-Wind Walk
 Wind Wall
 Wings of Air
 
-: Water :
+: Third :
+Air Breathing
+Capricious Zephyr
+Downdraft
+Fly
+Gaseous Form
+
+: Fourth :
+Air Walk
+Defenestrating Sphere
+Eye of the Hurricane
+Wind at Back
+Wings of Air, Greater
+
+: Fifth :
+Control Winds
+Cyclonic Blast
+Fly, Mass
+Overland Flight
+Wind Tunnel
+
+: Sixth :
+Cloudwalkers
+Wind Walk
+
+: Seventh :
+Control Weather
+Storm Tower
+
+: Eighth :
+Whirlwind
+
+: Ninth :
+Storm of Vengeance
+Whirlwind, Greater
+
+::           Water          ::
+------------------------------
+: Zeroth :
+
+: First :
 Animate Water
 Buoyant Lifting
-Cloak of the Sea
 Cloudburst
-Control Water
 Downpour
-Dehydrate
 Delay Disease
-Delay Poison
-Drown
-Drown, Mass
-Extract Water Elemental
-Fireward
-Fog Cloud
-Maelstrom
-Neutralize Poison
+Gush
 Obscuring Mist
-Panacea
+Remove Fear
+Vigor, Lesser
+Water Whip
+
+: Second :
+Delay Poison
+Fog Cloud
+Remove Paralysis
+Restoration, Lesser
+Swim
+
+: Third :
+Dehydrate
+Neutralize Poison
 Quench
-Raise from the Deep
-Regenerate
 Remove Blindness/Deafness
 Remove Curse
 Remove Disease
-Remove Fear
-Remove Paralysis
-Red Tide
-Reincarnate
-Restoration, Lesser
-Restoration
-Restoration, Greater
-Restoration, Mass
-Rushing Waters
-Sheltered Vitality
 Sink
 Sleet Storm
-Solid Fog
 Standing Wave
-Submerge Ship
-Swim
-Swim, Mass
-Tidal Surge
-Tsunami
 Vigor
-Vigor, Lesser
-Vigor, Greater
 Vigor, Mass Lesser
-Vigorous Circle
-Wall of Water
-Waterspout
 Water Breathing
 Water Walk
-Water Whip
-Wings of the Sea
+
+: Fourth :
+Control Water
+Panacea
+Raise from the Deep
+Reincarnate
+Restoration
+Rusing Waters
+Sheltered Vitality
+Solid Fog
+Swim, Mass
+Wall of Water
+
+: Fifth :
+Cloak of the Sea
+Fireward
+Vigor, Greater
+
+: Sixth :
+Drown
+Extract Water Elemental
+Tidal Surge
+Vigorous Circle
+
+: Seventh :
+Regenerate
+Restoration, Greater
+Restoration, Mass
+Submerge Ship
+Waterspout
+
+: Eighth :
+Maelstrom
+Red Tide
+
+: Ninth :
+Drown, Mass
+Tsunami
+
 
 ::::::::::::::::::::::::::::::
-:: Paraelemental Discipline ::
-: Crystal :
+::         Crystal          ::
+------------------------------
+: Zeroth :
+
+: First :
 Appraising Touch
-Binding (minimus containment in a gem only)
 Color Spray
-Diamondsteel
+
+: Second :
 Gembomb
-Gemjump
-Glass Strike
+Rainbow Beam
+Shatter
+
+: Third :
+Diamondsteel
 Glowing Orb
-Heart of Stone (gem as flavor instead, works the same)
+Miser's Envy
+Rainbow Blast
+
+: Fourth :
+Rainbow Pattern
+
+: Fifth :
 Magic Jar
 Major Creation (crystal only)
-Miser's Envy
-Prismatic Eye
-Prsimatic Ray
-Prismatic Sphere
-Prismatic Spray
-Prismatic Wall
-Radiant Assault
-Rainbow Beam
-Rainbow Blast
-Rainbow Pattern
+Prismatic Ray
+
+: Sixth :
+Gemjump
 Ruby Ray of Reversal
+
+: Seventh :
+Glass Strike
+Prismatic Eye
+Prismatic Spray
+Radiant Assault
+
+: Eighth :
+Binding (minimus containment in a gem only)
+Heart of Stone (gem as focus instead)
+Prismatic Wall
 Scintillating Pattern
-Shatter
 Trap the Soul
 
-: Lightning :
-Arc of Lightning
-Ball Lightning
-Call Lightning
-Call Lightning Storm
-Chain Lightning
-Electric Loop
-Energy Spheres (all five electricity)
-Energy Vortex (electricity only)
-Lightning Bolt
-Moonbow
-Orb of Electricity
+: Ninth :
+Prismatic Sphere
+
+
+::         Lightning        ::
+------------------------------
+: Zeroth :
+
+: First :
 Orb of Electricity, Lesser
-Scintillating Sphere
 Shocking Grasp
-Storm of Vengeance
-Storm Tower
-Stormrage
-Stun Ray
 Thunderbits
 Thunderhead
 
-: Shadow :
+: Second :
+Electric Loop
+
+: Third :
+Call Lightning
+Energy Vortex (electricity only)
+Lightning Bolt
+Scintillating Sphere
+
+: Fourth :
+Arc of Lightning
+Energy Spheres (all five electricity)
+Orb of Electricity
+
+: Fifth :
+Ball Lightning
+Call Lightning Storm
+Moonbow
+
+: Sixth :
+Chain Lightning
+
+: Seventh :
+Storm Tower
+Stun Ray
+
+: Eighth :
+Stormrage
+
+: Ninth :
+Storm of Vengeance
+
+
+::          Shadow          ::
+------------------------------
+: Zeroth :
+
+: First :
+Dead End
+Disguise Self
+Invisibility, Swift
+Net of Shadows
+Silent Image
+
+: Second :
 Blur
 Claws of Darkness
 Dark Way
-Dead End
-Disguise Self
-Displacement
-Illusory Script
-Illusory Pit
-Illusory Wall
 Invisibility
-Invisibility, Greater
-Invisibility, Mass
-Invisibility, Superior
-Invisibility, Swift
-***** Image
-Mirage Arcana
+Minor Image
 Mirror Image
-Net of Shadows
 Phantasmal Assailants
-Phantasmal Killer
-Seeming
-Shades
-Shadow Binding
-Shadow Conjuratin
-Shadow Conjuration, Greater
-Shadow Evocation
-Shadow Evocation, Greater
-Shadow Form
-Shadow Hand
-Shadow Landscape
-Shadow Phase
 Shadow Mask
 Shadow Spray
-Shadow Walk
-Shadowy Grappler
 Veil of Shadow
 
-: Sound :
+: Third :
+Displacement
+Illusory Script
+Major Image
+Shadow Binding
+Shadow Phase
+
+: Fourth :
+Illusory Wall
+Invisibility, Greater
+Phantasmal Killer
+Shadow Conjuration
+
+: Fifth :
+Mirage Arcana
+Persistent Image
+Seeming
+Shadow Evocation
+Shadow Form
+Shadow Hand
+
+: Sixth :
+Illusory Pit
+Permanent Image
+Programmed Image
+Shadow Walk
+Shadowy Grappler
+
+: Seventh :
+Invisibility, Mass
+Shadow Conjuration, Greater
+
+: Eighth :
+Invisibility, Superior
+Shadow Evocation, Greater
+
+: Ninth :
+Shades
+Shadow Landscape
+
+
+::           Sound          ::
+------------------------------
+: Zeroth :
+Ghost Sound
+Ghostharp
+Lullaby
+
+: First :
 Amplify
-Blindsight
-Blindsight, Greater
-Body Harmonic
+Orb of Sound, Lesser
+Sleep (sound-based instead, verbal component)
+Sonic Blast
+Ventriloquism (verbal component)
+
+: Second :
 Bonefiddle
-Cacophonic Burst
-Cacophonic Shield
+Ironthunder Horn (verbal component)
+Nightmare Lullaby
+Shatter
+Silence
+Sonic Whip
+Hideous Laughter (verbal component)
+
+: Third :
+Blindsight
 Creaking Cacophony
 Deep Slumber (sound-based instead, verbal component)
 Dirge of Discord (verbal component)
 Dissonant Chord
-Energy Spheres (all five sonic)
-Ghost Sound
-Ghostharp
-Great Thunderclap
 Haunting Tune (verbal component)
-Ironthunder Horn (verbal component)
-Lullaby
-Nightmare Lullaby
-Orb of Sound
-Orb of Sound, Lesser
 Resonating Bolt
 Sculpt Sound
-Shatter
 Shatterfloor
-Shout (verbal component)
-Shout, Greater (verbal component)
-Silence
-Sleep (sound-based instead, verbal component)
-Song of Discord (verbal component)
-Sonic Blast
-Sonic Whip
-Sound Burst
 Sound Lance
-Hideous Laughter (verbal component)
 Thunderous Roar
 Tongues (verbal component)
-Ventriloquism (verbal component)
 
-: Ooze :
-Acid Arrow
-Acid Breath
-Acid Fog
-Acid Sheath
+: Fourth :
+Blindsight, Greater
+Energy Spheres (all five sonic)
+Orb of Sound
+Shout (verbal component)
+
+: Fifth :
+Cacophonic Burst
+Cacophonic Shield
+
+: Sixth :
+Body Harmonic
+Sond of Discord (verbal component)
+
+: Seventh :
+
+: Eighth :
+Shout, Greater (verbal component)
+
+: Ninth :
+
+
+::           Ooze           ::
+------------------------------
+: Zeroth :
 Acid Splash
-Acid Storm
-Amorphous Form
-Blinding Spittle
+
+: First :
 Corrosive Grasp
-Energy Spheres (all five acid)
-Energy Vortex (acid only)
 Grease
-Mudslide
-Ooze Puppet
-Orb of Acid
 Orb of Acid, Lesser
-Slime Wave
-Sticky Fingers
-Swamp Lung
-Swamp Stride
-Viscid Glob
+Stick Fingers
+
+: Second :
+Acid Arrow
+Blinding Spittle
+
+: Third :
+Acid Breath
+Amorphous Form
+Energy Vortex (acid only)
 Water to Acid
 
-: Magma :
-Earth Reaver
-Heat Metal
+: Fourth :
+Energy Spheres (all five acid)
+Orb of Acid
+
+: Fifth :
+Acid Sheath
+Swamp Stride
+Viscid Glob
+
+: Sixth :
+Acid Fog
+Acid Storm
+Mudslide
+Ooze Puppet
+
+: Seventh :
+Slime Wave
+Swamp Lung
+
+: Eighth :
+
+: Ninth :
+
+
+::           Magma          ::
+------------------------------
+: Zeroth :
+
+: First :
 Kelgore's Fire Bolt
 Lava Lob
+
+: Second :
+Heat Metal
+Fist of Magma
 Magma Burst
-Magma Fist
+
+: Third :
+Magmatic Grasp
+
+: Fourth :
 Metal Melt
-Meteor Swarm
+
+: Fifth :
+Earth Reaver
 Molten Rain
-Scalding Mud
-Transmute Rock to Lava
-Vitrify
 Wall of Magma
 
-: Metal :
-Bands of Steel
-Body of War
-Bristle
-Chill Metal
-Diamondsteel
-Fabricate (metal only)
-Heat Metal
-Iron Body
-Ironguard
-Ironguard, Lesser
-Keen Edge
+: Sixth :
+Scalding Mud
+
+: Seventh :
+Vitrify
+
+: Eighth :
+
+: Ninth :
+Meteor Swarm
+Transmute Rock to Lava
+
+
+::           Metal          ::
+------------------------------
+: Zeroth :
+
+: First :
 Magic Weapon
+Repair Light Damage
+
+: Second :
+Bristle
+Heat Metal
+Repair Moderate Damage
+Whirling Blade
+
+: Third :
+Bands of Steel
+Diamondsteel
+Keen Edge
 Magic Weapon, Greater
-Major Creation (metal only)
-Metal Melt
-Repair Light Damage (etc.)
-Repel Metal or Stone (metal only)
+Repair Serious Damage
 Rust Ray
-Rusting Grasp
 Steeldance
+
+: Fourth :
+Metal Melt
+Repair Critical Damage
+Rusting Grasp
+
+: Fifth :
+Fabricate (metal only)
+Ironguard, Lesser
+Major Creation (metal only)
+Repair Light Damage, Mass
+
+: Sixth :
+Repair Moderate Damage, Mass
 Transformation
 Wall of Iron
 Wall of Gears
-Whirling Blade
 
-: Sand :
-Awaken Sand
-Black Sand
-Blast of Sand
-Blood Sirocco
-Choking Sands
-Control Sand
-Crumble
-Desiccating Bubble
+: Seventh :
+Body of War
+Ironguard
+Repair Serious Damage, Mass
+
+: Eighth :
+Iron Body
+Repair Critical Damage, Mass
+Repel Metal or Stone (metal only)
+
+: Ninth :
+
+
+::           Sand           ::
+------------------------------
+: Zeroth :
+
+: First :
 Expeditious Retreat
-Flaywind Burst
-Flesh to Salt
-Flesh to Salt, Mass
-Fuse Sand
-Haboob
-Halo of Sand
-Heatstroke
 Jump
 Longstrider
-Saltray
 Sandblast
-Sandform
-Sandstorm
+
+: Second :
+Black Sand
+Desiccating Bubble
+Halo of Sand
+Saltray
 Soften Earth and Stone
-Storm Mote
-Transmute Rock to Mud
-Transmute Sand to Glass
-Transmute Sand to Stone
-Transmute Stone to Sand
 Quick March
-Vitrify
-Wall of Salt
-Wall of Sand
-Whirlwind
-Whirlwind, Greater
+
+: Third :
+Control Sand
+Crumble
+Haboob
+Heatstroke
+Storm Mote
 Whispering Sand
 
-: Wood :
-Animate Plants
+: Fourth :
+Blast of Sand
+Fuse Sand
+Sandform
+Wall of Salt
+Wall of Sand
+
+: Fifth :
+Choking Sands
+Flaywind Burst
+Flesh to Salt
+Transmute Rock to Mud
+Trasmute Sand to Glass
+Trasmute Sand to Stone
+Trasmute Stone to Sand
+
+: Sixth :
+Awaken Sand
+Blood Sirocco
+Sandstorm
+
+: Seventh :
+Flesh to Salt, Mass
+Vitrify
+
+: Eighth :
+Whilwind
+
+: Ninth :
+Whirlwind, Greater
+
+
+::           Wood           ::
+------------------------------
+: Zeroth :
+
+: First :
 Animate Wood
-Awaken
-Awaken, Mass
+Detect Animals or Plants (plants only)
+Entangle
+Goodberry
+
+: Second :
 Barkskin
 Brambles
 Briar Web
-Command Plants
-Control Plants
-Deadfall
-Detect Animals or Plants (plants only)
-Diminish Plants
-Entangle
-Goodberry
-Ironwood
 Kelpstrand
-Liveoak
-Plant Body
-Plant Growth
-Poison Thorns
-Poison Vines
-Repel Wood
-Shambler
-Spike Growth
 Splinterbolt
-Thornskin
-Transmute Metal to Wood
-Transport via Plants
 Tree Shape
-Tree Stride
-Unyielding Roots
-Vine Mine
-Wall of Thorns
 Warp Wood
 Wood Shape
 
-: Ash :
-Antipathy
+: Third :
+Diminish Plants
+Plant Growth
+Spike Growth
+Thornskin
+Vine Mine
+
+: Fourth :
+Command Plants
+Poison Vines
+
+: Fifth :
+Awaken
+Plant Body
+Poison Thorns
+Tree Stride
+Wall of Thorns
+
+: Sixth :
+Ironwood
+Liveoak
+Repel Wood
+Transport Via Plants
+
+: Seventh :
+Animate Plants
+Transmute Metal to Wood
+
+: Eighth :
+Awaken, Mass
+Control PLants
+Deadfall
+Unyielding Roots
+
+: Ninth :
+Shambler
+
+
+::            Ash           ::
+------------------------------
+: Zeroth :
+
+: First :
 Bane
-Blackfire
-Buk's Illusory Immolation
-Cause Fear
-Crushing Despair
-Confusion
+Cause Feat
 Confusion, Lesser
-Darkfire
-Destruction
-Disintegrate
 Doom
-Fear
-Implosion
-Insanity
-Heartfire
-Maddening Scream
-Maddening Whispers
 Raging Flame
-Scare
 Slow Burn
-Sphere of Ultimate Destruction
+
+: Second :
+Buk's Illusory Immolation
+Heartfire
+Scare
 Touch of Madness
-Whispering Sand
-Wrack
 Wracking Touch
 
-: Smoke :
-Acid Fog
-Blight
-Belker Claws
-Bottle of Smoke
-Cloudkill
-Contagion
-Contagion, Mass
-Contagious Fog
-Contagious Touch
-Delay Poison
+: Third :
+Darkfire
+
+: Fourth :
+Crushing Despair
+Confusion
+Fear
+Wrack
+
+: Fifth :
+
+: Sixth :
+Disintegrate
+
+: Seventh :
+Destruction
+Insanity
+
+: Eighth :
+Antipathy
+Blackfire
+Maddening Scream
+Maddening Whispers
+
+: Ninth :
+Implosion
+Sphere of Ultimate Destruction
+
+
+::           Smoke          ::
+------------------------------
+: Zeroth :
 Detect Poison
-Eyebite
-Incendiary Cloud
-Miasma
-Miasma of Entropy
-Mind Poison
-Nauseating Breath
-Poison
-Ray of Sickness
-Scourge
-Stinking Cloud
+
+: First :
 Wall of Smoke
 
-: Steam :
-Animate Objects
-Fog Cloud
-Jet of Steam
-Murderous Mist
-Obscuring Mist
-Solid Fog
-Steam Breath
+: Second :
+Belker Claws
+Delay Poison
+Ray of Sickness
 
-: Void :
-Black Tentacles
+: Third :
+Bottle of Smoke
+Contagion
+Contagious Fog
+Mind Poison
+Nauseating Breath
+Stinking Cloud
+
+: Fourth :
+Blight
+Contagious Touch
+Miasma of Entropy
+
+: Fifth :
+Cloudkill
+Contagion, Mass
+
+: Sixth :
+Acid Fog
+Eyebite
+Miasma
+
+: Seventh :
+Scourge
+
+: Eighth :
+Incendiary Cloud
+
+: Ninth :
+
+
+::           Void           ::
+------------------------------
+: Zeroth :
+
+: First :
+Floating Disk
+Magic Missile
+Slide
+
+: Second :
 Blast of Force
+Slide, Greater
+
+: Third :
 Blink
-Blink, Greater
 Buk's Singularity
+
+: Fourth :
+Black Tentacles
 Dimension Door
 Dimensional Anchor
-Dimensional Lock
 Dismissal
-Ethereal Jaunt
-Etherealness
 False Gravity
-Floating Disk
-Force Cage
 Force Missiles
 Forcewave
-Gate
-Instant Summons (no arcane mark needed)
-Magic Missile
-Phase Door
-Plane Shift
-Repulsion
 Resilient Sphere
-Reverse Gravity
-Slide
-Slide, Greater
-Sphere of Ultimate Destruction
-Telekinetic Sphere
+
+: Fifth :
+Blink, Greater
+Plane Shift
+Telekinesis
 Teleport
-Teleport, Greater
 Wall of Force
 
-: Blood :
-Animal Growth
-Animal Messenger
-Animal Shapes
-Animal Trance
-Baleful Polymorph
-Bear's Endurance
+: Sixth :
+Repulsion
+
+: Seventh :
+Ethereal Jaunt
+Forcecage
+Instant Summons (no arcane mark needed)
+Phase Door
+Reverse Gravity
+Teleport, Greater
+
+: Eighth :
+Dimensional Lock
+Telekinetic Sphere
+
+: Ninth :
+Etherealness
+Gate
+Sphere of Ultimate Destruction
+Teleportation Circle
+
+
+::           Blood          ::
+------------------------------
+: Zeroth :
+
+: First :
 Beast Claws
 Beastland Ferocity
-Bear's Endurance, Mass
-Blood Frenzy
-Blood to Water
-Bull's Strength
-Bull's Strength, Mass
 Calm Animals
-Cat's Grace
-Cat's Grace, Mass
 Charm Animal
 Claws of the Bear
 Detect Animals or Plants (animals only)
-Dire Hunger
-Dominate Animal
-Enlarge Animal
 Hide from Animals
-Hold Animal
 Magic Fang
-Magic Fang, Greater
+Snake's Swiftness
+Speak with Animals
+Summon Nature's Ally I (animals only)
+
+: Second :
+Animal Messenger
+Animal Trance
+Bear's Endurance
+Blood Frenzy
+Bull's Strength
+Cat's Grace
+Hold Animal
 Mindless Rage
-Polymorph (animal creatures only)
 Rage
 Reduce Animal
-Shapechange (animal creatures only)
-Snake's Swiftness
-Snake's Swiftnes, Mass
+Snake's Swiftness, Mass
+Summon Nature's Ally II (animals only)
+
+: Third :
+Dominate Animal
+Magic Fang, Greater
 Snakebite
-Speak with Animals
 Spider Poison
-Summon Nature's Ally (animals also)
+Summon Nature's Ally III (animals only)
+
+: Fourth :
+Polymorph (animal creatures only)
+Summon Nature's Ally IV (animals only)
+
+: Fifth :
+Animal Growth
+Baleful Polymorph
+Dire Hunger
+Summon Nature's Ally V (animals only)
+
+: Sixth :
+Bear's Endurance, Mass
+Bull's Strength, Mass
+Cat's Grace, Mass
+Summon Nature's Ally VI (animals only)
 Transformation
 
-: Ice :
-Anticold Sphere
-Chill Metal
+: Seventh :
+Animal Shapes
+Blood to Water
+Summon Nature's Ally VII (animals only)
+
+: Eighth :
+Summone Nature's Ally VIII (animals only)
+
+: Ninth :
+Shapechange (animal creatures only)
+Summon Nature's Ally IX (animals only)
+
+
+::            Ice           ::
+------------------------------
+: Zeroth :
+
+: First :
 Cold Fire
-Cold Snap
-Cone of Cold
-Corona of Cold
+Ice Dagger
+Ice Gauntlet
+Orb of Cold, Lesser
+Snowshoes
+Winter Chill
+
+: Second :
+Chill Metal
 Creeping Cold
-Creeping Cold, Greater
-Energy Spheres (all five cold)
-Energy Vortex (cold only)
-Field of Icy Razors
-Freeze
-Freezing Mist
 Frost Breath
+Ice Knife
+Ray of Ice
+Snowball Swarm
+Winter's Embrace
+
+: Third :
+Corona of Cold
+Energy Vortex (cold only)
 Hailstones
-Heat Drain
 Hypothermia
 Ice Axe
-Ice Claw
-Ice Dagger
-Ice Flowers
-Ice Gauntlet
-Ice Knife
-Ice Storm
 Icelance
-Freezing Sphere
-Mantle of the Icy Soul
-Obedient Avalanche
-Orb of Cold
-Orb of Cold, Lesser
-Polar Ray
-Ray of Ice
-Simulacrum
 Sleet Storm
-Snowball Swarm
-Snowshoes
 Snowshoes, Mass
+
+: Fourth :
+Creeping Cold, Greater
+Energy Spheres (all five cold)
+Ice Storm
+Orb of Cold
 Wall of Ice
-Winter Chill
-Winter's Embrace
+
+: Fifth :
+Anticold Sphere
+Cold Snap
+Cone of Cold
+Ice Flowers
+Mantle of the Icy Soul
+
+: Sixth :
+Freeze
+Freezing Fog
+Freezing Sphere
+
+: Seventh :
+Ice Claw
+Simulacrum
+
+: Eighth :
+Field of Icy Razors
+Heat Drain
+Polar Ray
+
+: Ninth :
+Obedient Avalanche
+

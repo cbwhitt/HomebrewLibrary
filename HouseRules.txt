@@ -6,6 +6,7 @@ Heighten Spell:
 
 Leveling Up:
 	Unless otherwise specified, gaining a character level takes 80 in-game hours of training. Nor more than 8 hours of training can be gained per in-game day. (10 days at 8 hours/day)
+	As a matter of practicality for acquiring class features over the course of this training period (which could be conducted/interspersed as a character continues to adventure), characters can mirror the structure of leveling up that appears in the PHB (pgs. 58-59). That is, a character chooses a class at the end of the first day of training, increases their Base Attack Bonus at the end of the second day of training, increases their Base Save Bonuses at the end of the third, increases their Ability Scores at the end of the fourth, gain additional Hit Points at the end of the fifth, spends new skill points at the end of the sixth, acquires new feats at the end of the 7th, gains access to more spells per day and increases their caster level at the end of the 8th, gains new class features at the end of the 9th, and makes any other changes and is otherwise considered entirely their new level at the end of 10th.
 
 
 Ability Score Increases:
@@ -23,6 +24,7 @@ Death and Dying:
 
 Resurrection:
 	Most effects that revive a character from the grave (the exception being 'true resurrection') incur a penalty of a lost level upon resurrection. This stipulation is removed. Instead, a revived character simply loses 250 xp per character level they possess. If a character has insufficiently much xp remaining, they cannot be raised.
+
 
 Feat Retraining:
 	A player may retrain any feat he possesses as part of gaining a level, provided: 1. The player replaces that feat with one she could have taken at the level he took the one she is replacing. 2. The feat to be replaced is not the prerequisite for another character option. 3. The feat does not provide a one-time bonus or otherwise cannot be reasonably reversed (such as Leadership).
