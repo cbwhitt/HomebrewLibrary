@@ -285,7 +285,7 @@ Darkvision
 Death Knell
 False Life
 Inflict Moderate Wounds
-Protection from POsitive Energy
+Protection from Positive Energy
 Ray of Weakness
 Wall of Gloom
 
@@ -329,7 +329,7 @@ Sword of Darkness
 Waves of Exhaustion
 
 : Eighth :
-Creatre Undead, Greater
+Create Undead, Greater
 Inflict Critical Wounds, Mass
 
 : Ninth :
@@ -947,7 +947,7 @@ Shambler
 : First :
 Ashen Footfalls
 Bane
-Cause Feat
+Cause Fear
 Confusion, Lesser
 Doom
 Raging Flame

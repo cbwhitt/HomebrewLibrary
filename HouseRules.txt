@@ -1,5 +1,6 @@
 :: House Rules ::
 
+
 Heighten Spell:
 	Heighten spell is not a feat. All spellcasters can innately heighten spells by preparing (in the case of casters that prepare) or casting (in the case of spontaneous casters) them in a higher-level spell slot. Any feat with Heighten Spell as an explicit prerequisite loses that prerequisite.
 
@@ -71,8 +72,10 @@ Elementals:
 Native Subtype:
 	In addition to the other properties of the native subtype for outsiders, a native outsider does not receive any weapons proficiencies as a result of her type.
 
+
 Tower Shields:
 	There are many clarifications and expansions of the rules for tower shields in the FAQs, which are largely a result of treating the tower shield as a piece of terrain. As a clarification of my own: If you are wielding two (or more) tower shields simultaneously, you can claim cover from each of them on your own with a single standard action (thereby providing protection over multiple edges of your space).
+
 
 Homunculus Subtype:
 	As a clarifying detail, I have added a homunculus subtype for construct creatures. See below.
@@ -81,14 +84,34 @@ Homunculus Subtype:
 	Homunculi usually cannot speak, but they are linked telepathically with their creators. A homunculus knows what its master knows and convey to them everything it sees or hears out to a distance of 1500 feet. A homunculus never travels beyond this range willingly, though it can be removed forcibly. If this occurs, the creature does everything in its power to regain contact with its master.
 	An attack that destroys a homunculus deals 2d10 points of damage to its master, and if its master is slain, the homunculus also dies.
 
+
 Infusions:
 	Alchemists, arcanists, and armorers use infusions. Though they are not spellcasters in the usual way, but they do have the ability to replicate spell effects by imbuing them into items, essentially creating temporary magic items that they can employ. They do so through infusions. Infusions function just like spells, and they follow the rules of spells. For example, they can be dispelled or counterspelled, they don't function in an antimagic area, and a character must make a Concentration check if injured while imbuing one. Additionally, the magic of infusions is arcane in nature. Infusions can be viewed as a special class of spells, but since all infusions share some common characteristics and deliver their spell effects in an atypical way, it is more useful to describe these common mechanics than to reiterate them for each infusion individually. Indeed, many infusion produce effects directly analogous to existing spells and differ only in the delivery of that effect.
 	While spells may target one or more creatures, allow you to make an attack, or create some instantaneous or persistent effect in an area, all infusions are imbued into an item or construct and produce a persistent effect that effectively turns that object temporarily into a magic item which delivers the spell effect associated with the infusion. The nature of this delivery varies between the classes. Alchemists imbue spell effects to create temporary brewed items, which grant their spell effects as those brewed items normally would; arcanists use virgery, imbuing spell effects into wands and similar items from which the spells can subsequently be cast; and armorers imbue spell effects to create magical arms, armor, or other items, whose spell effects either modify the item or construct, emanate out from it, or are granted to the item's bearer.
 	However, there are rules common amongst all classes. For all infusions, once imbued, the source of the produced effect is the item. These items can be employed by other characters. For example, an armorer may imbue an item worn by her ally with the infusion 'bull's strength' (which is directly analogous to the spell of the same name. The item then functions similarly to a belt of giant strength for the duration of the infusion, granting her ally a +4 enhancement bonus to Strength. As another example, an alchemist may create a temporary potion, imbuing it with the spell 'cure light wounds'. The created potion thus works the same as a potion of 'cure light wounds' would.
 	Imbuing an infusion requires one minute with the item, construct, or materials necessary and is otherwise similar to casting a spell. Unlike most spells, though, once imbued, the infusion does not produce its effect immediately. Instead, the item stores the spell effect within itself until the infusion is activated or until you receive a new daily allotment of infusions, at which point the magic of all extant infusions fades away. All decisions needed for infusions (for example, which special weapon ability is granted by the 'personal weapon augmentation' infusion) are made when they are imbued. The entries for each class detail more comprehensively how each uses and activates infusions.
 
+
 Infusions and Activating Magic Items:
 	Ordinarily, a character must, for example, know a spell to be able to cast it from a spell completion item (i.e. a scroll), have it on their spell list to activate a spell trigger item (e.g. a wand), or have it prepared/available to cast (depending on whether they prepare spell) to flavor a universal potion with it. Infusions which have analogue spells qualify for all such purposes (so an arcanist can activate magic wands for spells that appear on his spell list and an alchemist can flavor a universal potion with the spell effect of any infusion he knows).
 
+
 Use Magic Device and Emulating Spell Requirements for Creating Magic Items:
 	A character can emulate knowing a spell necessary for creating a magic item with a Use Magic Device check (DC 20 + spell level emulated). To craft the item, the character must still expend a spell slot of the corresponding level when doing so. If the check fails, you may retry each day over the course of crafting the item. If the time to craft the item elapses and you have not succesfully emulated the spell (or other requirement using the normal Use Magic Device rules), you must artificially extend the time needed to craft the item by as many days as is necessary. You may take 20 on this check, but it represents taking at least 20 days to craft the item.
+
+
+Crafting Mundane Items:
+	The rules for crafting mundane items using the Craft skills are modified. The steps to craft an item are as follows.
+	1. Calculate the item's price in gold pieces.
+	2. Determine the Difficulty Class of crafting the item (reference the Craft skill description).
+	3. Acquire raw materials from which to craft the item, costing one-third of its price.
+	4. Calculate the base crafting time of the item. This represents a standardized amount of time to complete the item: skilled craftspeople will take less than this time, while unskilled craftspeople will take more. To calculate the base time, divide the price by 15 gp, then exponentiate this ratio by .4771; this is the base crafting time in (work) weeks (for those interested, the exact power is ln(3) / ln(10); this means that an item that costs 10 times as much takes 3 times as long to craft).
+	5. Craft the item over one or more intervals of time:
+		a. The base crafting time of the item becomes the remaining time.
+		b. Commit a period of time to spend working toward crafting the item. You may specify as much or as little time as you like. The standard unit of time is a work week, equivalent to 56 hours of work (7 of 10 days, 8 hours each working day).
+		c. Make a Craft check representing your work over this period of time. You make some progress on the item regardless of your check result, but if you fail the DC by 5 or more, you waste half of your raw materials and must acquire them again (costing therefore 1/6 the price of the item).
+		d. Deduct the Difficulty Class from your check result, then divide this difference by 5. Exponentiate 2 by this quotient. Multiply this by the amount of time you commited to crafting the item this period to determine your earned time. If this earned time meets the remaining time, you finish the item in the time you committed. If it exceeds the remaining time, you need only spend a correspondingly smaller proportion of the time you committed (for example, if your earned time is double the remaining time, it takes only half the time you committed to actually craft the item; essentially, for every 5 by which you exceed the DC, you work twice as effectively/quick.
+		e. If your earned time does not exceed the base crafting time, deduct your earned time from the remaining time. The item is partially finished. Repeat steps b-d until the item is finished.
+
+	You may intersperse the time you commit to crafting among other activities. Working in units of work weeks assumes that there are three days each week that you do not work and that you spend only 8 hours each day that you do actually working.
+	You may also craft multiple copies of the same item simultaneously. Treat this is a single item whose cost is the total of the costs of the individual items (this makes it more expedient then crafting them individually). The items are crafted in parallel, such that no items are finished until all items are finished. You can only craft items of the same kind that are not substantially different from each other (so, for example, using Craft (alchemy) one could make multiple uses' worth of alchemist's fire, but someone using Craft (armorsmithing) could not make multiple full plate mail suits in the same way, since they must be made to fit the wearer).
