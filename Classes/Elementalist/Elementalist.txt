@@ -7,23 +7,23 @@ Level	:: BAB		:: Saves		:: Special						:: Spells per Day							::
 			:: Fort :: Ref  :: Will ::							:: 0th :: 1st :: 2nd :: 3rd :: 4th :: 5th :: 6th :: 7th :: 8th :: 9th 	::
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  1st	:: +0		:: +0   :: +0   :: +2   :: Elemental Discipline					:: 4   :: 3   :: --  :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
- 2nd	:: +1		:: +0   :: +0   :: +3   :: Elemental Ally (1/day)				:: 5   :: 4   :: --  :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
+ 2nd	:: +1		:: +0   :: +0   :: +3   :: Elemental Ally (2/day)				:: 5   :: 4   :: --  :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
  3rd	:: +1		:: +1   :: +1   :: +3   :: Elemental Power, Primal Potency +1			:: 5   :: 4   :: --  :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
  4th	:: +2		:: +1   :: +1   :: +4   :: Medium Ally						:: 5   :: 5   :: 3   :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
  5th	:: +2		:: +1   :: +1   :: +4   :: Paraelemental Discipline				:: 6   :: 5   :: 4   :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
- 6th	:: +3		:: +2   :: +2   :: +5   :: Paraelemental Ally, Elemental Ally (2/day)		:: 6   :: 6   :: 4   :: 3   :: --  :: --  :: --  :: --  :: --  :: --	::
+ 6th	:: +3		:: +2   :: +2   :: +5   :: Paraelemental Ally, Elemental Ally (3/day)		:: 6   :: 6   :: 4   :: 3   :: --  :: --  :: --  :: --  :: --  :: --	::
  7th	:: +3		:: +2   :: +2   :: +5   :: Discipline Mastery +1				:: 6   :: 6   :: 5   :: 4   :: --  :: --  :: --  :: --  :: --  :: --	::
  8th	:: +4		:: +2   :: +2   :: +6   :: Large Ally						:: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --  :: --  :: --  :: --	::
  9th	:: +4		:: +3   :: +3   :: +6   :: Primal Potency +2					:: 6   :: 6   :: 6   :: 5   :: 4   :: --  :: --  :: --  :: --  :: --	::
- 10th	:: +5		:: +3   :: +3   :: +7   :: Elemental Ally (3/day)				:: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --  :: --  :: --	::
+ 10th	:: +5		:: +3   :: +3   :: +7   :: Elemental Ally (4/day)				:: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --  :: --  :: --	::
  11th	:: +5		:: +3   :: +3   :: +7   :: Elemental Shape (1/day)				:: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: --  :: --  :: --  :: --	::
  12th	:: +6/+1	:: +4   :: +4   :: +8   :: 							:: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --  :: --	::
  13th	:: +6/+1	:: +4   :: +4   :: +8   :: Discipline Mastery +2				:: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: --  :: --  :: --	::
- 14th	:: +7/+2	:: +4   :: +4   :: +9   :: Elemental Shape (2/day), Elemental Ally (4/day)	:: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --	::
+ 14th	:: +7/+2	:: +4   :: +4   :: +9   :: Elemental Shape (2/day), Elemental Ally (5/day)	:: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --	::
  15th	:: +7/+2	:: +5   :: +5   :: +9   :: Primal Potency +3					:: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: --  :: --	::
  16th	:: +8/+3	:: +5   :: +5   :: +10  :: Huge Ally						:: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --	::
  17th	:: +8/+3	:: +5   :: +5   :: +10  :: Elemental Shape (3/day, Huge)			:: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: --	::
- 18th	:: +9/+4	:: +6   :: +6   :: +11  :: Elemental Ally (4/day)				:: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: 3 	::
+ 18th	:: +9/+4	:: +6   :: +6   :: +11  :: Elemental Ally (5/day)				:: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: 3 	::
  19th	:: +9/+4	:: +6   :: +6   :: +11  :: Discipline Mastery +3				:: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4 	::
  20th	:: +10/+5	:: +6   :: +6   :: +12  :: Primordial Form, Elemental Shape (4/day)		:: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4 	::
 
@@ -73,7 +73,7 @@ Bonus Languages:
 
 Elemental Ally (Su):
 	At 2nd level, an elementalist gains the companionship of a small elemental corresponding to her elemental discipline (an earth elemental for a geomancer, a fire elemental for a pyromancer, and so on). This elemental resides primarily in its corresponding elemental plane, but lacks concrete form until summoned by the elementalist. An elementalist can summon her elemental ally to her side as a standard action. Her ally may take only a standard action in the turn it is summoned. This summoning lasts for 1 minute per elementalist level, or until dismissed (a free action) at which point the elemental returns to its home plane. This is a supernatural ability, and follows the normal rules for magical summon effects.
-	When she gains this feature at 2nd level, an elemental ally may summon her elemental once per day, but she may do so additional times per day as indicated in Table: The Elementalist.
+	When she gains this feature at 2nd level, an elemental ally may summon her elemental twice per day, but she may do so additional times per day as indicated in Table: The Elementalist.
 	An elementalist’s elemental ally is completely typical for its kind except as noted below. It is intelligent enough to follow her spoken commands (elementals always speak the corresponding elemental language).
 -----
 Alignment:
