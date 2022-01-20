@@ -20,7 +20,7 @@ Level	:: BAB		:: Saves		:: Special					:: Spells per Day				 :: Spells Known				
  12th	:: +9/+4	:: +4   :: +8   :: +8   :: Handy Mage (no concentration)		:: 3   :: 3   :: 3   :: 3   :: 2   :: --  :: --  :: 6   :: 4   :: 4   :: 4   :: 3   :: --  :: --  ::
  13th	:: +9/+4	:: +4   :: +8   :: +8   :: Sneak Attack +7d4				:: 3   :: 3   :: 3   :: 3   :: 2   :: 0   :: --  :: 6   :: 4   :: 4   :: 4   :: 4   :: 2   :: --  ::
  14th	:: +10/+5	:: +4   :: +9   :: +9   :: Cloaked Casting +3				:: 4   :: 3   :: 3   :: 3   :: 3   :: 1   :: --  :: 6   :: 4   :: 4   :: 4   :: 4   :: 3   :: --  ::
- 15th	:: +11/+6/+1	:: +5   :: +9   :: +9   :: Sneak Attack +8d4				:: 4   :: 4   :: 3   :: 3   :: 3   :: 2   :: --  :: 6   :: 4   :: 4   :: 4   :: 4   :: 3   :: --  ::
+ 15th	:: +11/+6/+1	:: +5   :: +9   :: +9   :: Sneak Attack +8d4, Improved Stealthy Spells	:: 4   :: 4   :: 3   :: 3   :: 3   :: 2   :: --  :: 6   :: 4   :: 4   :: 4   :: 4   :: 3   :: --  ::
  16th	:: +12/+7/+2	:: +5   :: +10  :: +10  :: 						:: 4   :: 4   :: 4   :: 3   :: 3   :: 2   :: 0   :: 6   :: 5   :: 4   :: 4   :: 4   :: 4   :: 2   ::
  17th	:: +12/+7/+2	:: +5   :: +10  :: +10  :: Sneak Attack +9d4				:: 4   :: 4   :: 4   :: 4   :: 3   :: 3   :: 1   :: 6   :: 5   :: 5   :: 4   :: 4   :: 4   :: 3   ::
  18th	:: +13/+8/+3	:: +6   :: +11  :: +11  :: 						:: 4   :: 4   :: 4   :: 4   :: 4   :: 3   :: 2   :: 6   :: 5   :: 5   :: 5   :: 4   :: 4   :: 3   ::
@@ -55,7 +55,7 @@ Trapfinding (Ex):
 	At 2nd level, a prestidigitator gains the ability to find traps as well as a rogue can. This functions as the rogue ability of the same name.
 
 Cloaked Casting (Ex):
-	Starting at 2nd level, a prestidigitator's spells become more effective when cast against an unwary foe. Add +1 to the save DC for any spell she casts that targets a character that would be denied their Dexterity bonus to AC (whether or not the target actually has a Dexterity bonus or not). If that spell targets multiple enemies or otherwise causes multiple creatures to roll saving throws, the bous to the DC only applies to those denied their Dexterity bonus.
+	Starting at 2nd level, a prestidigitator's spells become more effective when cast against an unwary foe. Add +1 to the save DC for any spell she casts that targets a character that would be denied their Dexterity bonus to AC (whether or not the target actually has a Dexterity bonus or not). If that spell targets multiple enemies or otherwise causes multiple creatures to roll saving throws, the bonus to the DC only applies to those denied their Dexterity bonus.
 	At 8th, 14th, and 20th level, this bonus increases by 1.
 
 Silent Spell:
@@ -65,3 +65,6 @@ Silent Spell:
 Still Spell:
 	A prestidigitator gains the feat Still Spell as a bonus feat at 10th level.
 	Additionally, when casting 'mage hand' or 'greater mage hand' (including through her Handy Mage ability), she may cast that spell without somatic components, as though she had applied 'Still Spell' to it. Doing so does not raise the level of the spell.
+
+Improved Stealthy Spells:
+	At 15th level, a prestidigitator's metmagic prowess increases. She may apply the 'Silent Spell' or 'Still Spell' feats to enhance a spell without raising the level of that spell. This includes use of her Handy Mage ability.

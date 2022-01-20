@@ -77,18 +77,12 @@ Master Constructor:
 	At 15th level when an armorer gains the Master Constructor class feature, her homunculus servant automatically gains the corresponding bonuses.
 -----
 
-Craft Magic Arms and Armor:
-	An armorer receives Craft Magic Arms and Armor as a bonus feat at 3rd level, even if she does not meet the prerequisites.
-
 Advanced Activation (Su):
 	Starting at 4th level, an armorer may activate (or dismiss) one of her own infusions each round as a swift action instead of a standard action. She may still use her standard action to activate another infusion.
 	At 8th level, an armorer need not be in control of an item to activate its infusion. She can activate any infusions of hers within 60 feet. To do so, she must be able to see or otherwise perceive the item in some way, or at least have a very clear idea of where it is (for example, in a particular pocket of an ally’s backpack). An armorer gains no special perception of where the items she has imbued with an infusion are. She may dismiss infusions in the same way.
 	At 12th level, when an armorer activates an infusion of hers as a swift action, she may activate one additional infusion. When she activates an infusion not using this ability (i.e. as a standard action), she may still only activate a single infusion.
 	At 16th level, an armorer’s allies may activate her infusions as a swift action as she can. They may only activate one infusion in this way, however.
 	At 20th level, an armorer may activate one additional infusion, for a total of 3.
-
-Craft Construct:
-	An armorer receives Craft Construct as a bonus feat at 5th level, even if she does not meet the prerequisites.
 
 Transfer Infusion (Su):
 	At 6th level, an armorer gains the ability transfer an infusion she has imbued into another item or construct appropriate to that infusion (for example, she cannot transfer a 'toughen construct' infusion to a sword, since a sword could not have been imbued with a 'toughen construct' infusion in the first place). Transferring an infusion in this way takes as much time as imbuing an infusion, and she must be in possession of both the item to be imbued and the item holding the infusion during this time. She may only transfer an infusion that has not yet been activated in this way. If transferring an infusion imbued across multiple items, she may transfer the infusion between as many of those items and the same number of new items as she has in her possession. In doing so, she may also change which item is the key item of the infusion; indeed, she need not transfer the infusion into any new item, and may use this feature just to change the key item of an infusion, which she could not otherwise do.

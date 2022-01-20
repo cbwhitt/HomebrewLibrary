@@ -38,7 +38,7 @@ AC Bonus (Ex):
 	The defender receives a dodge bonus to Armor Class that starts at +0 and improves as the defender gains levels (see Table: The Defender).
 
 Advanced Shield Proficiency:
-	A defender gains Improved Shield Bash and Tower Shield Mastery as bonus feats at 1st level.
+	A defender gains Improved Shield Bash and Tower Shield Master as bonus feats at 1st level.
 
 Defensive Stance (Ex):
 	A defender can adopt a defensive stance a certain number of times per day, fortifying himself at the cost of his mobility. He gains a +2 bonus to Strength, a +4 bonus to Constitution, a +2 resistance bonus on all saving throws, and a +4 dodge bonus to AC. The increase in Constitution increases the defender’s hit points by 2 points per level, but these hit points go away at the end of the defensive stance when his Constitution score drops back to normal. (These extra hit points are not lost first the way temporary hit points are.) While in a defensive stance, a defender may not move or use abilities that would require him to move into a new square except that he can take one five-foot step each turn. If a defender is moved against his will (e.g. an opponent bull rushes him), he maintains his stance. If he is knocked prone (e.g. an opponent trips him), he maintains his stance and can stand up as normal, his stance simply restricts his ability to move into new squares. Though a defender can be forced to move while in a defensive stance, doing so is difficult. He is considered exceptionally stable while in his defensive stance.

@@ -28,7 +28,7 @@ Level	:: BAB			:: Saves		:: Special								:: Focused Attack Bonus	::
  20th	:: +20/+15/+10/+5	:: +12  :: +12  :: +6   :: Grace +4, Bonus Feat, Precise Strike +4d4, Duel for Three 		:: +29			::
 
 Class Skills: (4 + Int modifier per level, x4 at 1st level):
-	Balance (Dex), Bluff (Cha), Craft (Int), Escape Artist (Dex), Jump (Str), Listen (Wis), Perform (Cha), Sense Motive (Wis), Spot (Wis), Swim (Str), and Tumble (Dex)
+	Balance (Dex), Bluff (Cha), Craft (Int), Climb (Str), Escape Artist (Dex), Jump (Str), Listen (Wis), Perform (Cha), Sense Motive (Wis), Spot (Wis), Swim (Str), and Tumble (Dex)
  
 Weapon and Armor Proficiency:
 	The duelist is proficient with all simple and martial weapons and with the buckler, but not with any other armor or shield.
@@ -56,13 +56,13 @@ Improved Reaction (Ex):
 	At 2nd level, a duelist gains a +2 bonus on initiative checks. At 8th level, this bonus increases to +4. This bonus stacks with the benefit provided by the Improved Initiative feat.
 
 Nimble Combatant (Ex):
-	Beginning at 3rd level, when unarmored and unencumbered, a duelist receives a competence bonus on Balance, Tumble, and Jump checks equal to his Intelligence bonus (if any).
+	Beginning at 3rd level, when unarmored and unencumbered, a duelist receives a competence bonus on Balance, Climb, Jump, and Tumble checks equal to his Intelligence bonus (if any).
 
 Insightful Strike (Ex):
 	At 3rd level, when unarmored and unencumbered, a duelist becomes able to place his blows where they deal greater damage. He applies his Intelligence bonus (if any) as a bonus on damage rolls (in addition to any Strength bonus he may have) with any finesse weapon. Targets immune to critical hits are immune to this ability.
 
 Grace (Ex):
-	At 4th level, a duelist gains a +2 competence bonus on all Reflex saving throws. At 12th level, this bonus improves to +3, and at 20th level, it improves to +4. This bonus is doubled against attacks and effects produced by a duelist’s Foe. This ability functions for a duelist only when he is wearing no armor, is carrying nor more than a light load, and is using no shield other than a buckler.
+	At 4th level, a duelist gains a +2 competence bonus on all Reflex saving throws. At 12th level, this bonus improves to +3, and at 20th level, it improves to +4. This bonus is doubled against attacks and effects produced by a duelist’s Foe. This ability functions for a duelist only when he is wearing no armor, is carrying no more than a light load, and is using no shield other than a buckler.
 
 Precise Strike (Ex):
 	At 5th level, a duelist gains the ability to strike precisely with a light or one-handed piercing weapon. Attacks with these weapons deal an additional 1d4 damage. This bonus increases by +1d4 against his Foe. At 10th level, and every five levels thereafter (15th and 20th), the extra damage from a precise strike increases by +1d4 (to a maximum of +4d4 at 20th level). Unlike most extra damage dice, when a duelist scores a critical hit while making a precise strike, his precise strike damage dice are multiplied by the critical multiplier of his weapon. Creatures immune to critical hits are also immune to this ability.

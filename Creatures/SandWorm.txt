@@ -1,0 +1,40 @@
+:: Sand Worm ::
+Size/Type: Huge Magical Beast
+Hit Dice: 10d10+50 (105 hp)
+Initiative: -2
+Speed: 30 ft. (6 squares), burrow 30 ft.
+Armor Class: 16 (-2 size, -2 Dex, +10 natural), touch 6, flat-footed 17
+Base Attack/Grapple: +10/+30
+Attack: Bite +16 melee (2d8+10)
+Full Attack: Bite +16 melee (2d8+10) and sting +11 melee (1d10+3 plus poison)
+Space/Reach: 15 ft./10 ft.
+Special Attacks: Improved grab, swallow whole, poison, sand cloud
+Special Qualities: Tremorsight 120 ft., blindsense 20 ft.
+Saves: Fort + 12, Ref +6, Will +2
+Abilities: Str 25, Dex 7, Con 20, Int 2, Wis 9, Cha 8
+Skills: Listen +9
+Feats: Awesome blow, power attack, improved bull rush, improved grapple [B], weapon focus (bite)
+Environment: Warm Desert
+Organization: Solitary, pair, or convergence (6-10)
+Challenge Rating: 7
+Treasure: None
+Alignment: Always neutral
+Advancement: 11-16 HD (Huge), 16-32 HD (Gargantuan), 33+ HD (colossal)
+Level Adjustment: --
+
+Sand worms are enormous, sleek creatures covered in chitinous plates that burrow their way across deserts, feeling for prey. Many caravans have been lost to such monsters.
+
+Improved Grab (Ex):
+	To use this ability, a sand worm must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can attempt to swallow the foe the following round.
+
+Swallow Whole (Ex):
+	A sand worm can try to swallow a grabbed opponent of a smaller size than itself by making a successful grapple check. Once inside, the opponent takes 2d8+10 points of crushing damage plus 8 points of acid damage per round from the worm's gizzard. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 20 points of damage to the gizzard (AC 17). Larger weapons are ineffective in the confined space, but natural weapons suffice. Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. A Huge worm's interior can hold 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or smaller opponents.
+
+Poison (Ex):
+	Injury, Fortitude DC 23, initial damage 1d6 Con secondary damage 2d6 Con. The save DC is Constitution-based.
+
+Dust Cloud (Ex):
+	A sand worm continually expels air from holes the run the length of its body to aid its digging and respirate. Once surfaced, this forceful air creates a dense cloud of sand within 20 feet of the worm. The sand obscures all sight, including darkvision, beyond 5 feet. A creature 5 feet away has concealment. Creatures farther away have total concealment. A sand worm can suppress this ability by holding its breath, but rarely chooses to do so, preferring to fight only using its other senses to locate its prey. The dust or sand kicked up in this way lingers in the air for 2 rounds, even if the sand worm moves to a new location. Additionally, a sand worm can only produce a cloud in this way if it is in and environment of dry earth.
+
+Tremorsight (Ex):
+	A sand worm's ability to sense tremors is extremely precise, allowing it to perceive (and correspondingly, fight) creatures standing on the ground and moving (see the tremorsense ability), as well as a sighted creature can).
