@@ -1,9 +1,9 @@
 :: Craft Scepter ::
 [Item Creation, Virgery]
 
-Preprequisites:
+Prerequisites:
 	Caster level 7th
 
 Benefit:
 	You can fashion scepters, magical rods that store spells for daily use. Scepters function similarly to wands, with some differences. As wands, each scepter stores a single spell, and has a number of charges. Casting a spell using the scepter costs one charge. Unlike, wands, however, scepters are crafted with 1, 2, or 3 charges. A scepter's charges are restored each day at a time of the creator's choosing, typically dawn. Unspent charges are wasted.
-	The base price of a scepter is the number of charges it carries x its spell level x its caster level x 400 gp. To fashion a scepter, you must spend 1/25 of this base price in xp and use up raw materials costing one half of this base price. Fashioning a scepter takes 1 day for each 1000 gp in its base price. If the spell stored in the scepter has a costly material or xp component, you must expend 25, 50, or 75 times each of those costs when creating a scepter with 1, 2, or 3 daily charges.
+	The base price of a scepter is the number of charges it carries x its spell level x its caster level x 400 gp. To fashion a scepter, you must spend 1/25 of this base price in xp and use up raw materials costing one half of this base price. Fashioning a scepter takes 1 day for each 1000 gp in its base price. If the spell stored in the scepter has a costly material or xp component, you must expend 25, 50, or 75 times each of those costs when creating a scepter with 1, 2, or 3 daily charges, respectively.

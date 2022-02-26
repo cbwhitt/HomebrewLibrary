@@ -48,6 +48,7 @@ Jump
 Low-Light Vision
 Mage Hand, Greater
 Magic Aura
+Magic Weapon
 Net of Shadows
 Obscure Object
 Obscuring Mist
@@ -63,6 +64,7 @@ Sniper's Shot
 Sticky Fingers
 Summon Monster I
 Targeting Ray
+Tobirama's Binding Runes
 Undetectable Alignment
 Ventriloquism
 Wall of Smoke
@@ -115,7 +117,65 @@ Spectral Hand
 Sting Ray
 Summon Monster II
 Swim
+Tongues
 Touch of Idiocy
 Veil of Shadow
 Whispering Wind
 Wraithstrike
+
+::          3rd Level          ::
+Air Breathing
+Arcane Sight
+Bands of Steel
+Blacklight
+Blink
+Charm Monster
+Clairaudience/Clairvoyance
+Cone of Dimness
+Curse of Impending Blades, Mass
+Daylight
+Deeper Darkvision
+Dispel Magic
+Displacement
+Dolorous Blow
+False Gravity
+Find the Gap
+Flashburst
+Fly
+Gaseous Form
+G'elsewhere Chant
+Glibness
+Glowing Orb
+Illusory Script
+Invisibility Sphere
+Keen Edge
+Know Opponent
+Listening Coin
+Magic Weapon, Greater
+Major Image
+Mesmerizing Glare
+Nauseating Breath
+Nondetection
+Ray of Dizziness
+Rust Ray
+Secret Page
+See Invisibility
+Sepia Snake Sigil
+Shadow Binding
+Shadow Cache
+Shadow Phase
+Shrink Item
+Sonorous Hum
+Spectral Weapon
+Speechlink
+Spell Vulnerability
+Steeldance
+Stinking Cloud
+Summon Monster III
+Telepathic Bond, Lesser
+Treasure Scent
+Tremorsense
+Wall of Light
+Water Breathing
+Weapon of Energy
+Weapon of Impact

@@ -1,0 +1,18 @@
+:: Tobirama's Binding Runes ::
+Evocation [Force]
+Level: Sorcerer/wizard 2, prestidigitator 2
+Components: V, S
+Casting time: 1 standard action
+Range: Touch
+Target: One creature
+Duration: 1 round/level and 30 days (see text) (D)
+Saving Throw: Will partial
+Spell Resistance: No
+
+As you finish the incantation and its associated hand signs, energy fills your palm as you press it firmly toward your enemy. Where you touch them, a runed sign appears briefly as tendrils of force leap out of the sign to ensnare them.
+
+You must succeed on a melee touch attack. A complex network of runes surround the target and bind them in place. The target must make a Will save to resist the binding magic of the runes. If the saving throw suceeds, the target is entangled, otherwise, they are immobilized (helpless). The binding magic lasts for 1 round per caster level.
+
+A creature immobilized by the runes can attempt to escape their effect as a full-round action by overpowering the binding (a Strength check) or by slipping free (an Escape Artist check). The DC is your spell save DC. A creature only entangled by the runes can similarly attempt a check to escape the bands as a full-round action, and they receive a +5 bonus to do so.
+
+Additionally, a creature that fails its initial Will save continues to bear the mark as an invisible magic symbol for a month (30 days), even after they become unbound. 'Read magic', 'see invisibility', 'true seeing', and similar effects all allow the user to view the mark. An 'erase' spell does not dispel the mark, but 'dispel magic' and similar effects do.
