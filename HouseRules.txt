@@ -129,15 +129,15 @@ Cleaving Attacks:
 	- If your weapon is light, the penalties are increased by 2 each. (An unarmed strike is always considered light.)
 	- If your weapon is two-handed, the penalties are reduced by 2 each.
 	- The Cleave feat lessens the penalty of the primary attack by 2 and the secondary attack by 6.
+	- If your primary attack deals a creature enough damage to make it drop (typically by dropping it to below 0 hit points or killing it), the penalty on your secondary attack is reduced by 2.
 A table appears below to demonstrate the intersection of these modifiers.
 
 Table: Cleave Fighting Penalties
-:: Circumstances              :: Primary Attack :: Secondary Attack ::
-----------------------------------------------------------------------
-:: Light weapon               :: -8             :: -14              ::
-:: Normal penalties           :: -6             :: -12              ::
-:: Two-handed weapon          :: -4             :: -10              ::
-:: Light weapon & Cleave      :: -6             :: -8               ::
-:: Cleave                     :: -4             :: -6               ::
-:: Two-handed weapon & cleave :: -2             :: -4               ::
-
+:: Circumstances              :: Primary Attack :: Secondary Attack (normal) :: Secondary Attack (drop) ::
+----------------------------------------------------------------------------------------------------------
+:: Light weapon               :: -8             :: -14                       :: -12                     ::
+:: Normal penalties           :: -6             :: -12                       :: -10                     ::
+:: Two-handed weapon          :: -4             :: -10                       :: -8                      ::
+:: Light weapon & Cleave      :: -6             :: -8                        :: -6                      ::
+:: Cleave                     :: -4             :: -6                        :: -4                      ::
+:: Two-handed weapon & cleave :: -2             :: -4                        :: -2                      ::
