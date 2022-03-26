@@ -1,0 +1,14 @@
+:: Cleave ::
+[Fighter]
+
+Prerequisites:
+	Str 13, Power Attack
+
+Benefit:
+	Your penalties on attack rolls for cleaving with a weapon are reduced. The penalty for your primary attack lessens by 2 and the one for your secondary attack lessens by 6.
+
+Normal:
+	If you make a cleaving attack (with a one-handed weapon), you gain an extra attack with that weapon if that attack succeeds. When doing so, you suffer a -6 penalty on your initial attack and a -12 penalty to the extra attack. If your weapon is light, these penalties increase by 2 each. If your weapon is two-handed, these penalties are reduced by 2 each. (An unarmed strike is always considered light.)
+
+Special:
+	A fighter may select Cleave as one of her fighter bonus feats.

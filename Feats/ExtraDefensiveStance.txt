@@ -3,6 +3,7 @@
 
 Prequisites:
 	Defensive stance ability
+
 Benefit:
 	You may adopt a defensive stance two more times per day than you otherwise could.
 

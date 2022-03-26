@@ -1,0 +1,14 @@
+:: Improved Two-Weapon Fighting ::
+[Fighter]
+
+Prerequisites:
+	Dex 17, Two-Weapon Fighting
+
+Benefit:
+	The character can make as many attacks with their off-hand weapon as with their primary weapon, using the same base attack bonus. The character still takes the normal penalties for fighting with two weapons.
+
+Normal:
+	Without this feat, you can only get a single attack with an off-hand weapon.
+
+Special:
+	A fighter may select Improved Two-Weapon Fighting as one of their fighter bonus feats.

@@ -1,0 +1,8 @@
+:: Toughness ::
+[Fighter]
+
+Benefit:
+	Your maximum hit points increase by a number equal to your current Hit Dice. Each time you gain a Hit Die (such as by gaining a level), you gain 1 additional maximum hit point. If you lose a Hit Die (such as by losing a level), you lose 1 maximum hit point.
+
+Special:
+	A fighter may select Toughness as one of their fighter bonus feats.
