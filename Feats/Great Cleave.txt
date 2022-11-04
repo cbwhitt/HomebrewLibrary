@@ -5,7 +5,7 @@ Prerequisites:
 	Str 15, Power Attack, Cleave, base attack bonus +6
 
 Benefit:
-	When taking the full attack action, you may cleave with as many of those attacks as you could otherwise make. This does not include extra attacks granted by the cleaving attacks themselves.
+	When taking the full attack action, you may cleave with as many of your primary attacks as you could otherwise make. This does not include extra attacks granted by the cleaving attacks themselves.
 
 Normal:
 	You can make only a single cleaving attack as part of a full attack action.

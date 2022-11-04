@@ -1,4 +1,4 @@
-:: Improved Two-Weapon Fighting ::
+:: Greater Two-Weapon Fighting ::
 [Fighter]
 
 Prerequisites:

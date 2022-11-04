@@ -4,4 +4,4 @@
 Prequisites:
 	Spell focus (conjuration), augment summoning, improve summoning
 Benefit:
-	When using a 'summon' spell to summon creatures from a lower-level list than the level of spell you are using, you summon one additional creature of the same kind, including if you heighten a 'summon' spell.
+	When using a 'summon' spell to summon creatures from a lower-level list than the level of spell you are using, you summon one additional creature of the same kind. This also applies if you heighten a 'summon' spell above its normal spell level.

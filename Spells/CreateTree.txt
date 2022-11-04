@@ -1,0 +1,14 @@
+:: Create Trees ::
+Conjuration (Creation) [Earth, Water]
+Level: Druid 2, Xylomancer 2
+Components: V, S
+Casting Time: 1 standard action
+Range: Medium (100 ft. + 10 ft./level)
+Effect: One or more living trees
+Duration: Instantaneous
+Saving Throw: None
+Spell Resistance: no
+
+As you finish the spell, you feel and hear a rumble in the earth as a group of
+
+You cause one or more great trees (5-foot diameter trunk, 60-foot height, 40-foot top diameter) of a common type (such as oak, pine, or maple) to spring into being within range. Each tree must appear in an unoccupied area, except that the canopies of the trees may overlap. The trees must be conjured into a soil in which they can take root. This spell conjures one tree per three caster levels.
