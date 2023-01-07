@@ -19,10 +19,7 @@ Ray (Ex):
 	A light elemental’s ray is a ranged touch attack with a range of 30 ft.
 
 Shield of Light (Ex):
-	Light elementals don't have less natural armor than other elementals, instead projecting a protective layer of tangible light to protect themselves, providing them a deflection bonus to AC depending on their size, as shown in the table below.
-
-Improved Initiative:
-	Light elementals receive Improved Initiative as a bonus feat.
+	Light elementals have less natural armor than other elementals, instead projecting a protective layer of tangible light to protect themselves. This provides them a deflection bonus to AC depending on their size, as shown in the table below.
 
 Table: Deflection Bonus by Size
 :: Size		:: AC Bonus	::
@@ -34,6 +31,9 @@ Table: Deflection Bonus by Size
 :: Huge		:: +3		::
 :: Greater	:: +4		::
 :: Elder	:: +4		::
+
+Improved Initiative:
+	Light elementals receive Improved Initiative as a bonus feat.
 -----
 
 Light Elemental, Tiny

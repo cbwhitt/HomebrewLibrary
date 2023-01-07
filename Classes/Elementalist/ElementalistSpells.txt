@@ -269,11 +269,14 @@ Meteor Swarm
 : Zeroth :
 
 : First :
+Bane
+Cause Fear
 Chill Touch
 Cloak of Dark Power
 Deathwatch
 Detect Evil
 Detect Undead
+Doom
 Inflict Light Wounds
 
 : Second :
@@ -292,6 +295,7 @@ Wall of Gloom
 : Third :
 Animate Dead
 Blacklight
+Deeper Darkness
 Deeper Darkvision
 Halt Undead
 Inflict Serious Wounds

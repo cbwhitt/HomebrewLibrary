@@ -20,7 +20,7 @@ Vapor Sight (Ex):
 	A steam paraelemental's vision is not obscured by clouds of mist or vapor, such as that created by its steam breath or by a 'fog cloud' spell. The paraelemental ignores concealment provided by such effects.
 
 Steam Breath (Su):
-	A steam paraelemental's steam breath is a breath weapon it can use as a standard action. It must wait 1d4 rounds before using it again. The weapon is a cone of steam that deals damage based on the paraelemental's size. Creatures in the cone that succeed on a Reflex saving throw take only half damage. ADditionally, this attack leaves behind a cloud of vapor, as 'obscuring must', within its area. This cloud lasts for 1 round for every 3 HD the paraelemental has or until dispersed. The save DC is Constitution-based.
+	A steam paraelemental's steam breath is a breath weapon it can use as a standard action. It must wait 1d4 rounds before using it again. The weapon is a cone of steam that deals damage based on the paraelemental's size. Creatures in the cone that succeed on a Reflex saving throw take only half damage. Additionally, this attack leaves behind a cloud of vapor, as 'obscuring must', within its area. This cloud lasts for 1 round for every 3 HD the paraelemental has or until dispersed. The save DC is Constitution-based.
 
 Table: Steam Breath Properties by Size
 :: Elemental	:: Save DC	:: Cone Length	:: Damage	::

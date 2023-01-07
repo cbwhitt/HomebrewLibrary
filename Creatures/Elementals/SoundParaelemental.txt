@@ -18,7 +18,7 @@ Sound Mastery (Ex):
 
 Soundscape (Su):
 	A sound paraelemental continously emits a complex collection of sounds, producing one of two effects. The paraelemental can switch which effect as a swift action. The save DC for these effects is Constitution-based.
-	Euphony: This soundscape is of gentle, beautiful music of strange character that enraptures opponents. Any creature that starts its turn within range must succeed on a Will saving throw or be affected as though by a 'hypnotism' spell for 2d4 rounds. This is a sonic mind-affecting compulsion effect. Creatures that successfully save cannot be affected by the same paraelemental's euphony for 10 minutes.
+	Euphony: This soundscape is of strange, beautiful music that enraptures opponents. Any creature that starts its turn within range must succeed on a Will saving throw or be affected as though by a 'hypnotism' spell for 2d4 rounds. This is a sonic mind-affecting compulsion effect. Creatures that successfully save cannot be affected by the same paraelemental's euphony for 10 minutes.
 	Cacophony: This soundscape is of loud, discordant blasts of sounds. A creature that starts its turn within range must make a Fortitude save or take sonic damage based on the paraelemental's sie.
 
 Table: Soundscape Properties by Size

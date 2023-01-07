@@ -17,7 +17,10 @@ Lightning Mastery (Ex):
 	A lightning paraelemental receives a +1 bonus on attack and damage rolls against enemies who have suffered electricity damage in the past 5 rounds, or during thunderstorms.
 
 Ball Lightning (Ex):
-	As a full-round action, a lightning paraelemental can turn into a ball and charge through its enemies, electrocuting them. It moves up to twice its speed. As part of this movement, the lightning paraelemental can move through the squares of its enemies. This movement does not provoke attacks of opportunity and the paraelemental cannot end its movement in an occupied square. Any creature whose space is completely covered by the movement in this way is subject to the ball lightning attack. The attack deals damage as listed, but attacked creatures can attempt a Reflex save for hald damage. The DC is Strength-based. A lightning paraelemental can only deal damage to each target once per round, no matter how many times its movement takes it over a creature. It must wait 1d4 rounds before using this ability again.
+	As a full-round action, a lightning paraelemental can turn into a ball and charge through its enemies, electrocuting them. It moves up to twice its speed. As part of this movement, the lightning paraelemental can move through the squares of its enemies. This movement does not provoke attacks of opportunity. The paraelemental cannot end its movement in an occupied square. Any creature whose space is completely covered by the movement in this way is subject to the ball lightning attack. The attack deals electricity damage as listed, but attacked creatures can attempt a Reflex save for half damage. The DC is Strength-based. A lightning paraelemental can only deal damage to each target once per round, no matter how many times its movement takes it over a creature. It must wait 1d4 rounds before using this ability again.
+
+Shock (Ex):
+	A lightning paraelemental's slam attack deals bludgeoning damage plus electricity damage from the elemental's electric body.
 -----
 
 Lightning Paraelemental, Tiny
@@ -26,9 +29,9 @@ Hit Dice: 1d8 (4 hp)
 Initiative: +8
 Armor Class: 19 (+2 size, +4 Dex, +3 natural), touch 16, flat-footed 15
 BAB/Grapple: +0/-12
-Attack: Slam +6 melee (1d3-2)
+Attack: Slam +6 melee (1d3-2 + 1d3 electricity)
 Space/Reach: 0 ft./0 ft.
-Special Attacks: Ball lightning 2d3-4 (DC 8)
+Special Attacks: Ball lightning 1d3-2 (DC 8)
 Saves: Fort +0, Ref +7, Will +0
 Abilities: Str 6, Dex 19, Con 10, Int 4, Wis 11, Cha 11
 Skills: Listen +2, Spot +2
@@ -41,9 +44,9 @@ Hit Dice: 2d8 (9 hp)
 Initiative: +7
 Armor Class: 17 (+1 size, +3 Dex, +3 natural), touch 14, flat-footed 14
 BAB/Grapple: +1/-3
-Attack: Slam +5 melee (1d4)
+Attack: Slam +5 melee (1d4 + 1d4 electricity)
 Space/Reach: 5 ft./5 ft.
-Special Attacks: Ball lightning 2d3 (DC 11)
+Special Attacks: Ball lightning 1d4 (DC 11)
 Saves: Fort +0, Ref +6, Will +0
 Abilities: Str 10, Dex 17, Con 10, Int 4, Wis 11, Cha 11
 Skills: Listen +2, Spot +3
@@ -56,9 +59,9 @@ Hit Dice: 4d8+8 (26 hp)
 Initiative: +9
 Armor Class: 18 (+0 size, +5 Dex, +3 natural), touch 15, flat-footed 13
 BAB/Grapple: +3/+4
-Attack: Slam +8 melee (1d6+1)
+Attack: Slam +8 melee (1d6+1 + 1d6 electricity)
 Space/Reach: 5 ft./5 ft.
-Special Attacks: Ball lightning 2d6+2 (DC 13)
+Special Attacks: Ball lightning 1d6+1 (DC 13)
 Saves: Fort +3, Ref +9, Will +0
 Abilities: Str 12, Dex 21, Con 14, Int 4, Wis 11, Cha 11
 Skills: Listen +3, Spot +4
@@ -71,10 +74,10 @@ Hit Dice: 8d8+24 (60 hp)
 Initiative: +11
 Armor Class: 20 (-1 size, +7 Dex, +4 natural), touch 16, flat-footed 13
 BAB/Grapple: +6/+12
-Attack: Slam +12 melee (2d6+2)
-Full Attack: 2 slams +12 melee (2d6+2)
+Attack: Slam +12 melee (2d6+2 + 2d6 electricity)
+Full Attack: 2 slams +12 melee (2d6+2 + 2d6 electricity)
 Space/Reach: 10 ft./10 ft.
-Special Attacks: Ball lightning 4d6+6 (DC 16)
+Special Attacks: Ball lightning 2d6+3 (DC 16)
 Special Qualities: Damage reduction 5/-
 Saves: Fort +5, Ref +13, Will +2
 Abilities: Str 14, Dex 25, Con 16, Int 6, Wis 11, Cha 11
@@ -88,10 +91,10 @@ Hit Dice: 16d8+64 (136 hp)
 Initiative: +12
 Armor Class: 21 (-2 size, +9 Dex, +4 natural), touch 17, flat-footed 12
 BAB/Grapple: +12/+24
-Attack: Slam +19 melee (2d8+4)
-Full Attack: 2 slams +19 melee (2d8+4)
+Attack: Slam +19 melee (2d8+4 + 2d8 electricity)
+Full Attack: 2 slams +19 melee (2d8+4 + 2d8 electricity)
 Space/Reach: 15 ft./15 ft.
-Special Attacks: Ball lightning 4d8+12 (DC 24)
+Special Attacks: Ball lightning 2d8+6 (DC 24)
 Special Qualities: Damage reduction 5/-
 Saves: Fort +9, Ref +21, Will +5
 Abilities: Str 18, Dex 29, Con 18, Int 6, Wis 11, Cha 11
@@ -105,10 +108,10 @@ Hit Dice: 21d8+84 (178 hp)
 Initiative: +14
 Armor Class: 26 (-2 size, +10 Dex, +8 natural), touch 18, flat-footed 16
 BAB/Grapple: +15/+28
-Attack: Slam +23 melee (2d8+5)
-Full Attack: 2 slams +23 melee (2d8+5)
+Attack: Slam +23 melee (2d8+5 + 2d8 electricity)
+Full Attack: 2 slams +23 melee (2d8+5 + 2d8 electricity)
 Space/Reach: 15 ft./15 ft.
-Special Attacks: Ball lightning 4d8+15 (DC 27)
+Special Attacks: Ball lightning 2d8+7 (DC 27)
 Special Qualities: Damage reduction 10/-
 Saves: Fort +11, Ref +24, Will +9
 Abilities: Str 20, Dex 31, Con 18, Int 8, Wis 11, Cha 11
@@ -122,10 +125,10 @@ Hit Dice: 24d8+96 (204 hp)
 Initiative: +15
 Armor Class: 27 (-2 size, +11 Dex, +8 natural), touch 19, flat-footed 16
 BAB/Grapple: +18/+32
-Attack: Slam +27 melee (2d8+6/19-20)
-Full Attack: 2 slams +27 melee (2d8+6/19-20)
+Attack: Slam +27 melee (2d8+6/19-20 + 2d8 electricity)
+Full Attack: 2 slams +27 melee (2d8+6/19-20 + 2d8 electricity)
 Space/Reach: 15 ft./15 ft.
-Special Attacks: Ball lightning 4d8+18 (DC 30)
+Special Attacks: Ball lightning 2d8+9 (DC 30)
 Special Qualities: Damage reduction 10/-
 Saves: Fort +11, Ref +24, Will +9
 Abilities: Str 22, Dex 33, Con 18, Int 10, Wis 11, Cha 11
