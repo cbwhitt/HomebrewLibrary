@@ -34,61 +34,61 @@ Weapon and Armor Proficiency:
 	The duelist is proficient with all simple and martial weapons and with the buckler, but not with any other armor or shield.
 
 Combat Expertise:
-	A duelist gains Combat Expertise as a bonus feat at 1st level, even if he does not qualify for the feat.
+	A duelist gains Combat Expertise as a bonus feat at 1st level, even if they do not qualify for the feat.
 
 Weapon Finesse:
 	A duelist gains Weapon Finesse as a bonus feat at 1st level.
 
 Single Combat (Ex):
-	A duelist’s combat skills are most potent when focused on a single enemy. As a swift action on his turn, he may designate an opponent to be his Foe. This enemy remains his Foe until either the duelist is rendered helpless or he chooses to select a new Foe with this ability.
-	A duelist gains a +1 bonus on attack rolls made against his Foe.
-	A duelist’s other abilities are often more potent against his Foe.
+	A duelist’s combat skills are most potent when focused on a single enemy. As a swift action on their turn, they may designate an opponent to be their Foe. This enemy remains their Foe until either the duelist is rendered helpless or they choose to select a new Foe with this ability.
+	A duelist gains a +1 bonus on attack rolls made against their Foe.
+	A duelist’s other abilities are often more potent against their Foe.
 
 Canny Defense (Ex):
-	When unarmored and unencumbered, the duelist gains a dodge bonus to his AC equal to his Intelligence bonus (if any).
-	Additionally, when unarmored and unencumbered, a duelist’s Foe cannot flank him. This also denies flanking to any other combatant who would otherwise be flanking with his Foe.
-	A duelist loses these bonuses any time he would also lose his Dexterity bonus to AC, when he wears any armor, when he uses a shield other than a buckler, or when he carries a medium or heavy load.
+	When unarmored and unencumbered, the duelist gains a dodge bonus to their AC equal to their Intelligence bonus (if any).
+	Additionally, when unarmored and unencumbered, a duelist’s Foe cannot flank them. This also denies flanking to any other combatant who would otherwise be flanking with their Foe.
+	A duelist loses these bonuses any time they would also lose their Dexterity bonus to AC, when they wears any armor, when they use a shield other than a buckler, or when they carry a medium or heavy load.
 
 Bonus Feats:
-	At 2nd level, and again at every 4th level (4th, 8th, 12th, 16th, and 20th), a duelist gains a bonus combat-oriented feat. These bonus feats must be one marked as a fighter bonus feat. He must still meet all the prerequisites for these bonus feats, but qualifies as a fighter of level equivalent to his duelist level for this purpose.
+	At 2nd level, and again at every 4th level (4th, 8th, 12th, 16th, and 20th), a duelist gains a bonus combat-oriented feat. These bonus feats must be one marked as a fighter bonus feat. They must still meet all the prerequisites for these bonus feats, but qualifies as a fighter of level equivalent to their duelist level for this purpose.
 
 Improved Reaction (Ex):
 	At 2nd level, a duelist gains a +2 bonus on initiative checks. At 8th level, this bonus increases to +4. This bonus stacks with the benefit provided by the Improved Initiative feat.
 
 Nimble Combatant (Ex):
-	Beginning at 3rd level, when unarmored and unencumbered, a duelist receives a competence bonus on Balance, Climb, Jump, and Tumble checks equal to his Intelligence bonus (if any).
+	Beginning at 3rd level, when unarmored and unencumbered, a duelist receives a competence bonus on Balance, Climb, Jump, and Tumble checks equal to their Intelligence bonus (if any).
 
 Insightful Strike (Ex):
-	At 3rd level, when unarmored and unencumbered, a duelist becomes able to place his blows where they deal greater damage. He applies his Intelligence bonus (if any) as a bonus on damage rolls (in addition to any Strength bonus he may have) with any finesse weapon. Targets immune to critical hits are immune to this ability.
+	At 3rd level, when unarmored and unencumbered, a duelist becomes able to place their blows where they deal greater damage. They apply their Intelligence bonus (if any) as a bonus on damage rolls (in addition to any Strength bonus they may have) with any finesse weapon. Targets immune to critical hits are immune to this ability.
 
 Grace (Ex):
-	At 4th level, a duelist gains a +2 competence bonus on all Reflex saving throws. At 12th level, this bonus improves to +3, and at 20th level, it improves to +4. This bonus is doubled against attacks and effects produced by a duelist’s Foe. This ability functions for a duelist only when he is wearing no armor, is carrying no more than a light load, and is using no shield other than a buckler.
+	At 4th level, a duelist gains a +2 competence bonus on all Reflex saving throws. At 12th level, this bonus improves to +3, and at 20th level, it improves to +4. This bonus is doubled against attacks and effects produced by a duelist’s Foe. This ability functions for a duelist only when they are wearing no armor, are carrying no more than a light load, and is using no shield other than a buckler.
 
 Precise Strike (Ex):
-	At 5th level, a duelist gains the ability to strike precisely with a light or one-handed piercing weapon. Attacks with these weapons deal an additional 1d4 damage. This bonus increases by +1d4 against his Foe. At 10th level, and every five levels thereafter (15th and 20th), the extra damage from a precise strike increases by +1d4 (to a maximum of +4d4 at 20th level). Unlike most extra damage dice, when a duelist scores a critical hit while making a precise strike, his precise strike damage dice are multiplied by the critical multiplier of his weapon. Creatures immune to critical hits are also immune to this ability.
+	At 5th level, a duelist gains the ability to strike precisely with a light or one-handed piercing weapon. Attacks with these weapons deal an additional 1d4 damage. This bonus increases by +1d4 against their Foe. At 10th level, and every five levels thereafter (15th and 20th), the extra damage from a precise strike increases by +1d4 (to a maximum of +4d4 at 20th level). Unlike most extra damage dice, when a duelist scores a critical hit while making a precise strike, their precise strike damage dice are multiplied by the critical multiplier of their weapon. Creatures immune to critical hits are also immune to this ability.
 
 Acrobatic Charge (Ex):
-	At 6th level, a duelist gains the ability to charge in situations where others cannot. He may charge over difficult terrain that normally slows movement. Depending on the circumstance, he may still need to make appropriate skill checks to successfully move over the terrain.
-	Additionally, whenever a duelist charges, the AC penalty he incurs does not apply to attacks against him made by his Foe.
+	At 6th level, a duelist gains the ability to charge in situations where others cannot. They may charge over difficult terrain that normally slows movement. Depending on the circumstance, they may still need to make appropriate skill checks to successfully move over the terrain.
+	Additionally, whenever a duelist charges, the AC penalty they incur does not apply to attacks against them made by their Foe.
 
 Focused Attack (Ex):
-	Beginning at 7th level, a duelist gains the ability to measure his attacks carefully and slowly, trading alacrity for accuracy. To make a focused attack, a duelist must use a full attack action. He makes only one attack, forfeiting all attacks except that at his highest base attack bonus. His attack is made at a +3 bonus for each attack he forfeited this way. This bonus does not continue to benefit other attacks that he may make during the remainder of the round (such as attacks of opportunity). The total attack bonus for this attack (including his base attack bonus) is indicated in Table: The Duelist.
-	Additionally, when making any full attack, not just a focused attack, each of those attacks made against the deulist's Foe treat the critical range of his weapon as increased by one (so a rapier threatens a critical hit on a natural roll of 17-20). This effect stacks with effects that double the critical range of a weapon (such as the keen weapon enhancement) but is not itself increased by them (so a duelist making a focused attack against exclusively his Foe using a keen rapier would make attacks that threaten a critical hit on a natural 14-20). Additionally, the critical multiplier of the any weapon used as part of these attacks is increased by one step (i.e. from x2 to x3, or x3 to x4). Critical multipliers may not be raised above x4 in this way.
+	Beginning at 7th level, a duelist gains the ability to measure their attacks carefully and slowly, trading alacrity for accuracy. To make a focused attack, a duelist must use a full attack action. They make only one attack, forfeiting all attacks except that at their highest base attack bonus. This attack is made at a +3 bonus for each attack they forfeited this way. This bonus does not continue to benefit other attacks that they may make during the remainder of the round (such as attacks of opportunity). The total attack bonus for this attack (including their base attack bonus) is indicated in Table: The Duelist.
+	Additionally, when making any full attack, not just a focused attack, each of those attacks made against the deulist's Foe treat the critical range of their weapon as increased by one (so a rapier threatens a critical hit on a natural roll of 17-20). This effect stacks with effects that double the critical range of a weapon (such as the keen weapon enhancement) but is not itself increased by them (so a duelist making a focused attack against exclusively their Foe using a keen rapier would make attacks that threaten a critical hit on a natural 14-20). Additionally, the critical multiplier of the any weapon used as part of these attacks is increased by one step (i.e. from x2 to x3, or x3 to x4). Critical multipliers may not be raised above x4 in this way.
 
 Wounding Critical (Ex):
 	A duelist of 11th level or higher who scores a critical hit (not merely threatens one) against a creature also deals 1 point of Constitution damage to that creature. Creatures immune to critical hits are immune to this effect.
 	At 17th level, a duelist does 2 points of Constitution damage to that creature instead.
-	Against his Foe, this effect deals an additional 1 point of Constitution damage.
+	Against their Foe, this effect deals an additional 1 point of Constitution damage.
 
 Acrobatic Skill Mastery (Ex):
-	At 13th level, a duelist becomes so certain in the use of his acrobatic skills that he can use them reliably even under adverse conditions. When making a Jump, Tumble, or Balance check, a duelist may take 10 even if stress and distractions would normally prevent him from doing so.
+	At 13th level, a duelist becomes so certain in the use of their acrobatic skills that they can use them reliably even under adverse conditions. When making a Jump, Tumble, or Balance check, a duelist may take 10 even if stress and distractions would normally prevent them from doing so.
 
 Expanded Critical (Ex):
-	At 14th level, a duelist learns to leverage his precision even against foes with indiscernible anatomies. When he attacks an enemy normally immune to critical hits by virtue of their creature type (such as constructs or plants), a duelist may ignore half of that immunity. If he scores a critical hit against that creature, he deals half the additional damage instead of none. This also applies to precision damage, such as his precise strike or wounding critical abilities, or sneak attack damage, if he has that ability from another class. This ability does not apply to effects which protect against critical hits that do not arise from a creature's type, such as the 'fortification' special armor property.
-	At 19th level, this ability improves. A duelist instead entirely ignores immunity to critical hits granted by a creature's type. He may apply the full amount of additional damage when he scores such hits.
+	At 14th level, a duelist learns to leverage their precision even against foes with indiscernible anatomies. When they attack an enemy normally immune to critical hits by virtue of their creature type (such as constructs or plants), a duelist may ignore half of that immunity. If they score a critical hit against that creature, they deal half the additional damage instead of none. This also applies to precision damage, such as their precise strike or wounding critical abilities, or sneak attack damage, if they have that ability from another class. This ability does not apply to effects which protect against critical hits that do not arise from a creature's type, such as the 'fortification' special armor property.
+	At 19th level, this ability improves. A duelist instead entirely ignores immunity to critical hits granted by a creature's type. They may apply the full amount of additional damage when they score such hits.
 
 My Enemy is Your Enemy (Ex):
-	Beginning at 18th level, when fighting his Foe, a duelist’s allies also benefit from the portion of his abilities that apply specifically to his Foe. (Therefore, they receive a +1 bonus on attack rolls against his Foe, cannot be flanked by or with his Foe, receive a +3 (later +4) bonus on Reflex saves against attacks made by the Foe, deal an additional +1d4 damage with a light or one-handed piercing weapon, expand their critical range by 1 for attacks against the Foe made as part of a full attack, and deal 1 Constitution damage against his Foe with a successful critical hit.) A duelist’s allies need not meet the unarmored and unencumbered criteria to benefit from these abilities, but they cannot benefit from them is the duelist himself does not.
+	Beginning at 18th level, when fighting their Foe, a duelist’s allies also benefit from the portion of the duelist's abilities that apply specifically to their Foe. (Therefore, they receive a +1 bonus on attack rolls against the duelist's Foe, cannot be flanked by or with their Foe, receive a +3 (later +4) bonus on Reflex saves against attacks made by the Foe, deal an additional +1d4 damage with a light or one-handed piercing weapon, expand their critical range by 1 for attacks against the Foe made as part of a full attack, and deal 1 Constitution damage against the Foe with a successful critical hit.) A duelist’s allies need not meet the unarmored and unencumbered criteria to benefit from these abilities, but they cannot benefit from them if the duelist themself does not.
 
 Duel for Three (Ex):
-	At 20th level, a duelist becomes an absolute master of the dueling art. As a swift action on his turn, he may designate two separate enemies as his Foe, instead of just one. He gains all appropriate bonuses for both enemies.
+	At 20th level, a duelist becomes an absolute master of the dueling art. As a swift action on their turn, they may designate two separate enemies as their Foe, instead of just one. They gain all appropriate bonuses for both enemies.

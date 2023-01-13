@@ -69,13 +69,13 @@ Shared Stance (Ex):
 	At 19th level, this ability improves. A defender's allies need only be within 15 feet of them while they are in a defensive stance to receive these bonuses.
 
 Greater Stance (Ex):
-	At 11th level, a defender’s bonuses to Strength and Constitution during his defensive stance increase to +4 and +6, respectively, his resistance bonus on all saves increases to +3, and his dodge bonus to AC increases to +5.
+	At 11th level, a defender’s bonuses to Strength and Constitution during their defensive stance increase to +4 and +6, respectively, their resistance bonus on all saves increases to +3, and their dodge bonus to AC increases to +5.
 
 Interpose (Ex):
-	At 14th level, the defender gains the ability to interpose himself between an enemy and one of his allies. Once per round, when an adjacent ally is attacked, a defender may have that attack target him instead. When interposing himself in this way, a defender forfeits any size, Dexterity, or dodge bonuses to his AC (but not penalties). A defender need not be in a defensive stance to use this ability.
+	At 14th level, the defender gains the ability to interpose themself between an enemy and one of their allies. Once per round, when an adjacent ally is attacked, a defender may have that attack target them instead. When interposing themself in this way, a defender forfeits any size, Dexterity, or dodge bonuses to their AC (but not penalties). A defender need not be in a defensive stance to use this ability.
 
 Tireless Stance (Ex):
-	Starting at 17th level, a defender no longer takes a -2 penalty to Strength at the end of his defensive stance.
+	Starting at 17th level, a defender no longer takes a -2 penalty to Strength at the end of their defensive stance.
 
 Mighty Stance (Ex):
-	At 20th level, a defender’s bonuses to Strength and Constitution during his defensive stance increase to +6 and +8, respectively, his resistance bonus on all saves increases to +4, and his dodge bonus to AC increases to +6.
+	At 20th level, a defender’s bonuses to Strength and Constitution during their defensive stance increase to +6 and +8, respectively, their resistance bonus on all saves increases to +4, and their dodge bonus to AC increases to +6.
