@@ -1,6 +1,6 @@
 :: Triton ::
 
-	Triton are a bipedal relative of merfolk. Instead of making their homes in elaborate reefs like their more aquatic cousins, triton perfer submerged cities of carved stone situated in ocean shallows. Since they can breath both air and water, triton usually foster good relations with other races, and many actually live in surface-dwelling settlements.
+	Triton are a bipedal relative of merfolk. Instead of making their homes in elaborate reefs like their more aquatic cousins, triton perfer submerged cities of carved stone situated in ocean shallows. Since they can breath both air and water, triton usually foster good relations with other species, and many actually live in surface-dwelling settlements.
 	Triton have vaguely fishy features, with sleek fins scattered across their bodies, webbed hands and feet, and gills. They are modestly shorter and stockier than humans on average, but not by much. Their scaly skin is usually colored variations of blue, though sometimes reddish hues can be mixed in as well.
 
 	Humanoid (triton, aquatic)
@@ -8,8 +8,8 @@
 	Triton base land speed is 30 ft., and triton have a 40 ft. swim speed.
 	Medium: As Medium creatures, triton have no special bonuses or penalties due to their size.
 	Low-Light Vision
-	+2 racial bonus on Appraise checks
-	+2 racial bonus on Diplomacy and Gather Information checks
+	+2 species bonus on Appraise checks
+	+2 species bonus on Diplomacy and Gather Information checks
 	Weapon Familiarity: Triton treat the net as a martial weapon and are automatically proficient with the trident and lance.
 	Automatic Languages: Common and Triton
 	Bonus Languages: Any

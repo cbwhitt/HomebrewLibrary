@@ -11,7 +11,7 @@ Leveling Up:
 
 
 Ability Score Increases:
-	Instead of increasing one ability score by a single point every 4 levels, player characters may increase two different ability scores each by one point.
+	Instead of increasing one ability score by a single point every 4 levels, player characters increase two different ability scores each by one point.
 
 
 Hit Points:
@@ -19,16 +19,29 @@ Hit Points:
 	This same choice applies to a player character's minion, campanion, or familiar that may also gain hit dice as the character gains levels. In this case, the choice and result remains if the character gains a replacement companion of the same creature (so a druid choosing to roll for the hit dice of her wolf companion would use those same rolls for all subsequent wolf companions, if her first should perish).
 
 
-Death and Dying:
-	The campaign uses all standard rules for death and dying, with two exceptions. Instead of dying at negative 10 hit points, a player dies at either negative 10 hit points or negative their constitution score, whichever is greater. Additionally, a character has a 20% chance of stabilizing instead of 10%.
-
+Death and Dying (from Unearthed Arcana):
+	Characters cannot be reduced to negative hit points, 0 is the minimum. There is no automatic hit point total at which a character dies. Instead, any character who takes damage that reduces their hit points to 0 must make a Fortitude save to avoid falling unconscious or dying.
+	When a character’s hit points are reduced to 0, they must attempt a Fortitude save (DC 10, +2 per 10 points of damage dealt by the attack or effect). Success means the character is disabled; failure indicates that they are dying. Failure by 10 or more means the character is dead. (If the character rolls a natural 1, they are dying. Calculate the numeric result; if they missed the DC by 10 or more, they are dead.)
+	The possible results of the save are as follows.
+	Disabled: A disabled character is conscious, but can only take a single move or standard action each turn (but not both, nor can they take full-round actions). They move at half speed. Taking move actions doesn’t risk further injury, but if a disabled character takes any standard action (or any other action the DM deems strenuous, including swift actions such as casting a quickened spell), they must succeed on a Fortitude save (against the same DC as the save made when reduced to 0 hit points) to remain disabled; otherwise, they become dying after they complete the action. If a disabled character takes any lethal damage, they must make a new Fortitude save (DC 10, +2 per 10 points of damage dealt by the attack or effect), but any result other than dead means the character is now dying. A disabled character who is dealt (or who is currently suffering from) any nonlethal damage becomes unconscious (since the character’s nonlethal damage now exceeds their hit points) but does not begin dying.
+	Dying: A dying character is unconscious and near death. Each round on his turn, a dying character must make a Fortitude save (DC 10, +1 per turn after the first) to become stable. If the character fails the save, they die.
+	If the character succeeds on the save by less than 5, they do not die but do not improve. They are still dying and must continue to make Fortitude saves every round.
+	If the character succeeds on the save by 5 or more but by less than 10, they become stable but remain unconscious.
+	If the character succeeds on the save by 10 or more, they become conscious and disabled.
+	Another character can make a dying character stable by succeeding on a DC 15 Heal check as a standard action (which provokes attacks of opportunity).
+	Stable: A stable character is unconscious. Every hour, a stable character must succeed on a Fortitude save (DC 10, +1 per hour after the first) to remain stable.
+	If the character fails the save, they become dying.
+	If the character succeeds on the save by less than 5, they do not get any worse, but do not improve. They are still stable and unconscious, and must continue to make Fortitude saves every hour.
+	If the character succeeds on the save by 5 or more, they become conscious and has 1 hit point.
+	Another character can grant a stable character a +2 bonus on their Fortitude save to remain stable by tending to them for at least 10 minutes during the hour between saves and by making a DC 15 Heal check.
+	Dead: A dead character’s soul immediately departs their body.
 
 Resurrection:
 	Most effects that revive a character from the grave (the exception being 'true resurrection') incur a penalty of a lost level upon resurrection. This stipulation is removed. Instead, a revived character simply loses 250 xp per character level they possess. If a character has insufficiently much xp remaining, they cannot be raised.
 
 
 Feat Retraining:
-	A player may retrain any feat he possesses as part of gaining a level, provided: 1. The player replaces that feat with one she could have taken at the level he took the one she is replacing. 2. The feat to be replaced is not the prerequisite for another character option. 3. The feat does not provide a one-time bonus or otherwise cannot be reasonably reversed (such as Leadership).
+	A player may retrain any feat they possesse as part of gaining a level, provided: 1. The player replaces that feat with one they could have taken at the level they took the one they are replacing. 2. The feat to be replaced is not the prerequisite for another character option. 3. The feat does not provide a one-time bonus or otherwise cannot be reasonably reversed (such as Leadership).
 
 
 Combat Expertise:
@@ -70,7 +83,7 @@ Elementals:
 
 
 Native Subtype:
-	In addition to the other properties of the native subtype for outsiders, a native outsider does not receive any weapons proficiencies as a result of her type.
+	In addition to the other properties of the native subtype for outsiders, a native outsider does not receive any weapons proficiencies as a result of their type.
 
 
 Tower Shields:
@@ -88,12 +101,12 @@ Homunculus Subtype:
 Infusions:
 	Alchemists, arcanists, and armorers use infusions. Though they are not spellcasters in the usual way, but they do have the ability to replicate spell effects by imbuing them into items, essentially creating temporary magic items that they can employ. They do so through infusions. Infusions function just like spells, and they follow the rules of spells. For example, they can be dispelled or counterspelled, they don't function in an antimagic area, and a character must make a Concentration check if injured while imbuing one. Additionally, the magic of infusions is arcane in nature. Infusions can be viewed as a special class of spells, but since all infusions share some common characteristics and deliver their spell effects in an atypical way, it is more useful to describe these common mechanics than to reiterate them for each infusion individually. Indeed, many infusion produce effects directly analogous to existing spells and differ only in the delivery of that effect.
 	While spells may target one or more creatures, allow you to make an attack, or create some instantaneous or persistent effect in an area, all infusions are imbued into an item or construct and produce a persistent effect that effectively turns that object temporarily into a magic item which delivers the spell effect associated with the infusion. The nature of this delivery varies between the classes. Alchemists imbue spell effects to create temporary brewed items, which grant their spell effects as those brewed items normally would; arcanists use virgery, imbuing spell effects into wands and similar items from which the spells can subsequently be cast; and armorers imbue spell effects to create magical arms, armor, or other items, whose spell effects either modify the item or construct, emanate out from it, or are granted to the item's bearer.
-	However, there are rules common amongst all classes. For all infusions, once imbued, the source of the produced effect is the item. These items can be employed by other characters. For example, an armorer may imbue an item worn by her ally with the infusion 'bull's strength' (which is directly analogous to the spell of the same name. The item then functions similarly to a belt of giant strength for the duration of the infusion, granting her ally a +4 enhancement bonus to Strength. As another example, an alchemist may create a temporary potion, imbuing it with the spell 'cure light wounds'. The created potion thus works the same as a potion of 'cure light wounds' would.
+	However, there are rules common amongst all classes. For all infusions, once imbued, the source of the produced effect is the item. These items can be employed by other characters. For example, an armorer may imbue an item worn by their ally with the infusion 'bull's strength' (which is directly analogous to the spell of the same name). The item then functions similarly to a belt of giant strength for the duration of the infusion, granting their ally a +4 enhancement bonus to Strength. As another example, an alchemist may create a temporary potion, imbuing it with the spell 'cure light wounds'. The created potion thus works the same as a potion of 'cure light wounds' would.
 	Imbuing an infusion requires one minute with the item, construct, or materials necessary and is otherwise similar to casting a spell. Unlike most spells, though, once imbued, the infusion does not produce its effect immediately. Instead, the item stores the spell effect within itself until the infusion is activated or until you receive a new daily allotment of infusions, at which point the magic of all extant infusions fades away. All decisions needed for infusions (for example, which special weapon ability is granted by the 'personal weapon augmentation' infusion) are made when they are imbued. The entries for each class detail more comprehensively how each uses and activates infusions.
 
 
 Infusions and Activating Magic Items:
-	Ordinarily, a character must, for example, know a spell to be able to cast it from a spell completion item (i.e. a scroll), have it on their spell list to activate a spell trigger item (e.g. a wand), or have it prepared/available to cast (depending on whether they prepare spell) to flavor a universal potion with it. Infusions which have analogue spells qualify for all such purposes (so an arcanist can activate magic wands for spells that appear on his spell list and an alchemist can flavor a universal potion with the spell effect of any infusion he knows).
+	Ordinarily, a character must, for example, know a spell to be able to cast it from a spell completion item (i.e. a scroll), have it on their spell list to activate a spell trigger item (e.g. a wand), or have it prepared/available to cast (depending on whether they prepare spell) to flavor a universal potion with it. Infusions which have analogue spells qualify for all such purposes (so an arcanist can activate magic wands for spells that appear on their spell list and an alchemist can flavor a universal potion with the spell effect of any infusion they know).
 
 
 Use Magic Device and Emulating Spell Requirements for Creating Magic Items:
@@ -141,3 +154,9 @@ Table: Cleave Fighting Penalties
 :: Light weapon & Cleave      :: -6             :: -8                        :: -6                      ::
 :: Cleave                     :: -4             :: -6                        :: -4                      ::
 :: Two-handed weapon & cleave :: -2             :: -4                        :: -2                      ::
+
+
+Metamagic (adapted from Unearthed Arcana):
+	A spell caster does not have to prepare metamagic versions of their spells in advance (if they normally prepare spells) or spend full-round actions to cast metamagic spells (if they do not prepare spells). Metamagic spells also do not take up higher-level spell slots.
+	A character who selects a metamagic feat gains three daily uses of that feat that they can opt to use without previous preparation, increased spell level, or extended casting time. The character decides when casting the spell if they wish to apply the effect of one of their metamagic feats to the spell. A caster can apply more than one metamagic feat to a spell in this way, or even the same metamagic effect more than once (if allowed by the feat's description). Correspondingly many uses are deducted from a player's uses per day.
+	There is no outright maximum level of spell to which a caster can apply metamagic feats in this manner, but applying feats that produce a spell beyond their normal maximum costs additional spell slots. When a character would cast a metamagic spell, add the level of the base spell and all the spell level adjustments from the applied feats. If this number is less than or equal to the maximum spell level they are capable of casting (based on their level and ability scores), there is no additional cost to cast that spell. However, if this number exceeds their maximum spell level, they must expend a number of additional spell slots equal to the difference to "overcharge" the spell. These spell slots must be of a level greater than or equal to the level of the modified spell. If the spellcaster has insufficiently many such spell slots available, they cannot cast that spell this way. For casters that do not prepare spells, they must simply lose available spell slots as appropriate. For casters that prepare spells, these spell slots may come both from unprepared spell slots in their daily allotment and/or already prepared spells. In the latter case, they lose the prepared spells expended this way.

@@ -1,15 +1,15 @@
 :: Dragonborn (Chromatic) ::
 
-	A semi-monstrous race of dragon, it is believed dragonborn are the result of millennia of breeding between half-dragons, eventually developing different physical traits and a distinct culture. Correspondingly, dragonborn are descended from true dragons, evident in their coloration and minor magical powers. They usually keep to themselves in secluded communities, but it is not uncommon for some to venture away from their brood to see the greater world, even though they remain feared and unwelcome in many lands.
+	A semi-monstrous species of dragon, it is believed dragonborn are the result of millennia of breeding between half-dragons, eventually developing different physical traits and a distinct culture. Correspondingly, dragonborn are descended from true dragons, evident in their coloration and minor magical powers. They usually keep to themselves in secluded communities, but it is not uncommon for some to venture away from their brood to see the greater world, even though they remain feared and unwelcome in many lands.
 	Physically, there is not much difference between dragonborn colorations, except that there has remained a comparatively sharp division between the chromatic and metallic. Chromatic dragonborn, described here, usually stand between 6 and 7 ft. tall and weigh an average of around 250 lb. They often travel in predatory bands of fearsome warriors.
 
 	Dragon (dragonborn)
 	+2 Strength, -2 Dexterity, - 2 Intelligence
-	A chromatic dragonborn's Intelligence score is always at least 3. If this adjustment would lower the character's score to 1 or 2, her score is nevertheless 3.
+	A chromatic dragonborn's Intelligence score is always at least 3. If this adjustment would lower a character's score to 1 or 2, their score is nevertheless 3.
 	Dragonborn base speed is 30 ft.
 	Medium: As medium creatures, chromatic dragonborn have no special bonuses or penalties due to their size.
 	Immunity to magical sleep effects and paralysis effects.
-	+2 racial bonus to Survival checks
+	+2 species bonus to Survival checks
 	Low-Light Vision
 	Darkvision
 	A chromatic dragonborn has a natural bite attack that deals 1d6 damage and two natural claw attacks that deal 1d4 damage.

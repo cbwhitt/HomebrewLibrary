@@ -1,14 +1,14 @@
 :: Forest Ursine ::
 
-	Though similar to their mountain brethern, these ursine instead inhabit the forests of the world. They organize dedicated patrols for their territories and resent the presence of other races in their forests, making it difficult to interact with them.
+	Though similar to their mountain brethern, these ursine instead inhabit the forests of the world. They organize dedicated patrols for their territories and resent the presence of other species in their forests, making it difficult to interact with them.
 
 	+4 Constitution, -2 Intelligence, -2 Charisma
 	Monstrous Humanoid (ursine)
 	Medium: As Medium creatures, ursine have no special bonuses or penalties due to their size.
-	Low-Light Vision: An ursine can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions.
+	Low-Light Vision: An ursine can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
 	An Ursine's base land speed is 25 ft. However, ursine can move at this speed even when wearing medium or heavy armor or when carrying a medium or heavy load.
-	+2 racial bonus on saving throws against poison
-	+4 racial bonus on survival checks in forest terrain
+	+2 species bonus on saving throws against poison
+	+4 species bonus on survival checks in forest terrain
 	An ursine has a natural bite attack that deals 1d6 damage.
 	Scent: Forest ursine are exceptional hunters and have honed their sense of smell for just such a purpose. They gain the 'scent' extraordinary quality.
 	Odor Sensitivity: A forest ursine's powerful sense of smell can sometimes be a liability. If a forest ursine would be sickened for any length of time by any odorous effect, it is instead nauseated for one round, then sickened for the remaining duration of the effect, if any.

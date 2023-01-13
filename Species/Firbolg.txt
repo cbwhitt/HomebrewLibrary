@@ -1,13 +1,13 @@
 :: Firbolg ::
 
-	A friendly and civilized race of fey. They are phyiscally large, standing from about 6 to 7 ft. tall, but are usually not built heavily. They can live several hundred years and often spend many of these in at least partial isoliation. They prefer forested climes and are consummate naturalists. Few in number, they may use their innate magical abilities to disguise themselves as a member of another race to avoid unwanted attention. They are known to give great advice on many matters.
+	A friendly and civilized species of fey. They are phyiscally large, standing from about 6 to 7 ft. tall, but are usually not built heavily. They can live several hundred years and often spend many of these in at least partial isolation. They prefer forested climes and are consummate naturalists. Few in number, they may use their innate magical abilities to disguise themselves as a member of another species to avoid unwanted attention. They are known to give great advice on many matters.
 
 	Fey (firbolg)
 	+2 Wisdom, -2 Dexterity
 	Firbolg base land speed is 30 ft.
 	Medium: As medium creatures, firbolg have no special bonuses or penalties due to their size.
-	+2 racial bonus on Heal checks
-	+2 racial bonus on Handle Animal checks
-	Spell-Like Abilities: 1/day - 'detect magic'. A firbolg with a Wisdome score of at least 10 also has the following spell-like abilities: 1/day - 'resistance','disguise self','cure minor wounds'. Caster level 1st, save DC 10 + firbolg's Wis modifier + spell level.
+	+2 species bonus on Heal checks
+	+2 species bonus on Handle Animal checks
+	Spell-Like Abilities: 1/day - 'detect magic'. A firbolg with a Wisdom score of at least 10 also has the following spell-like abilities: 1/day - 'resistance','disguise self','cure minor wounds'. Caster level 1st, save DC 10 + firbolg's Wis modifier + spell level.
 	Automatic Languages: Common and Sylvan. Bonus Languages: Terran, Aquan, Gnome, Elvish, Dwarven.
 	Favored Class: Druid.

@@ -1,14 +1,14 @@
 :: Mountain Ursine ::
 
-	Ursine are a race of humanoid bear-people, with two major subspecies. Mountain ursine make their homes in the mountains of the world. They are a slow, measured folk who tend to be very peaceful, contenting themselves to mountaineering and similar pursuits. When enraged, however, they become formidable opponents. Due to their reclusive nature, ursine find it difficult to communicate with other races, tending to reinforce their seclusion. The typical mountain ursine stands around 7 feet tall and weighs about 375 lb.
+	Ursine are a species of humanoid bear-people, with two major subspecies. Mountain ursine make their homes in the mountains of the world. They are a slow, measured folk who tend to be very peaceful, contenting themselves to mountaineering and similar pursuits. When enraged, however, they become formidable opponents. Due to their reclusive nature, ursine find it difficult to communicate with other species, tending to reinforce their seclusion. The typical mountain ursine stands around 7 feet tall and weighs about 375 lb.
 
 	+4 Constitution, -2 Dexterity, -2 Intelligence, -2 Charisma
 	Monstrous Humanoid (ursine)
 	Medium: As Medium creatures, ursine have no special bonuses or penalties due to their size.
 	Low-Light Vision: An ursine can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions.
 	An Ursine's base land speed is 25 ft. However, ursine can move at this speed even when wearing medium or heavy armor or when carrying a medium or heavy load.
-	+2 racial bonus on saving throws against poison
-	+4 racial bonus on survival checks in mountain terrain
+	+2 species bonus on saving throws against poison
+	+4 species bonus on survival checks in mountain terrain
 	An ursine has a natural bite attack that deals 1d6 damage.
 	Thick Skin: A mountain ursine gains a +1 racial bonus to its natural armor due to its naturally thick skin. It also receives a +4 racial bonus to fortitude saves against cold weather and a -4 racial penalty to fortitude saves against hot weather.
 	Automatic Languags: Common and Ursine

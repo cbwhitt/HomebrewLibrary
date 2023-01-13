@@ -4,13 +4,13 @@
 
 	+2 Constitution, -2 Intelligence
 	Monstrous Humanoid (reptilian)
-	A lizardfolk's starting Intelligence score is always at least 3. If this adjustment would lower the character's score to 1 or 2, his score is nevertheless 3.
+	A lizardfolk's starting Intelligence score is always at least 3. If this adjustment would lower a character's score to 1 or 2, their score is nevertheless 3.
 	Medium: As Medium creatures, lizardoflk have no special bonuses or penalties due to their size.
 	Lizardfolk base land speed is 30 ft.
-	+2 racial bonus on Survival checks
-	+2 racial bonus on Heal checks
-	+2 racial bonus on saves against poison
-	Scaly Skin: Lizardfolk receive a +1 racial bonus to natural armor.
+	+2 species bonus on Survival checks
+	+2 species bonus on Heal checks
+	+2 species bonus on saves against poison
+	Scaly Skin: Lizardfolk receive a +1 species bonus to natural armor.
 	Low-Light Vision
 	A lizardfolk has a natural bite attack that deals 1d6 damage.
 	Automatic Languages: Common and Draconic

@@ -6,9 +6,9 @@
 	Auran base land speed is 40 feet.
 	Darkvision
 	Light as Air: Aurans are preternaturally light weight (about a tenth of a human of equivalent size). They receive a +12 racial bonus on Jump checks and +8 racial bonus on Climb checks (this includes the bonus associated with having a land speed greater than 30 feet). An auran has no fly speed, unlike most creatures of the air subtype.
-	+1 racial bonus on attack rolls against terrans
-	+2 racial bonus on Spot checks
-	+2 racial bonus on Tumble checks
+	+1 species bonus on attack rolls against terrans
+	+2 species bonus on Spot checks
+	+2 species bonus on Tumble checks
 	Automatic Languages: Common and Auran
 	Bonus Languages: Aven, Gnome, Gnoll, Goblin, Orc, Draconic.
 	Favored Class: Elementalist

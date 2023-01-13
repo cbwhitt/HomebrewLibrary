@@ -4,12 +4,12 @@
 
 	Outsider (native)
 	+2 Wisdom, +2 Charisma, -2 Intelligence, -2 Dexterity
-	An aasimar's starting Intelligence score is always at least 3. If this adjustment would lower the character's score to 1 or 2, her score is nevertheless 3. 
+	An aasimar's starting Intelligence score is always at least 3. If this adjustment would lower the character's score to 1 or 2, their score is nevertheless 3. 
 	Aasimar base land speed is 30 ft.
 	Medium: As Medium creatures, aasimar have no special bonuses or penalties do to their size.
 	Darkvision
-	+2 racial bonus on Spot and Listen checks
-	+2 racial bonus on Sense Motive checks
+	+2 species bonus on Spot and Listen checks
+	+2 species bonus on Sense Motive checks
 	Spell-Like Abilities: 1/day - 'light'. Caster level 1st, save DC 10 + aasimar's Wis modifier + spell level.
 	Automatic Languages: Common and Celestial
 	Bonus Languages: Draconic, Dwarf, Elven, Gnome, Halfling, Sylvan, Luman

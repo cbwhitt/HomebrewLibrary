@@ -8,8 +8,8 @@
 	Radiant: A luman can make their body glow from within at will, shedding light as a torch. They may suppress or activate this glow as a swift action.
 	Knowledgeable: Luman characters treat all Knowledge skills as class skills regardless of which class they are.
 	+1 bonus on all saving throws
-	+1 racial bonus on attack rolls against noctans
-	+2 racial bonus on Search and Spot checks
+	+1 species bonus on attack rolls against noctans
+	+2 species bonus on Search and Spot checks
 	Automatic Languages: Common and Luman.
 	Bonus Languages: Draconic, Celestial, Gnome, Sylvan, Giant, Elven, Halfling, Aquan, Auran, Terran, Ignan.
 	Favored Class: Elementalist

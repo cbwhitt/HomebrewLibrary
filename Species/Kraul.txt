@@ -1,6 +1,6 @@
 :: Kraul ::
 
-	These bipedal insectoids make their homes in large cooperative colonies. They eat exclusviely plants and bugs (often farmed). They have a holometabolic life cycle, growing first from eggs into larva and subsequently pupating into adults. They are also eusocial, with colonies having a single queen mother and employing a haplodiploidy sex determination system. However, unlike many eusocial insects kraul exhibit very little sexual dimorphism (such that there is no segregation of work by sex in kraul society). The politics of reproduction in kraul society are complex to navigate and alien to other species.
+	These bipedal insectoids make their homes in large cooperative colonies. They eat exclusively plants and bugs (often farmed). They have a holometabolic life cycle, growing first from eggs into larva and subsequently pupating into adults. They are also eusocial, with colonies having a single queen mother and employing a haplodiploidy sex determination system. However, unlike many eusocial insects kraul exhibit very little sexual dimorphism (such that there is no segregation of work by sex in kraul society). The politics of reproduction in kraul society are complex to navigate and alien to other species.
 	The statistics here are for a typical kraul, which represent the vast majority of the species. A select few kraul may be induced to adopt several other distinct adult forms (including that of the queen) to serve the needs of the colony, but such individuals are few and far between.
 	
 	+2 Dexterity, -2 Constitution, -2 Charisma
@@ -12,7 +12,7 @@
 	Insectoid Intellect: Unlike other vermin, kraul have an Intelligence score and are not immune to mind-affecting effects (charms, compulsion, phantasms, patterns, morale, etc.).
 	A kraul has two natural claw attacks that deal 1d3 damage.
 	Kraul have four arms: two larger, more powerful arms and two weaker arms. The weak arms are strong enough to hold small items like potions, vials, flasks, wands, etc., but not to wield weapons. A kraul therefore is treated as having only two arms to qualify for feats and for wielding weapons.
-	Exoskeleton: Kraul receive a +1 racial bonus to natural armor.
+	Exoskeleton: Kraul receive a +1 species bonus to natural armor.
 	Automatic Languages: Common and Kraul
 	Bonus Languages: Undercommon, Terran, Noctan, Draconic.
 	Favored Class: Rogue

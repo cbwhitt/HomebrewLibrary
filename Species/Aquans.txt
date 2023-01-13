@@ -6,11 +6,11 @@
 	Aquan base land speed is 30 feet. Additionally, aquans have a swim speed of 30 feet.
 	Darkvision
 	Amphibious: Aquans can breath both in air and underwater.
-	Natural Healing: An aquan recovers hit points as though she had one more hit die than she actually does (so a 1st-level aquan warrior would recover 2 hit points from a full night's rest instead of 1).
-	+1 racial bonus on saving throws against poison
-	+1 racial bonus on attack rolls against ignans
-	+2 racial bonus on Escape Artist checks
-	+2 racial bonus on Heal checks
+	Natural Healing: An aquan recovers hit points as though they had one more hit die than they actually do (so a 1st-level aquan warrior would recover 2 hit points from a full night's rest instead of 1).
+	+1 species bonus on saving throws against poison
+	+1 species bonus on attack rolls against ignans
+	+2 species bonus on Escape Artist checks
+	+2 species bonus on Heal checks
 	Automatic Languages: Common and Aquan
 	Bonus Languages: Triton, Inkling, Tortle, Gnome, Elven, Sylvan.
 	Favored Class: Elementalist

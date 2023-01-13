@@ -1,14 +1,14 @@
 :: Sprigkin ::
 
-	Sprigkin are a civilized race of fey. They stand between 2-1/2 and 3 ft. tall and weigh 25-30 lb. Their skin ranges from fair to miscellaneous cool tones like a faint blue, purple, or mint green. They have distinctly fairy or pixie-like features, including disproportionately large heads and eyes and vestigial membranous wings. Sprigkin prefer colorful clothing adorned with natural iconography. Sprigkin reach adulthood at about age 30 and they live about 300 years, with the oldest living to around 400.
+	Sprigkin are a civilized species of fey. They stand between 2-1/2 and 3 ft. tall and weigh 25-30 lb. Their skin ranges from fair to miscellaneous cool tones like a faint blue, purple, or mint green. They have distinctly fairy or pixie-like features, including disproportionately large heads and eyes and vestigial membranous wings. Sprigkin prefer colorful clothing adorned with natural iconography. Sprigkin reach adulthood at about age 30 and they live about 300 years, with the oldest living to around 400.
 	
 	+2 Charisma, -2 Strength
 	Fey (Sprigkin)
-	Small: As a Small creature, a sprigkin gains a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but he uses smaller weapons than humans use and his lifting and carrying capacities are three-quarters those of a Medium creature.
+	Small: As a Small creature, a sprigkin gains a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but they use smaller weapons than humans use and their lifting and carrying capacities are three-quarters those of a Medium creature.
 	Sprigkin base land speed is 20 ft.
-	Low-Light Vision: A sprigkin can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-	+2 racial bonus on Bluff checks
-	+2 racial bonus on Disguise checks
+	Low-Light Vision: A sprigkin can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
+	+2 species bonus on Bluff checks
+	+2 species bonus on Disguise checks
 	Automatic Languages: Common and Sylvan
 	Bonus Languages: Draconic, Elven, Dwarven, Gnome, and Goblin
 	Spell-Like Abilities: 1/day - 'daze'. A sprigkin with a Charisma score of at least 10 also has the following spell-like abilities: 1/day - 'mage hand', 'ghost sound', 'prestidigitation'. Caster level 1st, save DC 10 + sprigkin's Cha modifier + spell level.

@@ -1,14 +1,14 @@
 :: Dragonborn (Metallic) ::
 
-	A semi-monstrous race of dragon, it is believed dragonborn are the result of millennia of breeding between half-dragons, eventually developing different physical traits and a distinct culture. Correspondingly, dragonborn are descended from true dragons, evident in their coloration and minor magical powers. They usually keep to themselves in secluded communities, but it is not uncommon for some to venture away from their brood to see the greater world, even though they remain feared and unwelcome in many lands.
-	Physically, there is not much difference between dragonborn colorations, except that there has remained a comparatively sharp division between the chromatic and metallic. Metallic dragonborn, described here, stand only a few inches taller than the average human and weigth a bit less. They are much more likely to live in human settlements and pursue trade and commerce than their chromatic brethren.
+	A semi-monstrous species of dragon, it is believed dragonborn are the result of millennia of breeding between half-dragons, eventually developing different physical traits and a distinct culture. Correspondingly, dragonborn are descended from true dragons, evident in their coloration and minor magical powers. They usually keep to themselves in secluded communities, but it is not uncommon for some to venture away from their brood to see the greater world, even though they remain feared and unwelcome in many lands.
+	Physically, there is not much difference between dragonborn colorations, except that there has remained a comparatively sharp division between the chromatic and metallic. Metallic dragonborn, described here, stand only a few inches taller than the average human and weigh a bit less. They are much more likely to live in human settlements and pursue trade and commerce than their chromatic brethren.
 
 	Dragon (dragonborn)
 	+2 Charisma, -2 Constitution
 	Dragonborn base speed is 30 ft.
 	Medium: As medium creatures, chromatic dragonborn have no special bonuses or penalties due to their size.
 	Immunity to magical sleep effects and paralysis effects.
-	+2 racial bonus to Spellcraft checks
+	+2 species bonus to Spellcraft checks
 	Low-Light Vision
 	Darkvision
 	A metallic dragonborn has a natural bite attack that deals 1d6 damage.

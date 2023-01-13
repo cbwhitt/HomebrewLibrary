@@ -6,8 +6,8 @@
 	Ignan base land speed is 30 feet.
 	Darkvision
 	Fire Walker: Ignans' elemental blood grants them resistance to fire 5, but not any vulnerability to cold. This supercedes the immunity to fire and vulnerability to cold typically granted by the fire subtype.
-	+1 racial bonus on attack rolls against aquans
-	+2 racial bonus on Diplomacy and Gather Information checks
+	+1 species bonus on attack rolls against aquans
+	+2 species bonus on Diplomacy and Gather Information checks
 	Spell-Like Abilities: 1/day - 'produce flame'. Caster level 1st; save DC 10 + ignan's Charisma modifier + spell level.
 	Automatic Languages: Common and Ignan
 	Bonus Languages: Any

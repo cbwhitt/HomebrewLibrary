@@ -6,8 +6,8 @@
 	Monstrous Humanoid (aven)
 	Medium: As Medium creatures, aven have no special bonuses or penalties due to their size.
 	An aven's base land speed is 30 ft., and aven have a 30 ft. fly speed (good).
-	+4 racial bonus on Spot checks
-	+2 racial bonus on Move Silently checks
+	+4 species bonus on Spot checks
+	+2 species bonus on Move Silently checks
 	Low-Light Vision
 	Automatic Languages: Common and Aven
 	Bonus Languages: Any
