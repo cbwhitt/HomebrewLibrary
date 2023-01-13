@@ -9,6 +9,8 @@
 	Low-Light Vision: A sprigkin can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
 	+2 species bonus on Bluff checks
 	+2 species bonus on Disguise checks
+	+2 racial bonus on saving throws against Enchantments
+	Add +1 to the Difficulty Class for all savings throws against enchantment spells cast by Sprigkin. This adjustment stacks with those from similar effects.
 	Automatic Languages: Common and Sylvan
 	Bonus Languages: Draconic, Elven, Dwarven, Gnome, and Goblin
 	Spell-Like Abilities: 1/day - 'daze'. A sprigkin with a Charisma score of at least 10 also has the following spell-like abilities: 1/day - 'mage hand', 'ghost sound', 'prestidigitation'. Caster level 1st, save DC 10 + sprigkin's Cha modifier + spell level.
