@@ -33,128 +33,107 @@ Class Skills (4 + Int modifier per level, x4 at 1st level):
 Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (Arcana) (Int), Knowledge (Religion) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Spot (Wis), Swim (Str), Tumble (Dex)
  
 Weapon and Armor Proficiency:
-Mystics are proficient with the club, crossbow (light or heavy), dagger, handaxe, sling, javelin, kama, nunchaku, quarterstaff, sai, shuriken, siangham, meteor hammer, dragon's beard, and clubkins.
-Mystics are not proficient with any armor or shields.
-When wearing armor, using a shield, or carrying a medium or heavy load, a mystic loses her AC Bonus, as well as her flurry of blows ability.
+	Mystics are proficient with the club, crossbow (light or heavy), dagger, handaxe, sling, javelin, kama, nunchaku, quarterstaff, sai, shuriken, siangham, meteor hammer, dragon's beard, and clubkins.
+	Mystics are not proficient with any armor or shields.
+	When wearing armor, using a shield, or carrying a medium or heavy load, a mystic loses their AC Bonus, as well as their flurry of blows ability.
 
 Forms (Su):
-	A mystic manifests mystical energy into special magical attacks, called forms. A mystic automatically gains access to new forms as she gains class levels. A mystic need not prepare a form ahead of time: every form to which she has access (determined by her mystic level) is available for her use.
-	A mystic can use only a certain number of forms per day. A mystic can use a number of forms per day equal to her Wisdom bonus (if any) plus her mystic level.
-The save DC for a mystic’s forms (if applicable) is 10 + one-half her mystic level + her wisdom modifier.
-	Forms are used as attacks, like a disarm or trip. A mystic may use a form as an attack of the kind described by the form. For example, an 3rd level mystic takes the full attack action and uses her Flurry of Blows ability, allowing her to make a total of two attacks. She decides to use the Stunning Fist form for her first attack, an unarmed melee attack. She hits. Her foe fails the Fortitude saving throw for Stunning Fist, causing him to be stunned. Because he is now vulnerable, she decides to attempt to trip him as the next attack of her flurry of blows. She resolves the trip attempt and is again successful, causing him to fall prone. Because she has the Improved Trip feat, she is immediately granted an additional melee attack against him. She decides to use the Energetic Strike form for this melee attack. Unfortunately, she misses her Energetic Strike.
-	All forms are supernatural abilities. Once a form has been used as an attack, it is expended, even if you miss the attack. There is no charge to hold and discharge later, like there is for touch attack spells. You cannot use a form in place of the attack required of you by another form (that is to say, you can never use two forms for the same attack) unless explicitly stated so in the form’s description.
+	A mystic manifests mystical energy into special magical attacks, called forms. A mystic automatically gains access to new forms as they gain class levels. A mystic need not prepare a form ahead of time: every form to which they have access (determined by their mystic level) is available for their use.
+	A mystic can use only a certain number of forms per day. A mystic can use a number of forms per day equal to their Wisdom bonus (if any) plus their mystic level.
+The save DC for a mystic’s forms (if applicable) is 10 + one-half their mystic level + their wisdom modifier.
+	Forms are attack actions, like a disarm or trip. This gives a mystic lots of options for conducting combat. For example, an 3rd level mystic takes the full attack action and uses their flurry of blows ability, granting them two attack actions (that must be unarmed melee attacks or with special mystic weapons, see flurry of blows). They decide to use the stunning fist form for their first attack, which requires an unarmed melee attack. They hit. Their foe fails the Fortitude saving throw for stunning fist, causing them to be stunned. Because they are now vulnerable, the mystic decides to attempt to trip them for the next attack action of their flurry of blows. They resolve the trip attempt and are again successful, causing the enemy to fall prone. Because they have the Improved Trip feat, they are immediately granted an additional melee attack action against them. They decide to use the springing strike form for this melee attack action. Unfortunately, they miss their springing strike.
+	All forms are supernatural abilities. Once a form has been used it is expended, even if the form fails (e.g. you miss the corresponding attack). There is no charge to hold and discharge later, like there is for touch attack spells. Since forms are distinct attack actions, you cannot combine them, unless that form grants you another attack action, which will be explicitly stated in a form’s description.
 	A full list of forms, their effects, and at what level a mystic gains access to them can be found below:
 
 -----
 Stunning Fist:
-	As an unarmed melee attack, a mystic can imbue her fist with mystical energy to stun her foe.
-Make an unarmed melee attack. This attack deals damage normally. A foe damaged by this attack must make a Fortitude saving throw or be stunned for 1 round (until just before your next turn). A stunned creature drops everything held, can’t act, loses any Dexterity bonus to AC, and takes a -2 penalty to AC. Constructs, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits cannot be stunned.
-A mystic gains access to this form at 1st level.
-
-Fearful Force:
-	As an unarmed melee attack, a mystic can surround herself in a frightening manifestation of her mystic power.
-	Make an unarmed melee attack. This attack deals damage normally. A foe damaged by this attack is shaken for 1d4 rounds. If you use this form against a foe already affected by your Fearful Force, that foe’s fear does not escalate. Instead, the durations of the two effects overlap. That foe’s fear can still be escalated by other fear effects such as the Cause Fear spell.
+	A mystic can imbue their fist with mystical energy to stun their foe.
+	Make an attack with your unarmed strike. This attack deals damage normally. A foe damaged by this attack must make a Fortitude saving throw or be stunned for 1 round (until just before your next turn). A stunned creature drops everything held, can’t act, loses any Dexterity bonus to AC, and takes a -2 penalty to AC. Constructs, oozes, elementals, plants, undead, incorporeal creatures, and creatures immune to critical hits cannot be stunned.
 	A mystic gains access to this form at 1st level.
 
 Springing Strike:
-	As a melee attack, a mystic can empower herself with mystic energy to rebound off her target.
-	Make a melee attack. This attack deals damage normally. If your attack succeeds, you may immediately move 10 ft. This movement does not provoke attacks of opportunity.
+	A mystic can empower themself with mystic energy to rebound off their target.
+	Make a melee attack with your unarmed strike or a special mystic weapon. This attack deals damage normally. If your attack succeeds, you may immediately move 10 ft. This movement does not provoke attacks of opportunity.
 	A mystic gains access to this form at 1st level.
 
-Energetic Attack:
-	As an attack, a mystic surrounds her weapon of choice in elemental energy, causing it to do additional damage.
-	Choose either fire, cold, acid, electricity, or sonic. Make an attack with either your unarmed strike or a special mystic weapon. If your attack succeeds, it deals 1d6 damage of the energy type selected, in addition to its normal damage.
+Grappling Clutch:
+	A mystic grabs hold of their foe, using their powers to strengthen their clutch.
+	Make an attack with your unarmed strike. This attack deals damage normally. If the attack succeeds, regardless of whether it deals damage, the mystic may attempt to start a grapple as a free action without provoking an attack of opportunity. No initial touch attack is required.
 	A mystic gains access to this form at 3rd level.
 
 Spirit Hand:
-	As an unarmed melee attack, a mystic decomposes her hand into mystical energy, striking through armor.
-	Make a melee touch attack. This attack deals damage as a normal unarmed strike.
-	A mystic gains access to this form at 3rd level.
-
-Grappling Clutch:
-	As an unarmed melee attack, a mystic grabs hold of her foe, using her powers to strengthen her clutch.
-	Make an unarmed melee attack. This attack deals damage normally. If the attack succeeds, regardless of whether it deals damage, the mystic may attempt to start a grapple as a free action without provoking an attack of opportunity. No initial touch attack is required.
+	A mystic decomposes their hand into mystical energy, striking through armor.
+	Make an unarmed melee attack. This attack deals damage as a normal unarmed strike.
 	A mystic gains access to this form at 3rd level.
 
 Arm Thrust:
-	As an unarmed attack, a mystic thrusts her arm forward, projecting a concussive blast of force.
+	A mystic thrusts their arm forward, projecting a concussive blast of force.
 	Make a ranged attack. This attack has a maximum range of 30 ft. For purposes of your attack roll, you may use your ranged attack bonus or your unarmed melee attack bonus, whichever is higher. You still take appropriate penalties for ranged attacks, such as trying to hit an enemy engaged in melee combat. This attack does not provoke attacks of opportunity. This attack deals damage as normal for your unarmed strike.
 	A mystic gains access to this form at 5th level.
 
-Crashing Kick:
-	As an unarmed attack, a mystic channels mystic power into a high jump, crashing down with a forceful kick.
-	Make an unarmed melee attack. If your attack succeeds, it deals its normal damage and an additional 2d6 damage. Also, the threat range of your unarmed strike for this attack is doubled. The increase in threat range does not stack with other effects that increase threat range; if there is such an effect already in place, then the critical multiplier of the attack doubles instead (so x2 improves to x3, etc.).
-If your Crashing Kick is unsuccessful, however, you take damage as though you had fallen 10 feet. You cannot “deliberately” jump to convert this damage to nonlethal damage, but you can still make a jump or tumble check to try to avoid it. If you take lethal damage as a result, you fall prone in your square. Falling prone in this way interrupts and ends your action (e.g. if you were performing a flurry of blows).
+Sliding Slam:
+	A mystic imparts an impetus to their opponent, sliding that enemy across the battlefield.
+	Make an unarmed melee attack. This attack deals damage normally. A foe damaged by this attack makes a Strength check opposed by your Strength or Wisdom check. If you win the opposed check, the opponent is slid along the ground 10 feet in any direction. (If the creature is flying or otherwise not on the ground, it moves parallel to the ground.) This movement does not provoke attacks of opportunity. You can’t slide the subject into a space that is occupied by an ally, an enemy, or a solid object. You cannot slide the subject up or down, but you can slide it over the edge of a cliff or other drop-off if you desire.
 	A mystic gains access to this form at 5th level.
 
 Crippling Strike:
-	As a melee attack, a mystic targets an opponent’s weak points with daggers of mystic energy.
-Make a melee attack with either your unarmed strike or a special mystic weapon. If your attack succeeds, instead of dealing its regular damage, your attack instead imposes a Dexterity penalty on your opponent equal to 1d4 plus one-half your Wisdom modifier (rounded down, maximum 1d4+5). This penalty cannot lower your opponent’s Dexterity below 1, nor can it stack with itself. This effect lasts for one minute per mystic level.
-A mystic gains access to this form at 5th level.
-
-Wounding Weapon:
-	As an attack, a mystic manifests a small cloud of sharp shards around her weapon, maiming her foe.
-	Make an attack with either your unarmed strike or a special mystic weapon. If your attack succeeds, it deals 1 Constitution damage from blood loss in addition to its normal damage. Creatures immune to critical hits are immune to this Constitution damage.
+	As a melee attack, a mystic targets an opponent’s musculature, weakening them.
+	Make a melee attack with either your unarmed strike or a special mystic weapon. If your attack succeeds, instead of dealing its regular damage, your attack instead imposes a Strength or Dexterity penalty (your choice) on your opponent equal to 1d4 plus one-half your Wisdom modifier (rounded down). This penalty cannot lower your opponent’s Strength or Dexterity below 1, nor can it stack with itself for the same score. This effect lasts for one minute per mystic level.
 	A mystic gains access to this form at 7th level.
 
 Hasty Fist:
-	As an unarmed melee attack, a mystic empowers herself with mystical alacrity, executing a quick jab in between attacks.
-	Make an unarmed melee attack. This attack deals damage normally. You may use other forms with this attack. You are granted an additional attack at your highest base attack bonus as part of this action. You cannot benefit from Hasty Fist more than once per round, and other effects of the same nature (such as those granted by the Haste spell or the Speed weapon property) do not stack.
-	A mystic gains access to this form at 7th level.
-
-Sliding Slap:
-	As an unarmed melee attack, a mystic imparts an impetus to her opponent, sliding them across the battlefield.
-	Make an unarmed melee attack. This attack deals damage normally. A foe damaged by this attack must succeed on a Fortitude saving throw or be slid along the ground 10 ft. in any direction. (If the creature is flying or otherwise not on the ground, it moves parallel to the ground.) This movement does not provoke attacks of opportunity. You can’t slide the subject into a space that is occupied by an ally, an enemy, or a solid object. You cannot slide the subject up or down, but you can slide it over the edge of a cliff or other drop-off if you desire.
+	A mystic empowers themself with mystical alacrity, executing a quick jab in between attacks.
+	Take another attack action. After this attack action, make an attack with your unarmed strike at the same base attack bonus. This attack deals damage normally. You cannot benefit from Hasty Fist more than once per round, and other effects of the same nature (such as those granted by the Haste spell or the Speed weapon property) do not stack.
 	A mystic gains access to this form at 7th level.
 -----
 
 AC Bonus (Ex):
-	When unarmored and unencumbered, the mystic adds her Wisdom bonus (if any) to her AC. In addition, a mystic gains a +1 bonus to AC at 5th level. This bonus increases by 1 for every five mystic levels thereafter (+2 at 10th, +3 at 15th, and +4 at 20th level).
-	These bonuses to AC apply even against touch attacks or when the mystic is flat-footed. She loses these bonuses when she is immobilized or helpless, when she wears any armor, when she carries a shield, or when she carries a medium or heavy load.
+	When unarmored and unencumbered, the mystic adds their Wisdom bonus (if any) to their AC. In addition, a mystic gains a +1 bonus to AC at 5th level. This bonus increases by 1 for every five mystic levels thereafter (+2 at 10th, +3 at 15th, and +4 at 20th level).
+	These bonuses to AC apply even against touch attacks or when the mystic is flat-footed. They lose these bonuses when they are immobilized or helpless, when they wear any armor, when they carry a shield, or when they carry a medium or heavy load.
 	This bonus does not stack with any similar AC bonus gained from levels in another class.
 
 Flurry of Blows (Ex):
-	When unarmored, a mystic may strike with a flurry of blows at the expense of accuracy. When doing so, she may make one extra attack in a round at her highest base attack bonus, but this attack takes a -2 penalty, as does each other attack made that round. The resulting modified base attack bonuses are tabulated in Table: The Mystic. This penalty applies for 1 round, so it also affects attacks of opportunity the mystic might make before her next action. When a mystic reaches 5th level, the penalty lessens to -1, and at 9th level it disappears. A mystic must use a full attack action to strike with a flurry of blows.
-	When using a flurry of blows, a mystic may attack only with unarmed strikes or with special mystic weapons (kama, nunchaku, quarterstaff, sai, shuriken, siangham, meteor hammer, dragon's beard, clubkins). She may attack with unarmed strikes and special mystic weapons interchangeably as desired. When using weapons as part of a flurry of blows, a mystic applies her Strength bonus to her damage rolls for all successful attacks, whether she wields a weapon in one or both hands. The mystic can’t use any weapon other than a special mystic weapon as part of her flurry of blows.
-	In the case of double weapons, each end counts as a separate weapon for the purpose of using the flurry of blows ability. Even though a double weapon requires two hands to use, a mystic may still intersperse unarmed strikes with double weapon strikes, assuming that she has enough attacks in her flurry of blows to do so.
-When a mystic reaches 11th level, her flurry of blows ability improves again. In addition to the standard single extra attack she gets from flurry of blows, she gets a second extra attack at her highest base attack bonus.
+	When unarmored, a mystic may strike with a flurry of blows at the expense of accuracy. When doing so, they may make one extra attack in a round at their highest base attack bonus, but this attack takes a -2 penalty, as does each other attack made that round. The resulting modified base attack bonuses are tabulated in Table: The Mystic. This penalty applies for 1 round, so it also affects attacks of opportunity the mystic might make before their next action. When a mystic reaches 5th level, the penalty lessens to -1, and at 9th level it disappears. A mystic must use a full attack action to strike with a flurry of blows.
+	When using a flurry of blows, a mystic may attack only with unarmed strikes or with special mystic weapons (kama, nunchaku, quarterstaff, sai, shuriken, siangham, meteor hammer, dragon's beard, clubkins). They may attack with unarmed strikes and special mystic weapons interchangeably as desired. When using weapons as part of a flurry of blows, a mystic applies their Strength bonus to their damage rolls for all successful attacks, whether they wield a weapon in one or both hands. The mystic can’t use any weapon other than a special mystic weapon as part of their flurry of blows.
+	In the case of double weapons, each end counts as a separate weapon for the purpose of using the flurry of blows ability. Even though a double weapon requires two hands to use, a mystic may still intersperse unarmed strikes with double weapon strikes, assuming that they have enough attacks in their flurry of blows to do so.
+When a mystic reaches 11th level, their flurry of blows ability improves again. In addition to the standard single extra attack they get from flurry of blows, they get a second extra attack at their highest base attack bonus.
 
 Unarmed Strike:
-	At 1st level, a mystic gains Improved Unarmed Strike as a bonus feat. A mystic’s attacks may be with either fist interchangeably or even from elbows, knees, and feet. This means that a mystic may even make unarmed strikes with her hands full. There is no such thing as an off-hand attack for a mystic striking unarmed. A mystic may thus apply her full Strength bonus on damage rolls for all her unarmed strikes.
-	Usually, a mystic’s unarmed strikes deal lethal damage, but she can choose to deal nonlethal damage instead with no penalty on her attack roll. She has the same choice to deal lethal or nonlethal damage while grappling.
+	At 1st level, a mystic gains Improved Unarmed Strike as a bonus feat. A mystic’s attacks may be with either of their fists interchangeably or even from elbows, knees, and feet. This means that a mystic may even make unarmed strikes with their hands full. There is no such thing as an off-hand attack for a mystic striking unarmed. A mystic may thus apply their full Strength bonus on damage rolls for all their unarmed strikes.
+	Usually, a mystic’s unarmed strikes deal lethal damage, but they can choose to deal nonlethal damage instead with no penalty on their attack roll. They have the same choice to deal lethal or nonlethal damage while grappling.
 	A mystic’s unarmed strike is treated both as a manufactured weapon and a natural weapon for the purpose of spells and effects that enhance or improve either manufactured weapons or natural weapons.
-	A mystic also deals more damage with her unarmed strikes than a normal person would, as shown on Table: The Mystic. The unarmed damage on Table: The Mystic is for Medium mystics. A Small mystic deals less damage than the amount given there with her unarmed attacks, while a large mystic deals more damage; see Table: Larger and Smaller Weapon Damage.
+	A mystic also deals more damage with their unarmed strikes than a normal person would, as shown on Table: The Mystic. The unarmed damage on Table: The Mystic is for Medium mystics. A Small mystic deals less damage than the amount given there with their unarmed attacks, while a large mystic deals more damage; see Table: Larger and Smaller Weapon Damage.
 
 Combat Expertise:
-	At 1st level, a mystic gains Combat Expertise as a bonus feat, even if she does not meet the prerequisites. Additionally, a mystic may use her Wisdom score in place of her Intelligence score to qualify for any feat that also has Combat Expertise as a prerequisite.
+	At 1st level, a mystic gains Combat Expertise as a bonus feat, even if they do not meet the prerequisites. Additionally, a mystic may use their Wisdom score in place of their Intelligence score to qualify for any feat that also has Combat Expertise as a prerequisite.
 
 Bonus Feat:
-	At 2nd level, a mystic may select either Improved Disarm or Improved Trip as a bonus feat, even if she does not qualify.
+	At 2nd level, a mystic may select either Improved Disarm or Improved Trip as a bonus feat, even if they do not qualify.
 
 Evasion (Ex):
-	At 2nd level or higher, if a mystic makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if a mystic is wearing light armor or no armor. A helpless mystic does not gain the benefit of evasion.
+	At 2nd level or higher, if a mystic makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, they instead take no damage. Evasion can be used only if a mystic is wearing light armor or no armor. A helpless mystic does not gain the benefit of evasion.
 
 Combat Reflexes:
-	At 2nd level a mystic gains Combat Reflexes as a bonus feat, even if she does not meet the prerequisites.
+	At 2nd level a mystic gains Combat Reflexes as a bonus feat, even if they do not meet the prerequisites.
 
 Mystical Insight (Su):
-	At 3rd level, a mystic’s attacks become guided by the mystic energy she wields. When attacking with an unarmed strike or a special mystic weapon, a mystic may use her Wisdom modifier instead of her Strength or Dexterity modifier on attack rolls. When tripping an opponent or being tripped by an opponent, a Mystic may use a Wisdom check in place of her Strength or Dexterity check.
+	At 3rd level, a mystic’s attacks become guided by the mystic energy they wield. When attacking with an unarmed strike or attacking with a special mystic weapon, a mystic may use their Wisdom modifier instead of their Strength or Dexterity modifier on attack rolls. When tripping an opponent or being tripped by an opponent, a Mystic may use a Wisdom check in place of their Strength or Dexterity check. Similarly, a mystic may use their Wisdom bonus in place of their Strength bonus on grapple checks.
 A mystic cannot benefit from this ability when wearing armor, wielding a shield, or carrying more than a light load.
 
 A Thousand Steps (Ex):
-	At 3rd level, when using the full attack action (including when using flurry of blows) a mystic may move up to her speed as part of her attack. This movement provokes attacks of opportunity as normal, except that, when a mystic attacks someone as part of her full attack action, even if the attack is unsuccessful, she does not provoke attacks of opportunity from that foe until she attacks another foe. In other words, a mystic’s movement as a part of using this ability does not trigger attacks of opportunity from the foe she most recently attacked while using this ability. A mystic may use any form of movement available to her, including movement that requires a skill check (such as jumping, swimming, or tumbling), though she cannot move through difficult terrain in this way.
-A mystic may intersperse this movement and her attacks freely, including attacking separate opponents. She may not, however, move more than five feet before her first attack or more than five feet after her last attack, and she may not move both before her first attack and after her last attack. A character cannot take a five-foot step the same turn she benefits from this ability.
+	At 3rd level, when using the full attack action (including when using flurry of blows) a mystic may move up to their speed as part of their attack. This movement provokes attacks of opportunity as normal, except that, when a mystic attacks someone as part of their full attack action, even if the attack is unsuccessful, they do not provoke attacks of opportunity from that foe until they attack another foe. In other words, a mystic’s movement as a part of using this ability does not trigger attacks of opportunity from the foe they most recently attacked while using this ability. A mystic may use any form of movement available to them, including movement that requires a skill check (such as jumping, swimming, or tumbling), though they cannot move through difficult terrain in this way.
+A mystic may intersperse this movement and their attacks freely, including attacking separate opponents. They may not, however, move more than five feet before their first attack or more than five feet after their last attack, and they may not move both before their first attack and after their last attack. A character cannot take a five-foot step the same turn they benefit from this ability.
 
 Mystic Strike (Su):
-	At 4th level, a mystic’s attacks become empowered with mystic energy. Her unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction. This ability improves with the character’s mystic level.
-	At 10th level, if a mystic is lawful, chaotic, good, or evil, then her unarmed attacks are treated as lawful, chaotic, good, or evil weapons for the purpose of dealing damage to creatures with damage reduction, respectively. A neutral mystic may choose either lawful, chaotic, good, or evil upon attaining 10th level. This decision is immutable. If a mystic’s alignment later changes, this ability updates to reflect her new alignment.
-	At 16th level, her unarmed attacks are treated as adamantine weapons for the purpose of dealing damage to creatures with damage reduction and bypassing hardness.
+	At 4th level, a mystic’s attacks become empowered with mystic energy. Their unarmed attacks are treated as magic weapons for the purpose of dealing damage to creatures with damage reduction. This ability improves with the character’s mystic level.
+	At 10th level, if a mystic is lawful, chaotic, good, or evil, then their unarmed attacks are treated as lawful, chaotic, good, or evil weapons for the purpose of dealing damage to creatures with damage reduction, respectively. A neutral mystic may choose either lawful, chaotic, good, or evil upon attaining 10th level. This decision is immutable. If a mystic’s alignment later changes, this ability updates to reflect their new alignment.
+	At 16th level, their unarmed attacks are treated as adamantine weapons for the purpose of dealing damage to creatures with damage reduction and bypassing hardness.
 
 Improved Evasion (Ex):
-	At 9th level, a mystic’s evasion ability improves. She still takes no damage on a successful Reflex saving throw against attacks, but henceforth she takes only half damage on a failed save. A helpless mystic does not gain the benefit of improved evasion.
+	At 9th level, a mystic’s evasion ability improves. They still take no damage on a successful Reflex saving throw against attacks, but henceforth they take only half damage on a failed save. A helpless mystic does not gain the benefit of improved evasion.
 
 Embodiments (Su):
-	At 9th level, a mystic gains the ability to embody her mystical energy to produce a number of magical effects. These effects, unlike forms, are not used as attacks and are used as described in their descriptions. A mystic automatically gains access to embodiments as her mystic level increases. A mystic can only use an embodiment she knows. A mystic begins at 9th level knowing one embodiment to which she has access. At 11th, 13th, and 15th level, a mystic gains one more embodiment, as shown in Table: Embodiments Known. These new embodiments can be any one to which a mystic has access.
+	At 9th level, a mystic gains the ability to embody their mystical energy to produce a number of magical effects. These effects, unlike forms, are not used as attacks and are used as described in their descriptions. A mystic automatically gains access to embodiments as their mystic level increases. A mystic can only use an embodiment they know. A mystic begins at 9th level knowing one embodiment to which theu have access. At 11th, 13th, and 15th level, a mystic gains one more embodiment, as shown in Table: Embodiments Known. These new embodiments can be any one to which a mystic has access (i.e. including a lower-level embodiment).
 
 Table: Embodiments Known
 :: Level	:: Embodiments Known 	::
@@ -163,57 +142,56 @@ Table: Embodiments Known
 :: 13th		:: 3			::
 :: 15th		:: 4			::
 
-	If an embodiment requires a saving throw, the DC for that saving throw is 10 + the mystic’s Wisdom modifier + one-half her mystic level (rounded down). A mystic need not prepare an embodiment ahead of time. Rules for their use are given in their descriptions, which are included below for reference. All embodiments are supernatural abilities.
+	If an embodiment requires a saving throw, the DC for that saving throw is 10 + the mystic’s Wisdom modifier + one-half their mystic level (rounded down). A mystic need not prepare an embodiment ahead of time. Rules for their use are given in their descriptions, which are included below for reference. All embodiments are supernatural abilities.
 
 -----
 Wholeness of Body:
-	A mystic can spend one minute in uninterrupted meditation to heal her own wounds. She can heal a number of hit points equal to twice her Wisdom modifier plus twice her mystic level each day, and she can spread this healing out among several uses.
-	Additionally, a mystic that knows this embodiment utilizes her mystic energy to protect herself at all times. She gains immunity to all diseases (except for supernatural or magical diseases) and immunity to poisons of all kinds.
+	A mystic can spend one minute in uninterrupted meditation to heal their own wounds. They can heal a number of hit points equal to twice their Wisdom modifier plus twice their mystic level each day, and they can spread this healing out among several uses.
+	Additionally, a mystic that knows this embodiment utilizes their mystic energy to protect themself at all times. They gain immunity to all diseases (except for supernatural or magical diseases) and immunity to poisons of all kinds.
 	A mystic gains access to this embodiment at 9th level.
 
 Abundant Step:
-	A mystic can slip magically between spaces, as if using the spell dimension door, once per day, plus once for every 2 mystic levels above 9th (max 4 times per day at 15th level). Her caster level for this effect is one-half her mystic level (rounded down). A mystic cannot take anyone with her when she uses this ability.
+	A mystic can slip magically between spaces, as if using the spell dimension door, once per day, plus once for every 2 mystic levels above 9th (max 4 times per day at 15th level). Their caster level for this effect is one-half their mystic level (rounded down). A mystic cannot take anyone with them when they use this ability.
 	A mystic gains access to this embodiment at 9th level.
 
 Breath of Life:
-	A mystic can imbue inanimate objects around her with a modicum of life force, as if using the spell animate objects, once per day, plus once for every 2 mystic levels above 11th (max 3 times per day at 15th level).  Her caster level for this effect is one-half her mystic level (rounded down).
+	A mystic can imbue inanimate objects around them with a modicum of life force, as if using the spell animate objects, once per day, plus once for every 2 mystic levels above 11th (max 3 times per day at 15th level).  Their caster level for this effect is one-half their mystic level (rounded down).
 	A mystic gains access to this embodiment at 11th level.
 
 Martial Anger:
-	A mystic can enrage and increase her combat effectiveness, as if using the spell transformation, once per day, plus once for every 2 mystic levels above 11th (max 3 times per day at 15th level).  Her caster level for this effect is one-half her mystic level (rounded down). A mystic loses any spellcasting ability for the duration of this effect (if she has any from another class). A mystic also loses the ability to use (other) embodiments and forms for the duration of the effect. Any (other) embodiments and forms currently in effect end immediately.
+	A mystic can enrage and increase their combat effectiveness, as if using the spell transformation, once per day, plus once for every 2 mystic levels above 11th (max 3 times per day at 15th level).  Their caster level for this effect is one-half their mystic level (rounded down). A mystic loses any spellcasting ability for the duration of this effect (if they have any from another class). A mystic also loses the ability to use (other) embodiments and forms for the duration of the effect. Any (other) embodiments and forms currently in effect end immediately.
 	A mystic gains access to this embodiment at 11th level.
 
 Empty Body:
-	A mystic can become ethereal, as if using the spell ethereal jaunt, once per day, plus once for every 2 mystic levels above 13th (max 2 times per day at 15th level).  Her caster level for this effect is one-half her mystic level (rounded down).
+	A mystic can become ethereal, as if using the spell ethereal jaunt, once per day, plus once for every 2 mystic levels above 13th (max 2 times per day at 15th level).  Their caster level for this effect is one-half their mystic level (rounded down).
 	A mystic gains access to this embodiment at 13th level.
 
 Absolution:
-	A mystic can overwhelm a foe’s spirit with mystical energy, annihilating them, as if using the spell destruction, once per day, plus once for every two mystic levels above 13th (max 2 times per day at 15th level).  Her caster level for this effect is one-half her mystic level (rounded down).
+	A mystic can overwhelm a foe’s spirit with mystical energy, annihilating them, as if using the spell destruction, once per day, plus once for every two mystic levels above 13th (max 2 times per day at 15th level).  Their caster level for this effect is one-half her mystic level (rounded down).
 	A mystic gains access to this embodiment at 13th level.
 
 Spirit Avatar:
-	Twice per day, as a standard action, a mystic can project her mystic energy outward to create a spirit avatar made of force that attacks her foes.
-	Select an unoccupied square within 100 ft. A spirit avatar resembling you, but distinguishable from you, appears in that square. Though it is the same size as you, it does not carry any equipment of yours or wield any of the weapons you do. The spirit avatar attacks foes as you direct it. The turn you first project the spirit avatar, it makes a single attack on your turn. In subsequent rounds, on your turn, the spirit avatar attacks as though it had taken the full attack action. The spirit avatar makes only unarmed melee attacks. These attacks deal force damage equivalent to your unarmed strike, threatening a critical on a natural 20 and having a critical multiplier of x2. The spirit avatar uses your base attack bonus plus your Wisdom modifier as its attack bonus. As a force effect, the spirit avatar can strike incorporeal creatures without the normal miss chance associated with incorporeality. The avatar does not get a flanking bonus or help a combatant get one. Your feats or combat actions do not affect the avatar. If ever you or the avatar are moved such that it is not within 100 ft. of you, the avatar disappears and reappears in an unoccupied square of your choice within 100 ft. of you and can only make a single attack on your subsequent turn. (And forfeits any remaining attacks on this turn.) A spirit avatar lasts a number of rounds equal to one-half your mystic level, rounded down.
-	A spirit avatar benefits from certain mystic abilities of yours. When making its full attack action, the spirit avatar may perform a Flurry of Blows, accepting the appropriate penalty to its attacks and receiving the appropriate number of additional attacks. Furthermore, as part of its full attack action, a spirit avatar can move in a manner consistent with your A Thousand Steps ability, using only your natural speeds as applicable (a spirit avatar cannot use forms of movement that require skill checks such as swimming or tumbling). Finally, at your discretion, your spirit avatar can use forms available to you as attacks. The saving throw for these forms is equivalent to the saving throw for your forms. A spirit avatar cannot use the Crashing Kick or Grappling Clutch forms in this manner, however. Forms used by the spirit avatar count against your daily allotment of forms. Additionally, though a spirit avatar can use your forms as attacks, it cannot make trip attempts, disarm attempts, or any other attack action other than your forms. A spirit avatar cannot take any full-round action other than the full attack action, even if that action involves an attack.
+	Twice per day, as a standard action, a mystic can project their mystic energy outward to create a spirit avatar made of force that attacks their foes.
+	Select an unoccupied square within 100 ft. A spirit avatar resembling you, but distinguishable from you, appears in that square. Though it is the same size as you, it does not carry any equipment of yours or wield any of the weapons you do. The spirit avatar attacks foes as you direct it. The turn you first project the spirit avatar, it makes a single attack. In subsequent rounds, on your turn, the spirit avatar attacks as though it had taken the full attack action. The spirit avatar makes only unarmed melee attacks. These attacks deal force damage equivalent to your unarmed strike, threatening a critical on a natural 20 and having a critical multiplier of x2. The spirit avatar uses your base attack bonus plus your Wisdom modifier as its attack bonus. As a force effect, the spirit avatar can strike incorporeal creatures without the normal miss chance associated with incorporeality. The avatar does not get a flanking bonus or help a combatant get one. Your feats or combat actions do not affect the avatar. If ever you or the avatar are moved such that it is not within 100 ft. of you, the avatar disappears and reappears in an unoccupied square of your choice within 100 ft. of you and can only make a single attack on your subsequent turn. (And forfeits any remaining attacks on this turn.) A spirit avatar lasts a number of rounds equal to one-half your mystic level, rounded down.
+	A spirit avatar benefits from certain mystic abilities of yours. When making its full attack action, the spirit avatar may perform a flurry of blows, accepting the appropriate penalty to its attacks and receiving the appropriate number of additional attacks. Furthermore, as part of its full attack action, a spirit avatar can move in a manner consistent with your a thousand steps ability, using only your natural speeds as applicable (a spirit avatar cannot use forms of movement that require skill checks such as swimming or tumbling). Finally, at your discretion, your spirit avatar can use forms available to you as attacks. The saving throw for these forms is equivalent to the saving throw for your forms. A spirit avatar cannot use the crashing kick or grappling clutch forms in this manner, however. Forms used by the spirit avatar count against your daily allotment of forms. Additionally, though a spirit avatar can use your forms as attacks, it cannot make trip attempts, disarm attempts, or any other attack action other than your forms. A spirit avatar cannot take any full-round action other than the full attack action, even if that action involves an attack.
 	Each round after the first, you can use a move action to relocate the spirit avatar to any unoccupied square within 100 ft. It still gains its full attacks for that round.
 	A spirit avatar cannot be attacked or harmed by physical attacks, but disintegrate, a sphere of annihilation, or a rod of cancellation affects it. A spirit avatar’s AC against touch attacks is 10 + your size bonus + the AC bonus granted you by your AC Bonus ability.
 	A mystic gains access to this embodiment at 15th level.
 
 Astral Projection:
-	A mystic can project her mystic essence through the Astral Plane and beyond, as the spell astral projection, except that the mystic cannot take anyone else with her. There is no limit to the number of times a mystic can use this ability per day. There is no material component for this ability. Her caster level for this effect is one-half her mystic level.
+	A mystic can project their mystic essence through the Astral Plane and beyond, as the spell astral projection, except that the mystic cannot take anyone else with them. There is no limit to the number of times a mystic can use this ability per day. There is no material component for this ability. Their caster level for this effect is one-half their mystic level.
 	A mystic gains access to this embodiment at 15th level.
 -----
 
 Form Mastery:
-	At 20th level, a mystic may select three forms to which she has access. Using these forms does not count against a mystic’s daily allotment of forms.
-
+	At 20th level, a mystic may select three forms to which they have access. Using these forms does not count against a mystic’s daily allotment of forms.
 
 Embodiment Mastery:
-At 20th level, a mystic may select 1 embodiment which she knows. She may use this form one additional time per day.
-Special:
-In the case of the Astral Projection embodiment, instead of gaining an extra use per day, she instead gains the ability to take an appropriate number of other creatures with her (based on her caster level for the effect) once per day. To use this special version of the ability she must expend, as part of activating the ability, material components consistent with the astral projection spell description.
-In the case of the Wholeness of Body embodiment, instead of gaining an extra use per day, the total number of hit points a mystic may heal each day is doubled.
+	At 20th level, a mystic may select 1 embodiment which they know. They may use this form one additional time per day.
+	Special:
+	In the case of the Astral Projection embodiment, instead of gaining an extra use per day, they instead gain the ability to take an appropriate number of other creatures with them (based on their caster level for the effect) once per day. To use this special version of the ability they must expend, as part of activating the ability, material components consistent with the astral projection spell description.
+	In the case of the Wholeness of Body embodiment, instead of gaining an extra use per day, the total number of hit points a mystic may heal each day is doubled.
 
 Ex-Mystics:
 A mystic who becomes nonneutral in alignment cannot gain new levels as a mystic but retains all mystic abilities.
-Like a member of any other class, a mystic may be a multiclass character, but multiclass mystics face a special restriction. A mystic who gains a new class or (if already multiclass) raises another class by a level may never again raise her mystic level. Additionally, for each level she gains this way, she loses mystic abilities as though she were a mystic of one level lower (though she does not lose feats, hit dice, saving throws, or ability score increases). Thus, a mystic 3 / barbarian 2 would have mystic abilities corresponding to a 1st-level mystic.
+Like a member of any other class, a mystic may be a multiclass character, but multiclass mystics face a special restriction. A mystic who gains a new class or (if already multiclass) raises another class by a level may never again raise their mystic level. Additionally, for each level they gain this way, they lose mystic abilities as though they were a mystic of one level lower (though they do not lose feats, hit dice, saving throws, or ability score increases). Thus, a mystic 3 / barbarian 2 would have mystic abilities corresponding to a 1st-level mystic.

@@ -8,5 +8,5 @@ Duration: 1 min. per level (D)
 Saving Throw: Reflex negates
 Spell Resistance: Yes
 
-As you clap your hands togehter, they crackle with sound of lightning. A glowing ball of lightning appears above your head. At the beginning of each of your turns, smaller bolts of lightning separate from the ball and surge toward each other creature (to which you have line of effect) within the area. Each of those creatures takes 1 damage from the bolt, but a Reflex save negates this damage.
+As you clap your hands togehter, they crackle with the sound of lightning. A glowing ball of lightning appears above your head. At the beginning of each of your turns, smaller bolts of lightning separate from the ball and surge toward each other creature (to which you have line of effect) within the area. Each of those creatures takes 1 damage from the bolt, but a Reflex save negates this damage.
 Before the lightning bolts are launched on your turn, you may use a swift action to choose any number of creatures within range instead. Bolts are only launched at these creatures.

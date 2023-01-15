@@ -7,19 +7,19 @@ Level	:: BAB		:: Saves		:: Special						:: Spells per Day							::
 			:: Fort :: Ref  :: Will ::							:: 0th :: 1st :: 2nd :: 3rd :: 4th :: 5th :: 6th :: 7th :: 8th :: 9th 	::
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  1st	:: +0		:: +0   :: +0   :: +2   :: Elemental Discipline					:: 4   :: 3   :: --  :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
- 2nd	:: +1		:: +0   :: +0   :: +3   :: Elemental Ally (2/day)				:: 5   :: 4   :: --  :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
+ 2nd	:: +1		:: +0   :: +0   :: +3   :: Elemental Ally (1/day)				:: 5   :: 4   :: --  :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
  3rd	:: +1		:: +1   :: +1   :: +3   :: Elemental Power, Primal Potency +1			:: 5   :: 4   :: --  :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
  4th	:: +2		:: +1   :: +1   :: +4   :: Medium Ally						:: 5   :: 5   :: 3   :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
  5th	:: +2		:: +1   :: +1   :: +4   :: Paraelemental Discipline				:: 6   :: 5   :: 4   :: --  :: --  :: --  :: --  :: --  :: --  :: --	::
- 6th	:: +3		:: +2   :: +2   :: +5   :: Paraelemental Ally, Elemental Ally (3/day)		:: 6   :: 6   :: 4   :: 3   :: --  :: --  :: --  :: --  :: --  :: --	::
+ 6th	:: +3		:: +2   :: +2   :: +5   :: Paraelemental Ally, Elemental Ally (2/day)		:: 6   :: 6   :: 4   :: 3   :: --  :: --  :: --  :: --  :: --  :: --	::
  7th	:: +3		:: +2   :: +2   :: +5   :: Discipline Mastery +1				:: 6   :: 6   :: 5   :: 4   :: --  :: --  :: --  :: --  :: --  :: --	::
  8th	:: +4		:: +2   :: +2   :: +6   :: Large Ally						:: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --  :: --  :: --  :: --	::
  9th	:: +4		:: +3   :: +3   :: +6   :: Primal Potency +2					:: 6   :: 6   :: 6   :: 5   :: 4   :: --  :: --  :: --  :: --  :: --	::
- 10th	:: +5		:: +3   :: +3   :: +7   :: Elemental Ally (4/day)				:: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --  :: --  :: --	::
+ 10th	:: +5		:: +3   :: +3   :: +7   :: Elemental Ally (3/day)				:: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --  :: --  :: --	::
  11th	:: +5		:: +3   :: +3   :: +7   :: Elemental Shape (1/day)				:: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: --  :: --  :: --  :: --	::
  12th	:: +6/+1	:: +4   :: +4   :: +8   :: 							:: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --  :: --	::
  13th	:: +6/+1	:: +4   :: +4   :: +8   :: Discipline Mastery +2				:: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: --  :: --  :: --	::
- 14th	:: +7/+2	:: +4   :: +4   :: +9   :: Elemental Shape (2/day), Elemental Ally (5/day)	:: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --	::
+ 14th	:: +7/+2	:: +4   :: +4   :: +9   :: Elemental Shape (2/day), Elemental Ally (4/day)	:: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --  :: --	::
  15th	:: +7/+2	:: +5   :: +5   :: +9   :: Primal Potency +3					:: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: --  :: --	::
  16th	:: +8/+3	:: +5   :: +5   :: +10  :: Huge Ally						:: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: 3   :: --	::
  17th	:: +8/+3	:: +5   :: +5   :: +10  :: Elemental Shape (3/day, Huge)			:: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 6   :: 5   :: 4   :: --	::
@@ -34,13 +34,13 @@ Weapon and Armor Proficiency:
 	Elementalists are proficient with all simple weapons and with light armor, but not with any type of shield.
 
 Elemental Discipline:
-	Elemental magic is divided into six major disciplines, each corresponding to one of the six elements: Geomancy (Earth), Aeromancy (Air), Pyromancy (Fire), Hydromancy (Water), Photomancy (Light), and Skotomancy (Dark). An elementalist begins play (i.e. at 1st level) by selecting one of these to be her Elemental Discipline. This choice is irrevocable and determines which abilities she attains as she gains new elementalist levels. An elementalist’s elemental discipline represents dedicated learning focused on the nature and magic of that element. Since this focus is fundamental to an elementalist, most often they are described as such (e.g. Geomancer, Pyromancer, etc.), including in the ability descriptions that follow.
+	Elemental magic is divided into six major disciplines, each corresponding to one of the six elements: Geomancy (Earth), Aeromancy (Air), Pyromancy (Fire), Hydromancy (Water), Photomancy (Light), and Skotomancy (Dark). An elementalist begins play (i.e. at 1st level) by selecting one of these to be their Elemental Discipline. This choice is irrevocable and determines which abilities they attains as they gain new elementalist levels. An elementalist’s elemental discipline represents dedicated learning focused on the nature and magic of that element. Since this focus is fundamental to an elementalist, most often they are described as such (e.g. Geomancer, Pyromancer, etc.), including in the ability descriptions that follow.
 
 Spells:
-	An elementalist casts divine spells, which are drawn from the elementalist spell list. She can cast any spell she knows without preparing it ahead of time, the way a wizard or cleric must. When casting spells, an elementalist ignores all verbal and uncostly material components unless specifically noted for that spell (in the elementalist spell list); an elementalist casts spells by guiding and forming the primal powers of the world with coordinated movements.
+	An elementalist casts divine spells, which are drawn from the elementalist spell list. They can cast any spell they knows without preparing it ahead of time, the way a wizard or cleric must. When casting spells, an elementalist ignores all verbal and uncostly material components unless specifically noted for that spell (in the elementalist spell list); an elementalist casts spells by guiding and forming the primal powers of the world with coordinated movements.
 	To learn or cast a spell, an elementalist must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an elementalist’s spell is 10 + the spell level + the elementalist’s Wisdom modifier.
-	Like other spellcasters, an elementalist can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table: The Elementalist. In addition, she receives bonus spells per day if she has a high Wisdom score.
-	An elementalist’s selection of spells is extremely limited. She may only learn spells from her chosen discipline, as indicated in the elementalist spell list. Spells indicated as Aether may be cast by any elementalist, but only as a spell type consistent with their discipline (so a skotomancer could only cast summon nature’s ally I as a [Dark] spell, i.e. to summon a dark elemental, etc.). This restriction does not apply to 0th level spells, which are so basic any elementalist can learn them. An elementalist begins play knowing four 0th-level spells and two 1st-level spells of her choice. At each new elementalist level, she gains one or more new spells, as indicated on Table: Elementalist Spells Known. (Unlike spells per day, the number of spells an elementalist knows is not affected by her Wisdom score.)
+	Like other spellcasters, an elementalist can cast only a certain number of spells of each spell level per day. Their base daily spell allotment is given on Table: The Elementalist. In addition, they receive bonus spells per day if they have a high Wisdom score.
+	An elementalist’s selection of spells is extremely limited. They may only learn spells from their chosen discipline, as indicated in the elementalist spell list. Spells indicated as Aether may be cast by any elementalist, but only as a spell type consistent with their discipline (so a skotomancer could only cast summon nature’s ally I as a [Dark] spell, i.e. to summon a dark elemental, etc.). This restriction does not apply to 0th level spells, which are so basic any elementalist can learn them. An elementalist begins play knowing four 0th-level spells and two 1st-level spells of their choice. At each new elementalist level, they gain one or more new spells, as indicated on Table: Elementalist Spells Known. (Unlike spells per day, the number of spells an elementalist knows is not affected by their Wisdom score.)
 
 Table: Elementalist Spells Known
 :: Level :: 0th :: 1st :: 2nd :: 3rd :: 4th :: 5th :: 6th :: 7th :: 8th :: 9th ::
@@ -65,26 +65,26 @@ Table: Elementalist Spells Known
 :: 19th  :: 9   :: 5   :: 5   :: 4   :: 4   :: 4   :: 3   :: 3   :: 3   :: 2   ::
 :: 20th  :: 9   :: 5   :: 5   :: 4   :: 4   :: 4   :: 3   :: 3   :: 3   :: 2   ::
 
-	Upon reaching 2nd level, and at every even-numbered elementalist level after that (4th, 6th, and so on), an elementalist can choose to learn a new spell in place of one she already knows. In effect, the elementalist “loses” the old spell in exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged. An elementalist may swap only a single spell at any given level and must choose whether to swap the spell at the same time that she gains new spells known for the level.
-	Unlike a wizard or cleric, an elementalist need not prepare her spells in advance. She can cast any spell she knows at any time, assuming she has not yet used up her spells per day for that spell level. She does not have to decide ahead of time which spells she’ll cast.
+	Upon reaching 2nd level, and at every even-numbered elementalist level after that (4th, 6th, and so on), an elementalist can choose to learn a new spell in place of one they already know. In effect, the elementalist “loses” the old spell in exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged. An elementalist may swap only a single spell at any given level and must choose whether to swap the spell at the same time that they gain new spells known for the level.
+	Unlike a wizard or cleric, an elementalist need not prepare their spells in advance. They can cast any spell they know at any time, assuming they have not yet used up their spells per day for that spell level. They do not have to decide ahead of time which spells they’ll cast.
 
 Bonus Languages:
 	An elementalist learns the dialect of Primordial corresponding to her Elemental Discipline (Terran for Geomancy, Auran for Aeromancy, Ignan for Pyromancy, Aquan for Hydromancy, Luman for Photomancy, and Noctan for Skotomancy).
 
 Elemental Ally (Su):
-	At 2nd level, an elementalist gains the companionship of a small elemental corresponding to her elemental discipline (an earth elemental for a geomancer, a fire elemental for a pyromancer, and so on). This elemental resides primarily in its corresponding elemental plane, but lacks concrete form until summoned by the elementalist. An elementalist can summon her elemental ally to her side as a standard action. Her ally may take only a standard action in the turn it is summoned. This summoning lasts for 1 minute per elementalist level, or until dismissed (a free action) at which point the elemental returns to its home plane. This is a supernatural ability, and follows the normal rules for magical summon effects.
-	When she gains this feature at 2nd level, an elemental ally may summon her elemental twice per day, but she may do so additional times per day as indicated in Table: The Elementalist.
-	An elementalist’s elemental ally is completely typical for its kind except as noted below. It is intelligent enough to follow her spoken commands (elementals always speak the corresponding elemental language).
+	At 2nd level, an elementalist gains the companionship of a small elemental corresponding to their elemental discipline (an earth elemental for a geomancer, a fire elemental for a pyromancer, and so on). The essence of this elemental resides primarily in its corresponding elemental plane, but lacks concrete form until summoned by the elementalist. An elementalist can summon their elemental ally to their side as a standard action. Their ally may take only a standard action in the turn it is summoned. This summoning lasts for 1 minute per elementalist level, or until dismissed (a free action) at which point the elemental returns to its home plane. This is a supernatural ability, and follows the normal rules for magical summon effects.
+	When they gain this feature at 2nd level, an elementalist may summon their elemental ally once per day, but they may do so additional times per day as indicated in Table: The Elementalist.
+	An elementalist’s elemental ally is completely typical for its kind except as noted below. It is intelligent enough to follow their spoken commands (elementals always speak the corresponding elemental language).
 -----
 Alignment:
 	An elemental ally’s alignment always matches that of its master.
 
 Hit Dice:
-	An elementalist’s elemental ally has a number of Hit Dice equal to her elementalist level. Whenever the elementalist gains a level, her servant gains a Hit Die. Its statistics improve as normal for an elemental, and since elementals are intelligent, they receive additional skill points and feats as they advance. However, when her ally acquires enough hit dice (as dictated by its creature entry), its size grows and it gains the abilities of its larger form (though its feats and skill points may be distributed differently than indicated in its entry, depending on the choices made by the elementalist).
+	An elementalist’s elemental ally has a number of Hit Dice equal to their elementalist level. Whenever the elementalist gains a level, their ally gains a Hit Die. Its statistics improve as normal for an elemental, and since elementals are intelligent, they receive additional skill points and feats as they advance. However, when their ally acquires enough hit dice (as dictated by its creature entry), its size grows and it gains the abilities of its larger form (though its feats and skill points may be distributed differently than indicated in its entry, depending on the choices made by the elementalist).
 
 Share Spells (Ex):
-	At her option, an elementalist may have any spell (but not any spell-like ability) she casts upon herself also affect her elemental ally. The ally must be within 5 feet of her at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the ally if it ends its turn more than 5 feet away from her and will not affect it again, even if it returns before the duration expires.
-	Additionally, the elementalist may cast a spell with a target of “You” on her elemental ally (as a touch range spell) instead of herself. An elementalist and her elemental ally can share spells even if the spells normally do not affect creatures of the ally’s type (elemental).
+	At their option, an elementalist may have any spell (but not any spell-like ability) they cast upon themself also affect their elemental ally. The ally must be within 5 feet of them at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the ally if it ends its turn more than 5 feet away from them and will not affect it again, even if it returns before the duration expires.
+	Additionally, the elementalist may cast a spell with a target of “You” on their elemental ally (as a touch range spell) instead of themself. An elementalist and their elemental ally can share spells even if the spells normally do not affect creatures of the ally’s type (elemental).
 
 Evasion (Ex):
 	Beginning at 3rd level, if an elemental ally is subjected to an attack that normally allows a Reflex saving throw for half damage, it instead takes no damage if it makes a successful saving throw.
@@ -94,22 +94,22 @@ Improved Evasion (Ex):
 -----
 
 Primal Potency (Ex):
-	Beginning at 3rd level, an elementalist begins incorporating primal essence from the elemental planes to the spells she casts from her chosen discipline. Add +1 to the Difficulty Class for all saving throws against these spells. This adjustment stacks with those from similar effects, such as the Spell Focus feat. At 9th level this bonus increases to +2, and at 15th level it increases to +3.
+	Beginning at 3rd level, an elementalist begins incorporating primal essence from the elemental planes to the spells they cast from their chosen discipline. Add +1 to the Difficulty Class for all saving throws against these spells. This adjustment stacks with those from similar effects, such as the Spell Focus feat. At 9th level this bonus increases to +2, and at 15th level it increases to +3.
 
 Elemental Power (Su):
-	At 3rd level, an elementalist learns to utilize elemental power to produce a persistent benefit, depending on her chosen discipline.
+	At 3rd level, an elementalist learns to utilize elemental power to produce a persistent benefit, depending on their chosen discipline.
 -----
 Earthskin [Earth]:
-	A geomancer receives a +1 enhancement bonus to her natural armor bonus. A creature without natural armor has an effective natural armor bonus of +0.
+	A geomancer receives a +1 enhancement bonus to their natural armor bonus. A creature without natural armor has an effective natural armor bonus of +0.
 
 Windstep [Air]:
-	An aeromancer gains an enhancement bonus of 10 feet to her base land speed. This benefit applies only when she is wearing no armor or light armor and not carrying a medium or heavy load.
+	An aeromancer gains an enhancement bonus of 10 feet to their base land speed. This benefit applies only when they are wearing no armor or light armor and not carrying a medium or heavy load.
 
 Controlled Burn [Fire]:
 	When casting a fire spell or a spell from one of fire's related paraelemental disciplines (as determined from the elementalist spell list), you may designate one creature (potentially yourself) within its area. This creature is unaffected by the spell. All other creatures are affected normally.
 
 Waterwhirl [Water]:
-	An aquamancer gains a swim speed of 30 feet if she doesn’t already have one (refer to the Swim skill description for additional information about having a swim speed). If she already has a swim speed, she receives an enhancement bonus of 10 feet to her swim speed.
+	An aquamancer gains a swim speed of 30 feet if they don’t already have one (refer to the Swim skill description for additional information about having a swim speed). If they already have a swim speed, they receive an enhancement bonus of 10 feet to their swim speed.
 
 Grace of Light [Light]:
 	A photomancer’s spells and abilities that restore hit points or provide temporary hit points restore or provide 2 more of those points. Each spell or ability can only benefit from this ability once; the bonus applies only to the first instance of healing of the spell. Additionally, this ability provides no benefit to abilities which function continuously.
@@ -119,7 +119,7 @@ Eyes of Darkness [Dark]:
 -----
 
 Paraelemental Discipline:
-	At 5th level, an elementalist chooses a refinement for her elemental discipline, her paraelemental discipline. This choice is irrevocable. This discipline of paraelemental magic must be one associated with her elemental discipline, as shown below.
+	At 5th level, an elementalist chooses a refinement for their elemental discipline, their paraelemental discipline. This choice is irrevocable. This discipline of paraelemental magic must be one associated with their elemental discipline, as shown below.
 
 Table: Paradisciplines
 :: Discipline 		:: Paradisciplines 		::
@@ -160,18 +160,18 @@ Table: Paradisciplines
 ::			:: Hemomancy [Blood]		::
 ::			:: Pagomancy [Icy]		::
 
-	Henceforth and forevermore, an elementalist may learn spells from her paraelemental discipline in addition to her elemental discipline, as indicated in the elementalist spell list. Once and only once upon choosing a paraelemental discipline, an elementalist may learn a spell from her paraelemental spell list in place of one she knows for each spell level she can cast (including 0th level). Furthermore, an elementalist’s primal potency and discipline mastery bonuses apply to spells she casts from her paraelemental discipline, but as she were an elementalist 4 levels lower than she is (so a 7th level Hydromancer-Pagomancer would receive a +1 bonus to the save DC for ice spells she casts from her primal potency ability, but a 6th level Hydromancer-Pagomancer would not). Lastly, an elementalist receives additional options for her other abilities that correspond to her paraelemental discipline.
-	Alternatively, an elementalist may forgo choosing a paraelemental discipline in favor of achieving greater mastery in her primary element. In this case, forevermore she receives one bonus spell per day beyond that indicated in Table: The Elementalist for each spell level she can cast above 0th (so a 5th-level  pyromancer could cast 6 1st-level spells per day, before considering bonus spells for having a high ability score). She similarly increases the number of spells she may know beyond that indicated in Table: Elementalist spells Known by one for each spell level she can cast above 0th. When she gains this feature, she may learn additional spells as now permitted.
+	Henceforth and forevermore, an elementalist may learn spells from their paraelemental discipline in addition to their elemental discipline, as indicated in the elementalist spell list. Once and only once upon choosing a paraelemental discipline, an elementalist may learn a spell from their paraelemental spell list in place of one they know for each spell level they can cast (including 0th level). Furthermore, an elementalist’s primal potency and discipline mastery bonuses apply to spells they cast from their paraelemental discipline, but as though they were an elementalist 4 levels lower than they are (so a 7th level Hydromancer-Pagomancer would receive a +1 bonus to the save DC for ice spells they cast from their primal potency ability, but a 6th level Hydromancer-Pagomancer would not). Lastly, an elementalist receives additional options for their other abilities that correspond to their paraelemental discipline.
+	Alternatively, an elementalist may forgo choosing a paraelemental discipline in favor of achieving greater mastery in their primary element. In this case, forevermore theu receive one bonus spell per day beyond that indicated in Table: The Elementalist for each spell level they can cast above 0th (so a 5th-level  pyromancer could cast 6 1st-level spells per day, before considering bonus spells for having a high ability score). They similarly increase the number of spells they may know beyond that indicated in Table: Elementalist Spells Known by one for each spell level they can cast above 0th. When they gain this feature, they may learn additional spells as now permitted.
 
 Paraelemental Ally:
-	Starting at 6th level, an elementalist may have her elemental ally transform into the corresponding paraelemental (so starting at 6th level a pagomancer could have an ice paraelemental as her elemental ally). Doing so takes a ritual lasting 24 hours and that lasts indefinitely. She may similarly transform it back into an elemental by performing a reverse ritual. In this new form, her ally maintains its previous progression (such as chosen feats or skill point investments), but its ability scores change and it gains or loses special abilities as consistent with its new kind (which may include the loss of bonus feats).
+	Starting at 6th level, an elementalist may have their elemental ally transform into the corresponding paraelemental (so starting at 6th level a pagomancer could have an ice paraelemental as their elemental ally). Doing so takes a ritual lasting 24 hours, and the transformation lasts indefinitely. They may similarly transform it back into an elemental by performing a reverse ritual. In this new form, their ally maintains its previous progression (such as chosen feats or skill point investments), but its ability scores change and it gains or loses special abilities as consistent with its new kind (which may include the loss of bonus feats).
 
 Discipline Mastery (Ex):
-	At 7th level, an elementalist becomes a master of her elemental discipline. She casts spells of her discipline at +1 caster level. This does not grant her access to spells beyond that indicated in Table: The Elementalist. At 13th level and 19th level, this bonus increases to +2 and +3, respectively.
+	At 7th level, an elementalist becomes a master of their elemental discipline. They cast spells of their discipline at +1 caster level. This does not grant them access to spells beyond that indicated in Table: The Elementalist. At 13th level and 19th level, this bonus increases to +2 and +3, respectively.
 
 Elemental Shape (Su):
-	Starting at 11th level, an elementalist can transform herself into a small, medium, or large elemental or paraelemental corresponding to her elemental or paraelemental disciplines once per day, as a druid’s wild shape ability.
-	An elementalist can use this ability more times per day at 14th, 17th, and 20th level, as noted on Table: The Elementalist. In addition, she gains the ability to take the shape of a huge elemental at 17th level.
+	Starting at 11th level, an elementalist can transform themself into a small, medium, or large elemental or paraelemental corresponding to their elemental or paraelemental disciplines once per day, as a druid’s wild shape ability.
+	An elementalist can use this ability more times per day at 14th, 17th, and 20th level, as noted on Table: The Elementalist. In addition, they gain the ability to take the shape of a huge elemental at 17th level.
 
 Primordial Form:
-	At 20th level, an elementalist becomes a magical creature. She is forevermore treated as an elemental rather than her normal creature type for the purpose of spells and magical effects. She gains creature subtypes corresponding to her elemental and paraelemental discipline, and she gains damage reduction 5/–.
+	At 20th level, an elementalist becomes a magical creature. They are forevermore treated as an elemental rather than their normal creature type for the purpose of spells and magical effects. They gain creature subtypes corresponding to their elemental and paraelemental disciplines, and they gain damage reduction 5/–.
