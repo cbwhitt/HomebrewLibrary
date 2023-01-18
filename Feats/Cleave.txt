@@ -11,4 +11,4 @@ Normal:
 	If you make a cleaving attack (with a one-handed weapon), you gain an extra attack with that weapon if that attack succeeds. When doing so, you suffer a -6 penalty on your primary attacks and a -12 penalty to the extra attack. If your weapon is light, these penalties increase by 2 each. If your weapon is two-handed, these penalties are reduced by 2 each. (An unarmed strike is always considered light.)
 
 Special:
-	A fighter may select Cleave as one of her fighter bonus feats.
+	A fighter may select Cleave as one of their fighter bonus feats.

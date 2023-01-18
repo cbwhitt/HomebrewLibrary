@@ -4,4 +4,5 @@
 Prequisites:
 	None
 Benefit:
-	All fixed, Hit Die-based limits of an elevated spell are increased by one-half. For example, an 'elevated daze' can affect a creature of up to 6 HD, instead of 4, but an 'elevated hypnotism' spell still only affects 2d4 HD of creatures, as this is variable. An 'elevated animate dead' raises the cap on the total HD of the creatures you animate (but not control) to 3 times your caster level (incstead of 2). An 'elevated deep slumber' causes 15 HD of creatures to fall asleep, etc.
+	All fixed, Hit Die-based limits of an elevated spell are increased by one-half. For example, an 'elevated daze' can affect a creature of up to 6 HD, instead of 4, but an 'elevated hypnotism' spell still only affects 2d4 HD of creatures, as this is variable. An 'elevated animate dead' raises the cap on the total HD of the creatures you animate (but not control) to 3 times your caster level (instead of 2). An 'elevated deep slumber' causes 15 HD of creatures to fall asleep, etc.
+	An elevated spell has a +1 spell level modifier.

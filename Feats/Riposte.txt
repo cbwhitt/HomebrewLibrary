@@ -11,4 +11,4 @@ Normal:
 	Opponents do not provoke attacks of opportunity when they miss attacks.
 
 Special:
-	A fighter may select riposte as one of his fighter bonus feats.
+	A fighter may select riposte as one of their fighter bonus feats.

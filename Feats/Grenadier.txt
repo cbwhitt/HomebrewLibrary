@@ -7,4 +7,4 @@ Benefit:
 	You gain a +1 bonus on attack and damage rolls with splash and grenade-like weapons (including splash damage).
 
 Special:
-	A fighter may select grenadier as one of her fighter bonus feats.
+	A fighter may select grenadier as one of their fighter bonus feats.

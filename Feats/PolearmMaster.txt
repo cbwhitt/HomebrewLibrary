@@ -10,4 +10,4 @@ Normal:
 	A medium creature can only use a reach weapon to attack enemies 10 ft. away and not adjacent enemies.
 
 Special:
-	A fighter may select polearm master as one of her fighter bonus feats.
+	A fighter may select polearm master as one of their fighter bonus feats.

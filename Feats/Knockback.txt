@@ -11,4 +11,4 @@ Normal:
 	Bull rush attempts are made as standard actions, and you must move with your opponent.
 
 Special:
-	A fighter may select knockback as one of his fighter bonus feats.
+	A fighter may select knockback as one of their fighter bonus feats.

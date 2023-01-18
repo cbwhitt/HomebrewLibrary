@@ -11,4 +11,4 @@ Normal:
 	A character fighting with two shields using dual shield defense receives only one-half of its shield bonus to their AC.
 
 Special:
-	A fighter may select improved dual shield defense as one of his fighter bonus feats.
+	A fighter may select improved dual shield defense as one of their fighter bonus feats.

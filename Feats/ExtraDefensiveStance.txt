@@ -8,4 +8,4 @@ Benefit:
 	You may adopt a defensive stance two more times per day than you otherwise could.
 
 Special:
-	You can take this feat multiple times. Its effects stack. A fighter may select extra defensive stance as one of his fighter bonus feats.
+	You can take this feat multiple times. Its effects stack. A fighter may select extra defensive stance as one of their fighter bonus feats.

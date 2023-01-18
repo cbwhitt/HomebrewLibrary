@@ -11,4 +11,4 @@ Normal:
 	You can make only a single cleaving attack as part of a full attack action.
 
 Special:
-	A fighter may select Great Cleave as one of his fighter bonus feats.
+	A fighter may select Great Cleave as one of their fighter bonus feats.
