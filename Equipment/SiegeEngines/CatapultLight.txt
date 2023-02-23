@@ -1,0 +1,21 @@
+:: Catapult, Light ::
+Indirect ranged siege weapon
+
+Cost: 550 gp
+Ammunition Cost: 1 gp
+Damage: 4d6 bludgeoning
+Critical: --
+Base Accuracy: -6
+Range Increment: 150 ft. (100 ft. minimum)
+Maximum Crew: 2
+Mount: Heavy
+Aim Actions: 2
+Reload Actions: 3
+
+A light catapult or magonel uses a tensioning device to thorw a heavy stone hundreds of feet. It takes up a space 10 feet across and weighs 2000 pounds.
+
+It requires two full-round actions and a DC 10 Strength check for each to wind the catapult to full cock.
+It requires a full-round action and a DC 15 Profession (siege engineer) check to load the ammunition.
+It requires two full-round actions to aim the catapult.
+
+A catapult's base accuracy increases by +2 for each time it has missed its target, provided it is aimed again between shots, up to a maximum of +6. This bonus automatically becomes +6 when a catapult hits its target, but resets if the target moves relative to the catapult or if the commander of the catapult changes.

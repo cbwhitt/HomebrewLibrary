@@ -1,0 +1,31 @@
+:: Zavodnoy Cannon, Heavy ::
+Direct ranged siege weapon
+
+Cost: 16,000 gp
+Ammunition Cost: 10 gp
+Damage: 6d10 bludgeoning
+Critical: x3
+Base Accuracy: -2
+Range Increment: 250 ft.
+Maximum Crew: 4
+Mount: Heavy
+Aim Actions: 0
+Reload Actions: 1 shot (or 4 magazine see text)
+
+A heavy Zavodnoy cannon is a steam-powered cannon otherwise similar to a bombard, taking up a space 10 feet across and weighing 3000 pounds.
+It is mounted within a mechanical turret that provides up to 360 degrees of full rotation.
+Practically, this is often mechanically limited to prevent a cannon from turning back to fire upon its own vehicle.
+The cannon has a single control station from which most of its functions are commanded.
+To operate, a heavy Zavodnoy cannon requires some sort of steam power source, such as a boiler; if this power source is disabled, the cannon ceases to function.
+
+A heavy Zavodnoy cannon has three different magazines: a primary magazine that can hold up to 6 rounds, and two accessory magazines that can hold up to 2 rounds apiece.
+Loading a round into the cannon from one of the magazines is a free action and requires a successful DC 15 Profession (siege engineer) check.
+If one fails this check, the loading mechanism becomes jammed, requiring one full-round action and a successful DC 15 Profession (siege engineer) check to clear before proceeding.
+Once a round is loaded, it takes a free action to initiate a steam charge to build up, but this charge takes one round to collect, meaning the cannon can only fire every other round.
+Aiming the cannon is a free action.
+
+Once a magazine is empty, it must be reloaded before it can be used again.
+Reloading any one of the magazines requires four full-round actions:
+One action to open the magazine, requiring a DC 10 Profession (siege engineer) check;
+and three actions to load in the rounds (provided they are on hand), each action requiring a successful DC 10 Strength check.
+While any one of the magazines is open, the cannon cannot load a new round, though it can still build up a steam charge for its next shot and fire an already loaded round.

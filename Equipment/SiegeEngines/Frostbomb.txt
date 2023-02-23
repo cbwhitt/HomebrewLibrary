@@ -1,0 +1,6 @@
+:: Frostbomb ::
+Cost: 50 gp
+
+A frostbomb is like a firebomb, except filled with alchemist's frost instead of alchemists' fire.
+When the frostbomb hits its target, it bursts open and deals 3d8 points of frost damage in a 10-foot radius, DC 15 Reflex save for half.
+No damage is dealt on the following round.

@@ -1,0 +1,19 @@
+:: Zavodnoy Cannon, Light ::
+Direct ranged siege weapon
+
+Cost: 4,000 gp
+Ammunition Cost: 5 gp
+Damage: 3d10 bludgeoning
+Critical: x3
+Base Accuracy: +0
+Range Increment: 200 ft.
+Maximum Crew: 2
+Mount: Light
+Aim Actions: 0
+Reload Actions: 0 shot (2 magazine, see text)
+
+A Zavodnoy light cannon is a smaller version of a Zavodnoy heavy cannon, only 5 feet across and weighing 750 pounds.
+It functions identically to its larger counterpart, except that the steam charge builds up in the same round, meaning a normal rate of fire is every round.
+Additionally, it only takes 2 full-round actions to reload a light cannon:
+One action to open the magazine, a DC 10 Profession (siege engineer) check;
+and one action to load in the rounds, a DC 10 Strength check.

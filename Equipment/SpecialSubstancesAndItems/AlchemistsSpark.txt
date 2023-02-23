@@ -2,4 +2,7 @@
 Weight: 1 lb.
 Cost: 15 gp
 
-Alchemist's spark combines two substances that react violently when mixed. A flask has two compartments that keep the substances separate; throwing the flask shatters it allows them to mix, releasing a powerful electric discharge. Otherwise, alchemist's spark functions like alchemist's fire, except it deals 1d8 points of electricity damage on direct hit and 1 point of electricity damage to those it splashes, rather than fire damage. It deals no additional damage after the initial damage.
+Alchemist's spark combines two substances that react violently when mixed.
+A flask has two compartments that keep the substances separate; throwing the flask shatters it allows them to mix, releasing a powerful electric discharge.
+Otherwise, alchemist's spark functions like alchemist's fire, except it deals 1d8 points of electricity damage on direct hit and 1 point of electricity damage to those it splashes, rather than fire damage.
+It deals no additional damage after the initial damage.

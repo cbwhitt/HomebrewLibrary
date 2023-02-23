@@ -369,6 +369,7 @@ Wings of Air
 Air Breathing
 Capricious Zephyr
 Downdraft
+Favorable Wind
 Fly
 Gaseous Form
 
@@ -388,6 +389,7 @@ Wind Tunnel
 
 : Sixth :
 Cloudwalkers
+Stormwalk (clouds only)
 Wind Walk
 
 : Seventh :
@@ -420,6 +422,7 @@ Water Whip
 : Second :
 Delay Poison
 Fog Cloud
+Pressure Sphere
 Remove Paralysis
 Restoration, Lesser
 Swim
@@ -440,6 +443,7 @@ Water Breathing
 Water Walk
 
 : Fourth :
+Control Currents
 Control Water
 Panacea
 Raise from the Deep
@@ -454,6 +458,7 @@ Wall of Water
 : Fifth :
 Cloak of the Sea
 Fireward
+Flowsight
 Vigor, Greater
 
 : Sixth :
@@ -470,6 +475,7 @@ Submerge Ship
 Waterspout
 
 : Eighth :
+Depthsurge
 Maelstrom
 Red Tide
 
@@ -558,6 +564,7 @@ Moonbow
 
 : Sixth :
 Chain Lightning
+Stormwalk (lightning only)
 
 : Seventh :
 Storm Tower
@@ -707,6 +714,7 @@ Stick Fingers
 : Second :
 Acid Arrow
 Blinding Spittle
+Turbidity
 
 : Third :
 Acid Breath
@@ -734,6 +742,7 @@ Slime Wave
 Swamp Lung
 
 : Eighth :
+Red Tide
 
 : Ninth :
 
@@ -1134,6 +1143,7 @@ Summon Nature's Ally III (animals only)
 : Fourth :
 Polymorph (animal creatures only)
 Summon Nature's Ally IV (animals only)
+Thalassemia
 
 : Fifth :
 Animal Growth

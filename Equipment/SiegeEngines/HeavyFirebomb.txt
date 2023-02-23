@@ -1,0 +1,5 @@
+:: Heavy Firebomb ::
+Cost: 100 gp
+
+The heavy firebomb is like the firebomb, except sized for a heavy bombard.
+It functions as a regular firebomb, except that it deals 4d6 points of fire damage in a 15 foot radius upon hitting its target instead.

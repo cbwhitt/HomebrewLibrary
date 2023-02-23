@@ -2,4 +2,5 @@
 Weight: 1 lb.
 Cost: 15 gp
 
-A thin liquid that grows extremely cold when exposed to air, alchemist's frost functions like alchemist's fire, except it deals 1d8 points of cold damage and 1 point of cold damage to those it splashes rather than fire damage. It deals no additional damage after the initial damage.
+A thin liquid that grows extremely cold when exposed to air, alchemist's frost functions like alchemist's fire, except it deals 1d8 points of cold damage and 1 point of cold damage to those it splashes rather than fire damage.
+It deals no additional damage after the initial damage.

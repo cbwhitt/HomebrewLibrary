@@ -1,0 +1,16 @@
+:: Zavodnoy Corvette ::
+	Colossal vehicle (ship)
+	Seaworthiness: +2
+	Shiphandling: +2
+	Speed: Propellers 40 ft (good)
+	Overall AC: -3
+	Hull sections: 24 (sink 6 sections)
+	Section hp: 150 (hardness 10)
+	Section AC: 3
+	Ram: 4d6
+	Mounts: 3 light, 2 heavy
+	Space: 60 ft. by 20 ft.
+	Height: 10 ft. (draft 10 ft.)
+	Complement: 25
+	Watch: 1
+	Cargo: 100 tons (speed propellers 30 ft. if 50 tons or more)

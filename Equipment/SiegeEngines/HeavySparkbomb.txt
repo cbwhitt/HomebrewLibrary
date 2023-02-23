@@ -1,0 +1,5 @@
+:: Heavy Sparkbomb ::
+Cost: 100 gp
+
+A heavy sparkbomb is like a sparkbomb, except sized for a heavy bombard.
+It functions as a regular sparkbomb, except that it deals 4d8 points of electricity damage in a 15 foot radius upon hitting its target instead.

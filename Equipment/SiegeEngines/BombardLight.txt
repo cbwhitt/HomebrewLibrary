@@ -1,0 +1,24 @@
+:: Bombard, Light ::
+Direct ranged siege weapon
+
+Cost: 2,000 gp
+Ammunition Cost: 3 gp
+Damage: 3d10 bludgeoning
+Critical: x3
+Base Accuracy: +0
+Range Increment: 150 ft.
+Maximum Crew: 4
+Mount: Light
+Aim Actions: 1
+Reload Actions: 4
+
+The light bombard--also known as the perier or stone gun--is a relatively short and light piece designed to fire round stone shot with small charges of powder.
+The light bombard takes up a space 5 feet across and weighs 500 pounds.
+
+Four actions to reload the bombard:
+One full-round action and a DC 10 Profession (siege engineer) check to swab out bore;
+one full-round action and DC 15 Profession (siege engineer) check to load powder and wad;
+one full-round action and DC 10 Strength check to load stone shot;
+one full-round action and DC 10 Strength check to tamp the shot.
+
+One full-round action to aim the bombard.

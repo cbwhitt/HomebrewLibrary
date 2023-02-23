@@ -1,0 +1,6 @@
+:: Sparkbomb ::
+Cost: 50 gp
+
+A sparkbomb is like a firebomb, except filled with alchemist's spark instead of alchemists' fire.
+When the sparkbomb hits its target, it bursts open and deals 3d8 points of electricity damage in a 10-foot radius, DC 15 Reflex save for half.
+No damage is dealt on the following round.

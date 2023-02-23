@@ -1,0 +1,5 @@
+:: Heavy Frostbomb ::
+Cost: 100 gp
+
+A heavy frostbomb is like a frostbomb, except sized for a heavy bombard.
+It functions as a regular frostbomb, except that it deals 4d8 points of frost damage in a 15 foot radius upon hitting its target instead.

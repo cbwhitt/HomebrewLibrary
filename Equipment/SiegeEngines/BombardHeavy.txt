@@ -1,0 +1,25 @@
+:: Bombard, Heavy ::
+Direct ranged siege weapon
+
+Cost: 8,000 gp
+Ammunition Cost: 6 gp
+Damage: 6d10 bludgeoning
+Critical: --
+Base Accuracy: -2
+Range Increment: 200 ft.
+Maximum Crew: 8
+Mount: Heavy
+Aim Actions: 2
+Reload Actions: 4
+
+The heavy bombard is sometimes referred to as a basilisk.
+It fires a heavy stone ball with a modest charge of powder.
+The great bombard takes up a space 10 feet across and weighs 2,000 pounds.
+
+Seven actions to reload the bombard:
+One full-round action and a DC 10 Profession (siege engineer) check to swab out bore;
+two full-round actions and DC 15 Profession (siege engineer) check to load powder and wad;
+two full-round actions and DC 10 Strength check to load stone shot;
+two full-round actions and DC 10 Strength check to tamp the shot.
+
+Two full-round actions to aim the bombard.
