@@ -3,17 +3,22 @@
 ::          Aether          ::
 ------------------------------
 : Zeroth :
+Acid Splash
 Compress Ally
 Create Water
 Cure Minor Wounds
 Dancing Lights
 Dawn
 Detect Magic
+Detect Poison
 Disrupt Undead
 Electric Jolt
 Flare
+Know Direction
 Light
 Mending
+Message
+Purify Food and Drink
 Ray of Frost
 Read Magic
 Resistance
@@ -39,6 +44,7 @@ Summon Nature's Ally IV (elementals only)
 
 : Fifth :
 Summon Nature's Ally V (elementals only)
+Plane Shift (elemental planes only)
 
 : Sixth :
 Elemental Body
@@ -52,6 +58,7 @@ Summon Nature's Ally VII (elementals only)
 Summon Nature's Ally VIII (elementals only)
 
 : Ninth :
+Gate (elemental planes only)
 Elemental Swarm
 Summon Elemental
 Summon Nature's Ally IX (elementals only)
@@ -1097,7 +1104,7 @@ Telekinetic Sphere
 
 : Ninth :
 Etherealness
-Gate
+Gate (any elemental plane)
 Sphere of Ultimate Destruction
 Teleportation Circle
 
