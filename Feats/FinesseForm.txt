@@ -1,0 +1,16 @@
+:: Finesse Form ::
+[Fighter]
+
+Choose one type of weapon that does solely piercing or slasing damage. You may now benefit from the Weapon Finesse feat when wielding this weapon.
+
+Prerequisites:
+	Proficiency with selected weapon, Weapon Finesse, fighter level 2nd
+
+Benefit:
+	When wielding the selected weapon, attacks you make with it benefit from the Weapon Finesse feat.
+
+Normal:
+	Only light weapns, rapiers, whips, spiked chains, or other specially designated weapons can benefit from Weapon Finesse.
+
+Special:
+	A fighter may select Finesse Form as one of their fighter bonus feats.
