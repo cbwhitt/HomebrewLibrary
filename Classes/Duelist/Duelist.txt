@@ -28,7 +28,7 @@ Level	:: BAB			:: Saves		:: Special								:: Precise Strike Bonus	::
  20th	:: +20/+15/+10/+5	:: +12  :: +12  :: +6   :: Grace +4, Bonus Feat, Dodge Bonus +4, Duel for Three 		:: +26			::
 
 Class Skills: (4 + Int modifier per level, x4 at 1st level):
-	Balance (Dex), Bluff (Cha), Craft (Int), Climb (Str), Escape Artist (Dex), Jump (Str), Listen (Wis), Perform (Cha), Sense Motive (Wis), Spot (Wis), Swim (Str), and Tumble (Dex)
+	Balance (Dex), Bluff (Cha), Craft (Int), Climb (Str), Escape Artist (Dex), Jump (Str), Knowledge (history) (Int), Knowledge (nobility and royalty) (Int), Knowledge (geography) (Int), Listen (Wis), Perform (Cha), Sense Motive (Wis), Spot (Wis), Swim (Str), and Tumble (Dex)
  
 Weapon and Armor Proficiency:
 	The duelist is proficient with all simple and martial weapons and with the buckler, but not with any other armor or shield.
@@ -61,7 +61,7 @@ Insightful Strike (Ex):
 	At 3rd level, a duelist becomes able to place their blows where they deal greater damage. They apply their Intelligence bonus (if any) as a bonus on damage rolls (in addition to any Strength bonus they may have) with any finesse weapon. Targets immune to critical hits are immune to this ability. A duelist cannot use this ability when wearing medium or heavy armor or when carrying a medium or heavy load.
 
 Grace (Ex):
-	At 4th level, a duelist gains a +2 competence bonus on all Reflex saving throws. At 12th level, this bonus improves to +3, and at 20th level, it improves to +4. This bonus is doubled against attacks and effects produced by a duelist’s Foe. This ability functions for a duelist only when they are wearing no armor, are carrying no more than a light load, and are using no shield other than a buckler.
+	At 4th level, a duelist gains a +2 competence bonus on all Reflex saving throws. At 12th level, this bonus improves to +3, and at 20th level, it improves to +4. This bonus increases by an additional +2 against attacks and effects produced by a duelist’s Foe. This ability functions for a duelist only when they are wearing no armor, are carrying no more than a light load, and are using no shield other than a buckler.
 
 Dodge Bonus (Ex):
 	At 5th level, a duelist becomes more adept at evading attacks from their Foe. They receive a +1 dodge bonus to their AC against attacks made by their Foe. A duelist loses this bonus when wearing medium or heavy armor or when carrying a medium or heavy load.
@@ -96,7 +96,7 @@ Expanded Critical (Ex):
 	At 19th level, this ability improves. A duelist instead entirely ignores immunity to critical hits granted by a creature's type. They may apply the full amount of additional damage when they score such hits.
 
 My Enemy is Your Enemy (Ex):
-	Beginning at 18th level, when fighting their Foe, a duelist’s allies also benefit from the portion of the duelist's abilities that apply specifically to their Foe. Therefore, they receive a +1 bonus on attack rolls against the duelist's Foe, cannot be flanked by or with their Foe, receive a +3 (later +4) bonus on Reflex saves against attacks made by the Foe, grant a +3 (later +4) dodge bonus to AC against attacks made by their foe, do not incur an AC penalty from charging the Foe, gain an additional +1 bonus to attacks again the Foe when flanking the Foe, and deal 1 Constitution damage against the Foe with a successful critical hit. An ally cannot benefit from the bonuses associated with making a precise strike, however, even if they themselves possess that ability. A duelist’s allies need not meet the unarmored and unencumbered criteria to benefit from these abilities, but they cannot benefit from them if the duelist themself does not.
+	Beginning at 18th level, when fighting their Foe, a duelist’s allies also benefit from the portion of the duelist's abilities that apply specifically to their Foe. Therefore, they receive a +1 bonus on attack rolls against the duelist's Foe, cannot be flanked by or with their Foe, receive a +2 bonus on Reflex saves against attacks made by the Foe, grant a +3 (later +4) dodge bonus to AC against attacks made by their Foe, do not incur an AC penalty from charging the Foe, gain an additional +1 bonus to attacks against the Foe when flanking that Foe, and deal 1 Constitution damage against the Foe with a successful critical hit. An ally cannot benefit from the bonuses associated with making a precise strike, however, even if they themselves possess that ability. A duelist’s allies need not meet the unarmored and unencumbered criteria to benefit from these abilities, but they cannot benefit from them if the duelist themself does not.
 
 Duel for Three (Ex):
 	At 20th level, a duelist becomes an absolute master of the dueling art. As a swift action on their turn, they may designate two separate enemies as their Foe, instead of just one. They gain all appropriate bonuses for both enemies.
