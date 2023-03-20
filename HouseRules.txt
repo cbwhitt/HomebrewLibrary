@@ -32,7 +32,7 @@ Death and Dying (from Unearthed Arcana):
 	Stable: A stable character is unconscious. Every hour, a stable character must succeed on a Fortitude save (DC 10, +1 per hour after the first) to remain stable.
 	If the character fails the save, they become dying.
 	If the character succeeds on the save by less than 5, they do not get any worse, but do not improve. They are still stable and unconscious, and must continue to make Fortitude saves every hour.
-	If the character succeeds on the save by 5 or more, they become conscious and has 1 hit point.
+	If the character succeeds on the save by 5 or more, they become conscious and have 1 hit point.
 	Another character can grant a stable character a +2 bonus on their Fortitude save to remain stable by tending to them for at least 10 minutes during the hour between saves and by making a DC 15 Heal check.
 	Dead: A dead character’s soul immediately departs their body.
 

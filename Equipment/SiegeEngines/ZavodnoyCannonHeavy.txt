@@ -10,16 +10,16 @@ Range Increment: 250 ft.
 Maximum Crew: 4
 Mount: Heavy
 Aim Actions: 0
-Reload Actions: 1 shot (or 4 magazine see text)
+Reload Actions: 1 [shot] (or 4 [magazine] see text)
 
 A heavy Zavodnoy cannon is a steam-powered cannon otherwise similar to a bombard, taking up a space 10 feet across and weighing 3000 pounds.
 It is mounted within a mechanical turret that provides up to 360 degrees of full rotation.
 Practically, this is often mechanically limited to prevent a cannon from turning back to fire upon its own vehicle.
-The cannon has a single control station from which most of its functions are commanded.
+The cannon has a single control station from which most of its functions are commanded, including reloading and firing the cannon; as a result, these tasks cannot be accomplished in parallel by multiple people.
 To operate, a heavy Zavodnoy cannon requires some sort of steam power source, such as a boiler; if this power source is disabled, the cannon ceases to function.
 
 A heavy Zavodnoy cannon has three different magazines: a primary magazine that can hold up to 6 rounds, and two accessory magazines that can hold up to 2 rounds apiece.
-Loading a round into the cannon from one of the magazines is a free action and requires a successful DC 15 Profession (siege engineer) check.
+Loading a round into the cannon from one of the magazines is a full-round action and requires a successful DC 15 Profession (siege engineer) check.
 If one fails this check, the loading mechanism becomes jammed, requiring one full-round action and a successful DC 15 Profession (siege engineer) check to clear before proceeding.
 Once a round is loaded, it takes a free action to initiate a steam charge to build up, but this charge takes one round to collect, meaning the cannon can only fire every other round.
 Aiming the cannon is a free action.
