@@ -69,7 +69,7 @@ Table: Elementalist Spells Known
 	Unlike a wizard or cleric, an elementalist need not prepare their spells in advance. They can cast any spell they know at any time, assuming they have not yet used up their spells per day for that spell level. They do not have to decide ahead of time which spells they’ll cast.
 
 Bonus Languages:
-	An elementalist learns the dialect of Primordial corresponding to her Elemental Discipline (Terran for Geomancy, Auran for Aeromancy, Ignan for Pyromancy, Aquan for Hydromancy, Luman for Photomancy, and Noctan for Skotomancy).
+	An elementalist learns the dialect of Primordial corresponding to their Elemental Discipline (Terran for Geomancy, Auran for Aeromancy, Ignan for Pyromancy, Aquan for Hydromancy, Luman for Photomancy, and Noctan for Skotomancy).
 
 Elemental Ally (Su):
 	At 2nd level, an elementalist gains the companionship of a small elemental corresponding to their elemental discipline (an earth elemental for a geomancer, a fire elemental for a pyromancer, and so on). The essence of this elemental resides primarily in its corresponding elemental plane, but lacks concrete form until summoned by the elementalist. An elementalist can summon their elemental ally to their side as a standard action. Their ally may take only a standard action in the turn it is summoned. This summoning lasts for 1 minute per elementalist level, or until dismissed (a free action) at which point the elemental returns to its home plane. This is a supernatural ability, and follows the normal rules for magical summon effects.

@@ -2,7 +2,7 @@
 [Fighter]
 
 Prequisites:
-	13 Int
+	Int 13
 
 Benefit:
 	When you use the attack action or the full attack action in melee, you can take a penalty on your attack roll and add the same number as a dodge bonus to your Armor Class. This number may not exceed your base attack bonus. The changes to attack rolls and Armor Class last until your next action.

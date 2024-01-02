@@ -3,7 +3,7 @@
 Sound paraelementals of all sizes share the following traits:
 -----
 Type: Elemental (Air, Light, Extraplanar)
-Speed: 100 ft. (20 squares)
+Speed: Fly 100 ft. (perfect) (20 squares)
 Special Attacks: Sound mastery, soundscape
 Special Qualities: Sound immunity, elemental traits
 Environment: Paraelemental Plane of Sound

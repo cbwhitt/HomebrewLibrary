@@ -1,5 +1,5 @@
 :: Persistent Harrier ::
-Size/Type: Small Construct
+Size/Type: Small Construct (homunculus)
 Hit Dice: 2d10+10 (21 hp)
 Initiative: +3
 Speed: 40 ft. (8 squares)
