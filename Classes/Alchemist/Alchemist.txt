@@ -59,10 +59,10 @@ Spontaneous Alchemy (Ex):
 Table: Spontaneous Alchemical Items
 :: Level Gained	:: Alchemical Items							::
 :: 1st		:: Tindertwig, Smokestick, Alchemist's Mercy				::
-:: 2nd		:: Sunrod[1], Acid[2], Alchemist's Fire[2], Thunderstone		::
-:: 3rd		:: Flash Pellet, Alcehmist's Spark[2], Alchemist's Frost[2]		::
-:: 5th		:: Tanglefoot Bag, Noxious Smokestick, Antitoxin[1]			::
-:: [1]: Lasts only one minute.								::
+:: 2nd		:: Sunrod [1], Acid [2], Alchemist's Fire [2], Thunderstone		::
+:: 3rd		:: Flash Pellet, Alchemist's Spark [2], Alchemist's Frost [2]		::
+:: 5th		:: Tanglefoot Bag, Noxious Smokestick, Antitoxin [1]			::
+:: [1]: Effect lasts only one minute.							::
 :: [2]: Begining at 4th level, can create as a free action as part of making an attack.	::
 -----
 
